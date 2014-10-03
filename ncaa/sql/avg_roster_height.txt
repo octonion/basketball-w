@@ -1,0 +1,68 @@
+     team_name     | avg_height 
+-------------------+------------
+ Tennessee         |       72.6
+ Ohio St.          |       72.4
+ Duke              |       72.2
+ Utah              |       72.0
+ California        |       71.9
+ Eastern Ill.      |       71.7
+ Harvard           |       71.7
+ Oklahoma          |       71.6
+ Duquesne          |       71.5
+ Utah St.          |       71.5
+ San Diego         |       71.5
+ Butler            |       71.3
+ Lehigh            |       71.2
+ Utah Valley       |       71.2
+ San Diego St.     |       71.1
+ Montana           |       71.1
+ Morgan St.        |       71.1
+ Lafayette         |       70.9
+ Oregon            |       70.9
+ Alabama           |       70.9
+ UTEP              |       70.9
+ Old Dominion      |       70.8
+ CSUN              |       70.8
+ Holy Cross        |       70.8
+ East Carolina     |       70.7
+ Cal Poly          |       70.7
+ Liberty           |       70.6
+ Long Beach St.    |       70.5
+ Oral Roberts      |       70.5
+ Akron             |       70.5
+ Oklahoma St.      |       70.5
+ UTSA              |       70.4
+ Ole Miss          |       70.3
+ Campbell          |       70.2
+ Hartford          |       70.2
+ Omaha             |       70.2
+ Drexel            |       70.2
+ La.-Monroe        |       70.2
+ Montana St.       |       70.1
+ Saint Louis       |       70.0
+ Samford           |       70.0
+ Canisius          |       69.9
+ Temple            |       69.9
+ Hawaii            |       69.8
+ TCU               |       69.8
+ Mt. St. Mary's    |       69.8
+ Tennessee Tech    |       69.8
+ Cal St. Fullerton |       69.7
+ UT Martin         |       69.6
+ High Point        |       69.6
+ Hofstra           |       69.6
+ Sam Houston St.   |       69.4
+ A&M-Corpus Chris  |       69.3
+ Longwood          |       69.3
+ Tennessee St.     |       69.3
+ East Tenn. St.    |       69.2
+ Abilene Christian |       69.1
+ Lamar             |       69.1
+ Lipscomb          |       68.9
+ Morehead St.      |       68.8
+ Tex.-Pan American |       68.7
+ USC Upstate       |       68.6
+ Saint Peter's     |       68.2
+ Air Force         |       67.8
+(64 rows)
+
