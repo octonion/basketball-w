@@ -23,21 +23,12 @@ chmod 777 /tmp/ncaa_team_rosters.csv
 psql basketball-w -f loaders/load_ncaa_team_rosters.sql
 rm /tmp/ncaa_team_rosters.csv
 
-cp csv/ncaa_games_box_scores_mt.csv /tmp/ncaa_games_box_scores.csv
-chmod 777 /tmp/ncaa_games_box_scores.csv
-psql basketball-w -f loaders/load_ncaa_box_scores.sql
-rm /tmp/ncaa_games_box_scores.csv
-
 cp csv/ncaa_games_periods_mt.csv /tmp/ncaa_games_periods.csv
-tail -n +2 csv/ncaa_games_periods_mt_update.csv >> /tmp/ncaa_games_periods.csv
 chmod 777 /tmp/ncaa_games_periods.csv
-rpl -q "[" "{" /tmp/ncaa_games_periods.csv
-rpl -q "]" "}" /tmp/ncaa_games_periods.csv
-psql basketball-w -f loaders/load_ncaa_games_periods.sql
+psql basketball-w -f loaders/load_ncaa_periods.sql
 rm /tmp/ncaa_games_periods.csv
 
 cp csv/ncaa_games_play_by_play_mt.csv /tmp/ncaa_games_play_by_play.csv
-tail -n +2 csv/ncaa_games_play_by_play_mt_update.csv >> /tmp/ncaa_games_play_by_play.csv
 chmod 777 /tmp/ncaa_games_play_by_play.csv
 psql basketball-w -f loaders/load_ncaa_games_play_by_play.sql
 rm /tmp/ncaa_games_play_by_play.csv
