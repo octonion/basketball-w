@@ -18,7 +18,7 @@ base_url = 'http://stats.ncaa.org'
 year = 2014
 division = 1
 
-year_division_url = "http://stats.ncaa.org/team/inst_team_list?sport_code=WBB&academic_year=#{year}&division=#{division}&conf_id=-1&schedule_date="
+year_division_url = "http://stats.ncaa.org/team/inst_team_list?sport_code=MBB&academic_year=#{year}&division=#{division}&conf_id=-1&schedule_date="
 
 valid_url_substring = "team/index/" ##{year_id}?org_id="
 

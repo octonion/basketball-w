@@ -1,14 +1,14 @@
 #!/bin/bash
 
-psql rockets -f mapping/rosters_remove_duplicates.sql
+psql basketball-w -f mapping/rosters_remove_duplicates.sql
 
-psql rockets -f mapping/rosters_manually_load_missing.sql
+psql basketball-w -f mapping/rosters_manually_load_missing.sql
 
-psql rockets -f mapping/rosters_create_name_mappings.sql
+psql basketball-w -f mapping/rosters_create_name_mappings.sql
 
 ./mapping/rosters_create_name_hashes.rb
 
-psql rockets -f mapping/rosters_manually_update_remaps.sql
+psql basketball-w -f mapping/rosters_manually_update_remaps.sql
 
 # Requires the PostgreSQL Levenshtein functionfound in the contributed
 # fuzzystrmatch module
@@ -17,5 +17,5 @@ psql rockets -f mapping/rosters_manually_update_remaps.sql
 # apt-get install postgresql-contrib
 # CREATE EXTENSION fuzzystrmatch;
 
-psql rockets -f mapping/rosters_compute_levenshtein_distances.sql
+psql basketball-w -f mapping/rosters_compute_levenshtein_distances.sql
 

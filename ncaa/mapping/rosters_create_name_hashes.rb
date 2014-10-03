@@ -2,7 +2,7 @@
 
 require 'pg'
 
-conn = PG.connect(dbname: 'rockets')
+conn = PG.connect(dbname: 'basketball-w')
 
 players_sql = "
 select
