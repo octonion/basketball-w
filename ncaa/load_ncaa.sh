@@ -25,7 +25,7 @@ rm /tmp/ncaa_team_rosters.csv
 
 cp csv/ncaa_periods.csv /tmp/ncaa_periods.csv
 chmod 777 /tmp/ncaa_games_periods.csv
-psql basketball-w -f loaders/load_ncaa_periods.sql
+psql basketball-w -f loaders/load_ncaa_games_periods.sql
 rm /tmp/ncaa_games_periods.csv
 
 cp csv/ncaa_games_play_by_play.csv /tmp/ncaa_games_play_by_play.csv
