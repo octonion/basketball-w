@@ -25,7 +25,7 @@ create table ncaa_pbp.box_scores (
        steals					integer,
        blocks					integer,
        fouls					integer
---       primary key (game_id,team_id,player_id) --,player_name)
+--       primary key (game_id,section_id,player_id) --,player_name)
 );
 
 copy ncaa_pbp.box_scores from '/tmp/ncaa_games_box_scores.csv' with delimiter as E'\t' csv header;
