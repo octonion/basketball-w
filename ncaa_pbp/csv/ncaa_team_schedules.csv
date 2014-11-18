@@ -1,0 +1,88 @@
+year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	opponent_url	neutral_site	neutral_location	home_game	score_string	team_won	score	team_score	opponent_score	overtime	overtime_periods	game_id	game_url
+2015	12021	26172	A&M-Corpus Chris	11/14/2014	@ UNLV	465	UNLV	http://stats.ncaa.org/team/index/12021?org_id=465	false		false	L 65 - 77	false	65 - 77	65	77	false		3506732	http://stats.ncaa.org/game/index/3506732?org_id=26172
+2015	12021	26172	A&M-Corpus Chris	11/21/2014	Houston		Houston		false		true	-								
+2015	12021	26172	A&M-Corpus Chris	11/24/2014	@ Rice		Rice		false		false	-								
+2015	12021	26172	A&M-Corpus Chris	11/28/2014	Kent St.@San Luis Obispo, CA		Kent St.San Luis Obispo, CA		false		false	-								
+2015	12021	26172	A&M-Corpus Chris	11/29/2014	@ Cal Poly		Cal Poly		false		false	-								
+2015	12021	26172	A&M-Corpus Chris	12/06/2014	@ Tex.-Pan American		Tex.-Pan American		false		false	-								
+2015	12021	26172	A&M-Corpus Chris	12/13/2014	Texas-Arlington		Texas-Arlington		false		true	-								
+2015	12021	26172	A&M-Corpus Chris	12/15/2014	Tennessee St.		Tennessee St.		false		true	-								
+2015	12021	26172	A&M-Corpus Chris	12/17/2014	Oakland		Oakland		false		true	-								
+2015	12021	26172	A&M-Corpus Chris	12/20/2014	Texas Southern		Texas Southern		false		true	-								
+2015	12021	26172	A&M-Corpus Chris	12/30/2014	Huston-Tillotson		Huston-Tillotson		false		true	-								
+2015	12021	26172	A&M-Corpus Chris	01/06/2015	@ Central Ark.		Central Ark.		false		false	-								
+2015	12021	26172	A&M-Corpus Chris	01/08/2015	Lamar		Lamar		false		true	-								
+2015	12021	26172	A&M-Corpus Chris	01/10/2015	McNeese St.		McNeese St.		false		true	-								
+2015	12021	26172	A&M-Corpus Chris	01/14/2015	Northwestern St.		Northwestern St.		false		true	-								
+2015	12021	26172	A&M-Corpus Chris	01/17/2015	@ Nicholls St.		Nicholls St.		false		false	-								
+2015	12021	26172	A&M-Corpus Chris	01/22/2015	@ Southeastern La.		Southeastern La.		false		false	-								
+2015	12021	26172	A&M-Corpus Chris	01/24/2015	@ New Orleans		New Orleans		false		false	-								
+2015	12021	26172	A&M-Corpus Chris	01/29/2015	Incarnate Word		Incarnate Word		false		true	-								
+2015	12021	26172	A&M-Corpus Chris	01/31/2015	@ Stephen F. Austin		Stephen F. Austin		false		false	-								
+2015	12021	26172	A&M-Corpus Chris	02/05/2015	@ Houston Baptist		Houston Baptist		false		false	-								
+2015	12021	26172	A&M-Corpus Chris	02/07/2015	@ Sam Houston St.		Sam Houston St.		false		false	-								
+2015	12021	26172	A&M-Corpus Chris	02/12/2015	New Orleans		New Orleans		false		true	-								
+2015	12021	26172	A&M-Corpus Chris	02/14/2015	Stephen F. Austin		Stephen F. Austin		false		true	-								
+2015	12021	26172	A&M-Corpus Chris	02/18/2015	@ Abilene Christian		Abilene Christian		false		false	-								
+2015	12021	26172	A&M-Corpus Chris	02/21/2015	@ Incarnate Word		Incarnate Word		false		false	-								
+2015	12021	26172	A&M-Corpus Chris	02/28/2015	Sam Houston St.		Sam Houston St.		false		true	-								
+2015	12021	26172	A&M-Corpus Chris	03/05/2015	Houston Baptist		Houston Baptist		false		true	-								
+2015	12021	26172	A&M-Corpus Chris	03/07/2015	Abilene Christian		Abilene Christian		false		true	-								
+2015	12021	2	Abilene Christian	11/15/2014	Wayland Baptist		Wayland Baptist		false		true	W 91 - 64	true	91 - 64	91	64	false		3508417	http://stats.ncaa.org/game/index/3508417?org_id=2
+2015	12021	2	Abilene Christian	11/17/2014	Howard Payne		Howard Payne		false		true	-								
+2015	12021	2	Abilene Christian	11/19/2014	@ UTSA		UTSA		false		false	-								
+2015	12021	2	Abilene Christian	11/24/2014	Eastern Wash.		Eastern Wash.		false		true	-								
+2015	12021	2	Abilene Christian	11/28/2014	George Mason@Kansas City, MO		George MasonKansas City, MO		false		false	-								
+2015	12021	2	Abilene Christian	11/29/2014	@ UMKC		UMKC		false		false	-								
+2015	12021	2	Abilene Christian	12/03/2014	@ Texas Tech		Texas Tech		false		false	-								
+2015	12021	2	Abilene Christian	12/15/2014	Southwestern Christ.		Southwestern Christ.		false		true	-								
+2015	12021	2	Abilene Christian	12/20/2014	Air Force		Air Force		false		true	-								
+2015	12021	2	Abilene Christian	12/22/2014	@ Kansas St.		Kansas St.		false		false	-								
+2015	12021	2	Abilene Christian	12/31/2014	Angelo St.		Angelo St.		false		true	-								
+2015	12021	2	Abilene Christian	01/03/2015	Central Ark.		Central Ark.		false		true	-								
+2015	12021	2	Abilene Christian	01/07/2015	@ Northwestern St.		Northwestern St.		false		false	-								
+2015	12021	2	Abilene Christian	01/11/2015	Nicholls St.		Nicholls St.		false		true	-								
+2015	12021	2	Abilene Christian	01/14/2015	@ McNeese St.		McNeese St.		false		false	-								
+2015	12021	2	Abilene Christian	01/17/2015	Stephen F. Austin		Stephen F. Austin		false		true	-								
+2015	12021	2	Abilene Christian	01/22/2015	Sam Houston St.		Sam Houston St.		false		true	-								
+2015	12021	2	Abilene Christian	01/24/2015	Incarnate Word		Incarnate Word		false		true	-								
+2015	12021	2	Abilene Christian	01/29/2015	@ Houston Baptist		Houston Baptist		false		false	-								
+2015	12021	2	Abilene Christian	01/31/2015	@ Lamar		Lamar		false		false	-								
+2015	12021	2	Abilene Christian	02/05/2015	Lamar		Lamar		false		true	-								
+2015	12021	2	Abilene Christian	02/07/2015	Southeastern La.		Southeastern La.		false		true	-								
+2015	12021	2	Abilene Christian	02/12/2015	@ Sam Houston St.		Sam Houston St.		false		false	-								
+2015	12021	2	Abilene Christian	02/18/2015	A&M-Corpus Chris		A&M-Corpus Chris		false		true	-								
+2015	12021	2	Abilene Christian	02/21/2015	@ Southeastern La.		Southeastern La.		false		false	-								
+2015	12021	2	Abilene Christian	02/25/2015	Houston Baptist		Houston Baptist		false		true	-								
+2015	12021	2	Abilene Christian	02/28/2015	@ New Orleans		New Orleans		false		false	-								
+2015	12021	2	Abilene Christian	03/05/2015	@ Incarnate Word		Incarnate Word		false		false	-								
+2015	12021	2	Abilene Christian	03/07/2015	@ A&M-Corpus Chris		A&M-Corpus Chris		false		false	-								
+2015	12021	721	Air Force	11/14/2014	@ Bakersfield	94	Bakersfield	http://stats.ncaa.org/team/index/12021?org_id=94	false		false	L 56 - 96	false	56 - 96	56	96	false		3507486	http://stats.ncaa.org/game/index/3507486?org_id=94
+2015	12021	721	Air Force	11/17/2014	Omaha		Omaha		false		true	-								
+2015	12021	721	Air Force	11/20/2014	Weber St.		Weber St.		false		true	-								
+2015	12021	721	Air Force	11/23/2014	@ SIUE		SIUE		false		false	-								
+2015	12021	721	Air Force	11/25/2014	@ Army		Army		false		false	-								
+2015	12021	721	Air Force	12/02/2014	@ Northern Colo.		Northern Colo.		false		false	-								
+2015	12021	721	Air Force	12/05/2014	Southern Utah		Southern Utah		false		true	-								
+2015	12021	721	Air Force	12/06/2014	Santa Clara		Santa Clara		false		true	-								
+2015	12021	721	Air Force	12/08/2014	@ Denver		Denver		false		false	-								
+2015	12021	721	Air Force	12/11/2014	@ Utah Valley		Utah Valley		false		false	-								
+2015	12021	721	Air Force	12/20/2014	@ Abilene Christian		Abilene Christian		false		false	-								
+2015	12021	721	Air Force	12/31/2014	San Diego St.		San Diego St.		false		true	-								
+2015	12021	721	Air Force	01/03/2015	Nevada		Nevada		false		true	-								
+2015	12021	721	Air Force	01/07/2015	@ San Jose St.		San Jose St.		false		false	-								
+2015	12021	721	Air Force	01/10/2015	@ Colorado St.		Colorado St.		false		false	-								
+2015	12021	721	Air Force	01/14/2015	New Mexico		New Mexico		false		true	-								
+2015	12021	721	Air Force	01/17/2015	Utah St.		Utah St.		false		true	-								
+2015	12021	721	Air Force	01/21/2015	@ San Diego St.		San Diego St.		false		false	-								
+2015	12021	721	Air Force	01/24/2015	@ Boise St.		Boise St.		false		false	-								
+2015	12021	721	Air Force	01/28/2015	San Jose St.		San Jose St.		false		true	-								
+2015	12021	721	Air Force	01/31/2015	UNLV		UNLV		false		true	-								
+2015	12021	721	Air Force	02/04/2015	@ New Mexico		New Mexico		false		false	-								
+2015	12021	721	Air Force	02/07/2015	@ Wyoming		Wyoming		false		false	-								
+2015	12021	721	Air Force	02/11/2015	Boise St.		Boise St.		false		true	-								
+2015	12021	721	Air Force	02/14/2015	@ UNLV		UNLV		false		false	-								
+2015	12021	721	Air Force	02/21/2015	Colorado St.		Colorado St.		false		true	-								
+2015	12021	721	Air Force	02/25/2015	@ Nevada		Nevada		false		false	-								
+2015	12021	721	Air Force	02/28/2015	@ Utah St.		Utah St.		false		false	-								
+2015	12021	721	Air Force	03/03/2015	Fresno St.		Fresno St.		false		true	-								
