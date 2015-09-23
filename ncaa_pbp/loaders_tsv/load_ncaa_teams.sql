@@ -11,6 +11,6 @@ create table ncaa_pbp.teams (
 	primary key (year_id,team_id)
 );
 
-copy ncaa_pbp.teams from '/tmp/ncaa_teams.tsv' with delimiter as E'\t' csv header;
+copy ncaa_pbp.teams from '/tmp/ncaa_teams.tsv' with delimiter as E'\t' csv;
 
 commit;

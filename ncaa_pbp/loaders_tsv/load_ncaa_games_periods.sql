@@ -13,6 +13,6 @@ create table ncaa_pbp.periods (
 
 --truncate table ncaa_pbp.periods;
 
-copy ncaa_pbp.periods from '/tmp/ncaa_games_periods.tsv' with delimiter as E'\t' csv header;
+copy ncaa_pbp.periods from '/tmp/ncaa_games_periods.tsv' with delimiter as E'\t' csv;
 
 commit;

@@ -22,7 +22,7 @@ create table ncaa_pbp.play_by_play (
 
 --truncate table ncaa_pbp.play_by_play;
 
-copy ncaa_pbp.play_by_play from '/tmp/ncaa_games_play_by_play.tsv' with delimiter as E'\t' csv header;
+copy ncaa_pbp.play_by_play from '/tmp/ncaa_games_play_by_play.tsv' with delimiter as E'\t' csv;
 
 /*
 delete from ncaa_pbp.pbp where game_id=1380752;

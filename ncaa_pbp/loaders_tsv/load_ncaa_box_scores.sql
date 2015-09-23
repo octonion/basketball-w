@@ -28,6 +28,6 @@ create table ncaa_pbp.box_scores (
 --       primary key (game_id,section_id,player_id) --,player_name)
 );
 
-copy ncaa_pbp.box_scores from '/tmp/ncaa_games_box_scores.tsv' with delimiter as E'\t' csv header;
+copy ncaa_pbp.box_scores from '/tmp/ncaa_games_box_scores.tsv' with delimiter as E'\t' csv;
 
 commit;

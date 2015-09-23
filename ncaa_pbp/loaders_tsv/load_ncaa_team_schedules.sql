@@ -18,6 +18,7 @@ create table ncaa_pbp.team_schedules (
 	score_string	      text,
 	team_won	      boolean,
 	score		      text,
+	exempt		      boolean,
 	team_score	      integer,
 	opponent_score	      integer,
 	overtime	      boolean,
@@ -28,7 +29,7 @@ create table ncaa_pbp.team_schedules (
 
 truncate table ncaa_pbp.team_schedules;
 
-copy ncaa_pbp.team_schedules from '/tmp/ncaa_team_schedules.tsv' with delimiter as E'\t' csv header;
+copy ncaa_pbp.team_schedules from '/tmp/ncaa_team_schedules.tsv' with delimiter as E'\t' csv;
 
 --alter table ncaa.games add column game_id serial primary key;
 

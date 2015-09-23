@@ -15,7 +15,7 @@ tail -q -n+2 tsv/ncaa_teams_*.tsv >> /tmp/ncaa_teams.tsv
 psql basketball-w -f loaders_tsv/load_ncaa_teams.sql
 rm /tmp/ncaa_teams.tsv
 
-tail -q -n+2 tsv/ncaa_team_schedules_mt_2015_1.tsv >> /tmp/ncaa_team_schedules.tsv
+tail -q -n+2 tsv/ncaa_team_schedules_mt_*.tsv >> /tmp/ncaa_team_schedules.tsv
 psql basketball-w -f loaders_tsv/load_ncaa_team_schedules.sql
 rm /tmp/ncaa_team_schedules.tsv
 

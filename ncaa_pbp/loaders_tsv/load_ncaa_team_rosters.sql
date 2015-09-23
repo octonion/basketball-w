@@ -18,7 +18,7 @@ create table ncaa_pbp.team_rosters (
 	game_started	      integer
 );
 
-copy ncaa_pbp.team_rosters from '/tmp/ncaa_team_rosters.tsv' with delimiter as E'\t' csv header;
+copy ncaa_pbp.team_rosters from '/tmp/ncaa_team_rosters.tsv' with delimiter as E'\t' csv;
 
 alter table ncaa_pbp.team_rosters add column ncaa_id integer;
 
