@@ -1,0 +1,97 @@
+[1] 825310      9
+[1] TRUE
+[1] 825310      8
+Linear mixed model fit by REML ['lmerMod']
+Formula: log_ps ~ year + field + d_div + o_div + game_length + (1 | offense) +  
+    (1 | defense) + (1 | game_id)
+   Data: g
+REML criterion at convergence: -698856
+Random effects:
+ Groups   Name        Std.Dev.
+ game_id  (Intercept) 0.0803  
+ defense  (Intercept) 0.1171  
+ offense  (Intercept) 0.1482  
+ Residual             0.1276  
+Number of obs: 825310, groups:  game_id, 412655; defense, 15844; offense, 15844
+Fixed Effects:
+      (Intercept)              year1              year2              year3  
+        4.1253785          0.0109802          0.0090825          0.0017961  
+            year4              year5              year6              year7  
+       -0.0108095          0.0008596         -0.0011405          0.0015528  
+            year8              year9             year10             year11  
+       -0.0020045         -0.0020142         -0.0071091         -0.0215344  
+           year12             year13             year14  fielddefense_home  
+       -0.0300291          0.0424882          0.0059978         -0.0199214  
+fieldoffense_home             d_div2             d_div3             o_div2  
+        0.0319233          0.1725227          0.3173604         -0.1449245  
+           o_div3    game_length1 OT    game_length2 OT    game_length3 OT  
+       -0.3534267          0.1183577          0.1990661          0.3344991  
+  game_length4 OT    game_length5 OT  
+        0.4220709          0.4360493  
+Linear mixed model fit by REML ['lmerMod']
+Formula: log_ps ~ year + field + d_div + o_div + game_length + (1 | offense) +  
+    (1 | defense) + (1 | game_id)
+   Data: g
+Control: lmerControl(optimizer = "nloptwrap")
+
+REML criterion at convergence: -698856
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-9.9647 -0.5283  0.0473  0.5838  5.5726 
+
+Random effects:
+ Groups   Name        Variance Std.Dev.
+ game_id  (Intercept) 0.006447 0.0803  
+ defense  (Intercept) 0.013719 0.1171  
+ offense  (Intercept) 0.021976 0.1482  
+ Residual             0.016286 0.1276  
+Number of obs: 825310, groups:  game_id, 412655; defense, 15844; offense, 15844
+
+Fixed effects:
+                    Estimate Std. Error t value
+(Intercept)        4.1253785  0.0027465  1502.0
+year1              0.0109802  0.0058075     1.9
+year2              0.0090825  0.0057726     1.6
+year3              0.0017961  0.0057769     0.3
+year4             -0.0108095  0.0057702    -1.9
+year5              0.0008596  0.0057371     0.1
+year6             -0.0011405  0.0057248    -0.2
+year7              0.0015528  0.0057112     0.3
+year8             -0.0020045  0.0056554    -0.4
+year9             -0.0020142  0.0056339    -0.4
+year10            -0.0071091  0.0056170    -1.3
+year11            -0.0215344  0.0056161    -3.8
+year12            -0.0300291  0.0055820    -5.4
+year13             0.0424882  0.0055852     7.6
+year14             0.0059978  0.0055675     1.1
+fielddefense_home -0.0199214  0.0007072   -28.2
+fieldoffense_home  0.0319233  0.0007072    45.1
+d_div2             0.1725227  0.0032866    52.5
+d_div3             0.3173604  0.0036532    86.9
+o_div2            -0.1449245  0.0037870   -38.3
+o_div3            -0.3534267  0.0040313   -87.7
+game_length1 OT    0.1183577  0.0010800   109.6
+game_length2 OT    0.1990661  0.0027181    73.2
+game_length3 OT    0.3344991  0.0079253    42.2
+game_length4 OT    0.4220709  0.0192792    21.9
+game_length5 OT    0.4360493  0.0511576     8.5
+Analysis of Variance Table
+            Df Sum Sq Mean Sq    F value
+year        14   1.78   0.127     7.8209
+field        2 516.34 258.169 15852.1010
+d_div        2  34.15  17.077  1048.5376
+o_div        2 127.28  63.640  3907.6003
+game_length  5 315.92  63.185  3879.6632
+[1] TRUE
+[1] 2.077397e-12
+[1] 1.796362e-17
+[1] 5.296073e-11
+          0%           5%          10%          15%          20%          25% 
+3.807793e-30 3.184739e-23 7.448149e-22 7.310108e-21 4.604921e-20 1.565908e-19 
+         30%          35%          40%          45%          50%          55% 
+4.127527e-19 1.022599e-18 3.333321e-18 6.715360e-18 1.796362e-17 3.469220e-17 
+         60%          65%          70%          75%          80%          85% 
+6.801551e-17 1.604049e-16 3.943962e-16 8.349334e-16 2.268927e-15 6.850584e-15 
+         90%          95%         100% 
+2.253112e-14 1.300759e-13 1.667615e-09 

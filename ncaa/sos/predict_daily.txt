@@ -1,0 +1,8 @@
+BEGIN
+SET
+ date | site | home | div | score | away | div | score 
+------+------+------+-----+-------+------+-----+-------
+(0 rows)
+
+COPY 0
+COMMIT
