@@ -1,8 +1,14 @@
 BEGIN
 SET
- date | site | home | div | score | away | div | score 
-------+------+------+-----+-------+------+-----+-------
-(0 rows)
+    date    |  site   |       home       | div | score |       away        | div | score 
+------------+---------+------------------+-----+-------+-------------------+-----+-------
+ 2016-03-22 | neutral | Alas. Anchorage  |   2 |  73.4 | Francis Marion    |   2 |  57.4
+ 2016-03-22 | neutral | Bentley          |   2 |  71.8 | Virginia Union    |   2 |  76.9
+ 2016-03-22 | neutral | Fla. Southern    |   2 |  59.6 | Lubbock Christian |   2 |  78.0
+ 2016-03-22 | neutral | Grand Valley St. |   2 |  66.3 | Pittsburg St.     |   2 |  65.7
+ 2016-03-22 | home    | Hofstra          |   1 |  61.5 | Virginia          |   1 |  60.2
+ 2016-03-22 | home    | Michigan         |   1 |  74.3 | San Diego         |   1 |  63.7
+(6 rows)
 
-COPY 0
+COPY 6
 COMMIT

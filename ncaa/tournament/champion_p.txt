@@ -1,71 +1,23 @@
 BEGIN
-    school_name    |   p   
--------------------+-------
- UConn             | 0.885
- Baylor            | 0.031
- Notre Dame        | 0.026
- Maryland          | 0.025
- South Carolina    | 0.014
- Oregon St.        | 0.005
- Florida St.       | 0.003
- Texas             | 0.002
- Ohio St.          | 0.002
- Stanford          | 0.002
- Arizona St.       | 0.001
- Kentucky          | 0.001
- UCLA              | 0.001
- Iona              | 0.000
- West Virginia     | 0.000
- Central Ark.      | 0.000
- UNC Asheville     | 0.000
- George Washington | 0.000
- BYU               | 0.000
- Princeton         | 0.000
- Mississippi St.   | 0.000
- Hawaii            | 0.000
- Missouri St.      | 0.000
- Alabama St.       | 0.000
- Green Bay         | 0.000
- Kansas St.        | 0.000
- Oklahoma St.      | 0.000
- Auburn            | 0.000
- Purdue            | 0.000
- Belmont           | 0.000
- Washington        | 0.000
- Texas A&M         | 0.000
- Miami (FL)        | 0.000
- Michigan St.      | 0.000
- Seton Hall        | 0.000
- DePaul            | 0.000
- St. John's (NY)   | 0.000
- Syracuse          | 0.000
- Duquesne          | 0.000
- Chattanooga       | 0.000
- James Madison     | 0.000
- Georgia           | 0.000
- Florida           | 0.000
- Tennessee         | 0.000
- San Francisco     | 0.000
- Indiana           | 0.000
- Middle Tenn.      | 0.000
- Idaho             | 0.000
- Troy              | 0.000
- N.C. AT&T         | 0.000
- Colorado St.      | 0.000
- South Fla.        | 0.000
- Penn              | 0.000
- Albany            | 0.000
- Jacksonville      | 0.000
- New Mexico St.    | 0.000
- Oklahoma          | 0.000
- Robert Morris     | 0.000
- Buffalo           | 0.000
- Missouri          | 0.000
- St. Bonaventure   | 0.000
- South Dakota St.  | 0.000
- Army West Point   | 0.000
- Louisville        | 0.000
-(64 rows)
+   school_name   |   p   
+-----------------+-------
+ UConn           | 0.875
+ Baylor          | 0.043
+ South Carolina  | 0.032
+ Notre Dame      | 0.024
+ Oregon St.      | 0.007
+ Kentucky        | 0.006
+ Stanford        | 0.004
+ Texas           | 0.002
+ Florida St.     | 0.002
+ Ohio St.        | 0.002
+ UCLA            | 0.001
+ DePaul          | 0.001
+ Syracuse        | 0.001
+ Washington      | 0.000
+ Mississippi St. | 0.000
+ Tennessee       | 0.000
+(16 rows)
 
-COPY 64
+COPY 16
 COMMIT

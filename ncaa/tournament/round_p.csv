@@ -1,385 +1,65 @@
 rd,name,p
-2,UConn,1.000
-2,Texas,0.999
-2,Notre Dame,0.998
-2,Oregon St.,0.994
-2,Maryland,0.990
-2,Kentucky,0.988
-2,Baylor,0.986
-2,Ohio St.,0.985
-2,South Carolina,0.977
-2,Louisville,0.976
-2,Stanford,0.967
-2,Arizona St.,0.963
-2,Florida St.,0.955
-2,Michigan St.,0.954
-2,UCLA,0.954
-2,Mississippi St.,0.950
-2,Texas A&M,0.930
-2,Syracuse,0.793
-2,South Fla.,0.790
-2,DePaul,0.760
-2,Washington,0.747
-2,Missouri,0.729
-2,Miami (FL),0.719
-2,Georgia,0.716
-2,Oklahoma St.,0.707
-2,St. John's (NY),0.627
-2,Oklahoma,0.592
-2,Florida,0.581
-2,West Virginia,0.580
-2,Seton Hall,0.577
-2,Tennessee,0.551
-2,Kansas St.,0.500
-2,George Washington,0.500
-2,Green Bay,0.449
-2,Duquesne,0.423
-2,Princeton,0.420
-2,Albany,0.419
-2,Purdue,0.408
-2,Auburn,0.373
-2,St. Bonaventure,0.293
-2,Indiana,0.284
-2,South Dakota St.,0.281
-2,BYU,0.271
-2,Penn,0.253
-2,James Madison,0.240
-2,Colorado St.,0.210
-2,Army West Point,0.207
-2,Missouri St.,0.070
-2,Chattanooga,0.050
-2,Hawaii,0.046
-2,Belmont,0.046
-2,Middle Tenn.,0.045
-2,New Mexico St.,0.037
-2,San Francisco,0.033
-2,Central Ark.,0.024
-2,Jacksonville,0.023
-2,Buffalo,0.015
-2,Idaho,0.014
-2,UNC Asheville,0.012
-2,Iona,0.010
-2,Troy,0.006
-2,N.C. AT&T,0.002
-2,Alabama St.,0.001
-2,Robert Morris,0.000
-3,UConn,0.997
-3,Baylor,0.946
-3,Maryland,0.903
-3,South Carolina,0.901
-3,Notre Dame,0.882
-3,Oregon St.,0.863
-3,Texas,0.814
-3,Stanford,0.757
-3,Kentucky,0.732
-3,Ohio St.,0.694
-3,Florida St.,0.691
-3,Arizona St.,0.641
-3,UCLA,0.613
-3,Syracuse,0.549
-3,Michigan St.,0.536
-3,Louisville,0.480
-3,Mississippi St.,0.457
-3,DePaul,0.444
-3,South Fla.,0.343
-3,Texas A&M,0.299
-3,Florida,0.235
-3,Tennessee,0.207
-3,Miami (FL),0.200
-3,West Virginia,0.193
-3,Oklahoma,0.176
-3,Missouri,0.160
-3,Green Bay,0.149
-3,Albany,0.140
-3,Oklahoma St.,0.115
-3,Princeton,0.113
-3,Georgia,0.101
-3,Purdue,0.092
-3,Washington,0.084
-3,Army West Point,0.077
-3,James Madison,0.076
-3,George Washington,0.047
-3,Kansas St.,0.047
-3,South Dakota St.,0.040
-3,Colorado St.,0.039
-3,St. John's (NY),0.036
-3,BYU,0.026
-3,St. Bonaventure,0.022
-3,Indiana,0.018
-3,Auburn,0.014
-3,Penn,0.012
-3,Middle Tenn.,0.006
-3,Jacksonville,0.005
-3,Idaho,0.004
-3,Belmont,0.004
-3,Hawaii,0.004
-3,San Francisco,0.004
-3,New Mexico St.,0.003
-3,Missouri St.,0.003
-3,Chattanooga,0.003
-3,Seton Hall,0.002
-3,Iona,0.001
-3,Central Ark.,0.001
-3,Duquesne,0.001
-3,Buffalo,0.001
-3,UNC Asheville,0.000
-3,Robert Morris,0.000
-3,Troy,0.000
-3,N.C. AT&T,0.000
-3,Alabama St.,0.000
-4,UConn,0.984
-4,South Carolina,0.741
-4,Maryland,0.708
-4,Baylor,0.706
-4,Notre Dame,0.690
-4,Oregon St.,0.625
-4,Texas,0.510
-4,Ohio St.,0.421
-4,Arizona St.,0.329
-4,UCLA,0.292
-4,Stanford,0.235
+4,UConn,0.987
+4,South Carolina,0.800
+4,Baylor,0.769
+4,Kentucky,0.719
+4,Oregon St.,0.688
+4,Notre Dame,0.675
+4,Ohio St.,0.625
+4,Texas,0.591
+4,UCLA,0.409
+4,Tennessee,0.375
+4,Stanford,0.325
+4,DePaul,0.312
+4,Washington,0.281
 4,Florida St.,0.231
-4,Kentucky,0.223
-4,DePaul,0.168
-4,Syracuse,0.157
-4,Louisville,0.151
-4,South Fla.,0.135
-4,West Virginia,0.083
-4,Tennessee,0.077
-4,Texas A&M,0.056
-4,Missouri,0.053
-4,Green Bay,0.049
-4,Florida,0.043
-4,Princeton,0.040
-4,Oklahoma St.,0.039
-4,Georgia,0.039
-4,Oklahoma,0.029
-4,Miami (FL),0.029
-4,Washington,0.027
-4,Albany,0.020
-4,George Washington,0.015
-4,Kansas St.,0.014
-4,James Madison,0.013
-4,Purdue,0.012
-4,Army West Point,0.009
-4,Michigan St.,0.009
-4,Mississippi St.,0.007
-4,Colorado St.,0.006
-4,St. John's (NY),0.005
-4,Indiana,0.004
-4,BYU,0.004
-4,St. Bonaventure,0.004
-4,South Dakota St.,0.003
-4,Penn,0.002
-4,Auburn,0.001
-4,Seton Hall,0.001
-4,Jacksonville,0.001
-4,Hawaii,0.000
-4,Belmont,0.000
-4,Duquesne,0.000
-4,Chattanooga,0.000
-4,San Francisco,0.000
-4,Middle Tenn.,0.000
-4,Idaho,0.000
-4,Troy,0.000
-4,N.C. AT&T,0.000
-4,New Mexico St.,0.000
-4,Robert Morris,0.000
-4,Buffalo,0.000
-4,Iona,0.000
-4,Central Ark.,0.000
-4,UNC Asheville,0.000
-4,Missouri St.,0.000
-4,Alabama St.,0.000
-5,UConn,0.967
-5,Baylor,0.533
-5,South Carolina,0.524
-5,Maryland,0.409
-5,Notre Dame,0.407
-5,Oregon St.,0.238
-5,Ohio St.,0.186
-5,Florida St.,0.134
-5,Arizona St.,0.132
-5,Stanford,0.083
-5,Kentucky,0.076
-5,Syracuse,0.067
-5,DePaul,0.039
-5,Louisville,0.028
-5,West Virginia,0.024
-5,Tennessee,0.022
-5,Texas A&M,0.021
-5,Texas,0.015
-5,Florida,0.012
-5,Green Bay,0.012
-5,Princeton,0.010
-5,Georgia,0.008
-5,UCLA,0.007
-5,Miami (FL),0.005
-5,Oklahoma,0.005
-5,Oklahoma St.,0.004
-5,Albany,0.004
-5,Washington,0.004
-5,Michigan St.,0.004
-5,Kansas St.,0.003
-5,Mississippi St.,0.003
-5,George Washington,0.003
-5,South Fla.,0.002
-5,Purdue,0.002
-5,James Madison,0.001
-5,Army West Point,0.001
-5,St. John's (NY),0.001
-5,Missouri,0.001
-5,Hawaii,0.000
-5,San Francisco,0.000
-5,Central Ark.,0.000
-5,Buffalo,0.000
-5,South Dakota St.,0.000
-5,Duquesne,0.000
-5,Alabama St.,0.000
-5,St. Bonaventure,0.000
-5,New Mexico St.,0.000
-5,Auburn,0.000
-5,Belmont,0.000
-5,UNC Asheville,0.000
-5,Idaho,0.000
-5,Indiana,0.000
-5,Middle Tenn.,0.000
-5,N.C. AT&T,0.000
-5,Iona,0.000
-5,Troy,0.000
-5,Missouri St.,0.000
-5,Chattanooga,0.000
-5,BYU,0.000
-5,Seton Hall,0.000
-5,Robert Morris,0.000
-5,Penn,0.000
-5,Jacksonville,0.000
-5,Colorado St.,0.000
-6,UConn,0.922
-6,Notre Dame,0.289
-6,Maryland,0.287
-6,South Carolina,0.227
-6,Ohio St.,0.056
-6,Baylor,0.048
-6,Stanford,0.039
-6,Kentucky,0.035
-6,Arizona St.,0.034
-6,Syracuse,0.013
-6,Oregon St.,0.012
-6,Florida St.,0.007
+4,Syracuse,0.200
+4,Mississippi St.,0.013
+5,UConn,0.968
+5,South Carolina,0.632
+5,Baylor,0.577
+5,Notre Dame,0.487
+5,Kentucky,0.274
+5,Oregon St.,0.246
+5,Ohio St.,0.190
+5,Stanford,0.183
+5,Florida St.,0.112
+5,Syracuse,0.098
+5,Tennessee,0.080
+5,DePaul,0.065
+5,Washington,0.056
+5,Texas,0.018
+5,UCLA,0.009
+5,Mississippi St.,0.005
+6,UConn,0.910
+6,South Carolina,0.383
+6,Notre Dame,0.292
+6,Kentucky,0.119
+6,Stanford,0.080
+6,Ohio St.,0.065
+6,Baylor,0.061
+6,Syracuse,0.028
+6,Tennessee,0.019
+6,Oregon St.,0.014
+6,Washington,0.014
 6,Texas,0.005
-6,Tennessee,0.004
-6,West Virginia,0.004
-6,Georgia,0.003
-6,Green Bay,0.002
+6,Florida St.,0.005
 6,UCLA,0.002
-6,Miami (FL),0.001
-6,Washington,0.001
+6,DePaul,0.002
 6,Mississippi St.,0.001
-6,Florida,0.001
-6,Louisville,0.001
-6,Michigan St.,0.001
-6,DePaul,0.001
-6,Texas A&M,0.001
-6,Princeton,0.001
-6,Oklahoma,0.001
-6,St. Bonaventure,0.000
-6,South Dakota St.,0.000
-6,Army West Point,0.000
-6,Buffalo,0.000
-6,Robert Morris,0.000
-6,New Mexico St.,0.000
-6,San Francisco,0.000
-6,Seton Hall,0.000
-6,Indiana,0.000
-6,Auburn,0.000
-6,Purdue,0.000
-6,Belmont,0.000
-6,Kansas St.,0.000
-6,Oklahoma St.,0.000
-6,Alabama St.,0.000
-6,Hawaii,0.000
-6,Missouri St.,0.000
-6,BYU,0.000
-6,George Washington,0.000
-6,Idaho,0.000
-6,UNC Asheville,0.000
-6,Iona,0.000
-6,Central Ark.,0.000
-6,Missouri,0.000
-6,Albany,0.000
-6,Jacksonville,0.000
-6,Troy,0.000
-6,Penn,0.000
-6,N.C. AT&T,0.000
-6,Colorado St.,0.000
-6,South Fla.,0.000
-6,James Madison,0.000
-6,Chattanooga,0.000
-6,Duquesne,0.000
-6,St. John's (NY),0.000
-6,Middle Tenn.,0.000
-7,UConn,0.885
-7,Baylor,0.031
-7,Notre Dame,0.026
-7,Maryland,0.025
-7,South Carolina,0.014
-7,Oregon St.,0.005
-7,Florida St.,0.003
-7,Stanford,0.002
-7,Ohio St.,0.002
+7,UConn,0.875
+7,Baylor,0.043
+7,South Carolina,0.032
+7,Notre Dame,0.024
+7,Oregon St.,0.007
+7,Kentucky,0.006
+7,Stanford,0.004
+7,Florida St.,0.002
 7,Texas,0.002
+7,Ohio St.,0.002
+7,DePaul,0.001
 7,UCLA,0.001
-7,Kentucky,0.001
-7,Arizona St.,0.001
-7,South Fla.,0.000
-7,Colorado St.,0.000
-7,Penn,0.000
-7,Albany,0.000
-7,Jacksonville,0.000
-7,New Mexico St.,0.000
-7,Oklahoma,0.000
-7,Robert Morris,0.000
-7,Buffalo,0.000
-7,Missouri,0.000
-7,St. Bonaventure,0.000
-7,South Dakota St.,0.000
-7,Army West Point,0.000
-7,Louisville,0.000
-7,Iona,0.000
-7,West Virginia,0.000
-7,Central Ark.,0.000
-7,UNC Asheville,0.000
-7,George Washington,0.000
-7,BYU,0.000
-7,Princeton,0.000
+7,Syracuse,0.001
 7,Mississippi St.,0.000
-7,Hawaii,0.000
-7,Missouri St.,0.000
-7,Alabama St.,0.000
-7,Green Bay,0.000
-7,Kansas St.,0.000
-7,Oklahoma St.,0.000
-7,Auburn,0.000
-7,Purdue,0.000
-7,Belmont,0.000
-7,Washington,0.000
-7,Texas A&M,0.000
-7,Miami (FL),0.000
-7,Michigan St.,0.000
-7,Seton Hall,0.000
-7,DePaul,0.000
-7,St. John's (NY),0.000
-7,Syracuse,0.000
-7,Duquesne,0.000
-7,Chattanooga,0.000
-7,James Madison,0.000
-7,Georgia,0.000
-7,Florida,0.000
 7,Tennessee,0.000
-7,San Francisco,0.000
-7,Indiana,0.000
-7,Middle Tenn.,0.000
-7,Idaho,0.000
-7,Troy,0.000
-7,N.C. AT&T,0.000
+7,Washington,0.000
