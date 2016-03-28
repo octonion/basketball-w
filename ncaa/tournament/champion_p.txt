@@ -1,23 +1,13 @@
 BEGIN
-   school_name   |   p   
------------------+-------
- UConn           | 0.875
- Baylor          | 0.043
- South Carolina  | 0.032
- Notre Dame      | 0.024
- Oregon St.      | 0.007
- Kentucky        | 0.006
- Stanford        | 0.004
- Texas           | 0.002
- Florida St.     | 0.002
- Ohio St.        | 0.002
- UCLA            | 0.001
- DePaul          | 0.001
- Syracuse        | 0.001
- Washington      | 0.000
- Mississippi St. | 0.000
- Tennessee       | 0.000
-(16 rows)
+ school_name |   p   
+-------------+-------
+ UConn       | 0.900
+ Baylor      | 0.062
+ Syracuse    | 0.015
+ Oregon St.  | 0.011
+ Washington  | 0.008
+ Texas       | 0.004
+(6 rows)
 
-COPY 16
+COPY 6
 COMMIT
