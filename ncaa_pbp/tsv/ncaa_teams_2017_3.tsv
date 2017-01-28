@@ -1,0 +1,443 @@
+year	year_id	team_id	team_name	team_url
+2017	12500	4	Adrian	http://stats.ncaa.org/team/4/12500
+2017	12500	11324	Agnes Scott	http://stats.ncaa.org/team/11324/12500
+2017	12500	2798	Albertus Magnus	http://stats.ncaa.org/team/2798/12500
+2017	12500	15	Albion	http://stats.ncaa.org/team/15/12500
+2017	12500	16	Albright	http://stats.ncaa.org/team/16/12500
+2017	12500	18	Alfred	http://stats.ncaa.org/team/18/12500
+2017	12500	30170	Alfred St.	http://stats.ncaa.org/team/30170/12500
+2017	12500	19	Allegheny	http://stats.ncaa.org/team/19/12500
+2017	12500	21	Alma	http://stats.ncaa.org/team/21/12500
+2017	12500	938	Alvernia	http://stats.ncaa.org/team/938/12500
+2017	12500	28746	Alverno	http://stats.ncaa.org/team/28746/12500
+2017	12500	24	Amherst	http://stats.ncaa.org/team/24/12500
+2017	12500	939	Anderson (IN)	http://stats.ncaa.org/team/939/12500
+2017	12500	26	Anna Maria	http://stats.ncaa.org/team/26/12500
+2017	12500	966	Arcadia	http://stats.ncaa.org/team/966/12500
+2017	12500	38	Augsburg	http://stats.ncaa.org/team/38/12500
+2017	12500	40	Augustana (IL)	http://stats.ncaa.org/team/40/12500
+2017	12500	42	Aurora	http://stats.ncaa.org/team/42/12500
+2017	12500	953	Austin	http://stats.ncaa.org/team/953/12500
+2017	12500	44	Averett	http://stats.ncaa.org/team/44/12500
+2017	12500	45	Babson	http://stats.ncaa.org/team/45/12500
+2017	12500	46	Baldwin Wallace	http://stats.ncaa.org/team/46/12500
+2017	12500	962	Bard	http://stats.ncaa.org/team/962/12500
+2017	12500	58	Baruch	http://stats.ncaa.org/team/58/12500
+2017	12500	50	Bates	http://stats.ncaa.org/team/50/12500
+2017	12500	26520	Bay Path	http://stats.ncaa.org/team/26520/12500
+2017	12500	26107	Becker	http://stats.ncaa.org/team/26107/12500
+2017	12500	30197	Belhaven	http://stats.ncaa.org/team/30197/12500
+2017	12500	53	Beloit	http://stats.ncaa.org/team/53/12500
+2017	12500	296	Benedictine (IL)	http://stats.ncaa.org/team/296/12500
+2017	12500	30171	Berea	http://stats.ncaa.org/team/30171/12500
+2017	12500	973	Berry	http://stats.ncaa.org/team/973/12500
+2017	12500	59	Bethany (WV)	http://stats.ncaa.org/team/59/12500
+2017	12500	30038	Bethany Lutheran	http://stats.ncaa.org/team/30038/12500
+2017	12500	60	Bethel (MN)	http://stats.ncaa.org/team/60/12500
+2017	12500	28593	Birmingham-So.	http://stats.ncaa.org/team/28593/12500
+2017	12500	64	Blackburn	http://stats.ncaa.org/team/64/12500
+2017	12500	987	Bluffton	http://stats.ncaa.org/team/987/12500
+2017	12500	69	Bowdoin	http://stats.ncaa.org/team/69/12500
+2017	12500	73	Brandeis	http://stats.ncaa.org/team/73/12500
+2017	12500	75	Bridgewater (VA)	http://stats.ncaa.org/team/75/12500
+2017	12500	76	Bridgewater St.	http://stats.ncaa.org/team/76/12500
+2017	12500	78	Brockport	http://stats.ncaa.org/team/78/12500
+2017	12500	79	Brooklyn	http://stats.ncaa.org/team/79/12500
+2017	12500	30188	Bryn Athyn	http://stats.ncaa.org/team/30188/12500
+2017	12500	82	Bryn Mawr	http://stats.ncaa.org/team/82/12500
+2017	12500	84	Buena Vista	http://stats.ncaa.org/team/84/12500
+2017	12500	85	Buffalo St.	http://stats.ncaa.org/team/85/12500
+2017	12500	480	CCNY	http://stats.ncaa.org/team/480/12500
+2017	12500	122	CWRU	http://stats.ncaa.org/team/122/12500
+2017	12500	88	Cabrini	http://stats.ncaa.org/team/88/12500
+2017	12500	1305	Cairn	http://stats.ncaa.org/team/1305/12500
+2017	12500	105	Cal Lutheran	http://stats.ncaa.org/team/105/12500
+2017	12500	89	Caltech	http://stats.ncaa.org/team/89/12500
+2017	12500	114	Calvin	http://stats.ncaa.org/team/114/12500
+2017	12500	117	Capital	http://stats.ncaa.org/team/117/12500
+2017	12500	118	Carleton	http://stats.ncaa.org/team/118/12500
+2017	12500	119	Carnegie Mellon	http://stats.ncaa.org/team/119/12500
+2017	12500	120	Carroll (WI)	http://stats.ncaa.org/team/120/12500
+2017	12500	121	Carthage	http://stats.ncaa.org/team/121/12500
+2017	12500	123	Castleton	http://stats.ncaa.org/team/123/12500
+2017	12500	124	Catholic	http://stats.ncaa.org/team/124/12500
+2017	12500	23624	Cazenovia	http://stats.ncaa.org/team/23624/12500
+2017	12500	14795	Cedar Crest	http://stats.ncaa.org/team/14795/12500
+2017	12500	125	Centenary (LA)	http://stats.ncaa.org/team/125/12500
+2017	12500	12884	Centenary (NJ)	http://stats.ncaa.org/team/12884/12500
+2017	12500	126	Central (IA)	http://stats.ncaa.org/team/126/12500
+2017	12500	132	Centre	http://stats.ncaa.org/team/132/12500
+2017	12500	134	Chapman	http://stats.ncaa.org/team/134/12500
+2017	12500	10972	Chatham	http://stats.ncaa.org/team/10972/12500
+2017	12500	137	Chicago	http://stats.ncaa.org/team/137/12500
+2017	12500	139	Chris. Newport	http://stats.ncaa.org/team/139/12500
+2017	12500	142	Claremont-M-S	http://stats.ncaa.org/team/142/12500
+2017	12500	145	Clark (MA)	http://stats.ncaa.org/team/145/12500
+2017	12500	958	Clarks Summit	http://stats.ncaa.org/team/958/12500
+2017	12500	146	Clarkson	http://stats.ncaa.org/team/146/12500
+2017	12500	722	Coast Guard	http://stats.ncaa.org/team/722/12500
+2017	12500	30083	Cobleskill St.	http://stats.ncaa.org/team/30083/12500
+2017	12500	150	Coe	http://stats.ncaa.org/team/150/12500
+2017	12500	151	Colby	http://stats.ncaa.org/team/151/12500
+2017	12500	152	Colby-Sawyer	http://stats.ncaa.org/team/152/12500
+2017	12500	154	Colorado Col.	http://stats.ncaa.org/team/154/12500
+2017	12500	24400	Concordia (TX)	http://stats.ncaa.org/team/24400/12500
+2017	12500	160	Concordia Chicago	http://stats.ncaa.org/team/160/12500
+2017	12500	1036	Concordia Wisconsin	http://stats.ncaa.org/team/1036/12500
+2017	12500	161	Concordia-M'head	http://stats.ncaa.org/team/161/12500
+2017	12500	163	Connecticut Col.	http://stats.ncaa.org/team/163/12500
+2017	12500	166	Cornell College	http://stats.ncaa.org/team/166/12500
+2017	12500	30111	Covenant	http://stats.ncaa.org/team/30111/12500
+2017	12500	30035	Crown (MN)	http://stats.ncaa.org/team/30035/12500
+2017	12500	170	Curry	http://stats.ncaa.org/team/170/12500
+2017	12500	1059	D'Youville	http://stats.ncaa.org/team/1059/12500
+2017	12500	1044	Dallas	http://stats.ncaa.org/team/1044/12500
+2017	12500	2691	Daniel Webster	http://stats.ncaa.org/team/2691/12500
+2017	12500	177	DePauw	http://stats.ncaa.org/team/177/12500
+2017	12500	20	DeSales	http://stats.ncaa.org/team/20/12500
+2017	12500	1050	Defiance	http://stats.ncaa.org/team/1050/12500
+2017	12500	179	Delaware Valley	http://stats.ncaa.org/team/179/12500
+2017	12500	182	Denison	http://stats.ncaa.org/team/182/12500
+2017	12500	185	Dickinson	http://stats.ncaa.org/team/185/12500
+2017	12500	1332	Dominican (IL)	http://stats.ncaa.org/team/1332/12500
+2017	12500	190	Drew	http://stats.ncaa.org/team/190/12500
+2017	12500	192	Dubuque	http://stats.ncaa.org/team/192/12500
+2017	12500	195	Earlham	http://stats.ncaa.org/team/195/12500
+2017	12500	1062	East Tex. Baptist	http://stats.ncaa.org/team/1062/12500
+2017	12500	203	East. Mennonite	http://stats.ncaa.org/team/203/12500
+2017	12500	8968	Eastern	http://stats.ncaa.org/team/8968/12500
+2017	12500	200	Eastern Conn. St.	http://stats.ncaa.org/team/200/12500
+2017	12500	1064	Eastern Nazarene	http://stats.ncaa.org/team/1064/12500
+2017	12500	1066	Edgewood	http://stats.ncaa.org/team/1066/12500
+2017	12500	211	Elizabethtown	http://stats.ncaa.org/team/211/12500
+2017	12500	212	Elmhurst	http://stats.ncaa.org/team/212/12500
+2017	12500	213	Elmira	http://stats.ncaa.org/team/213/12500
+2017	12500	532	Elms	http://stats.ncaa.org/team/532/12500
+2017	12500	214	Emerson	http://stats.ncaa.org/team/214/12500
+2017	12500	215	Emmanuel (MA)	http://stats.ncaa.org/team/215/12500
+2017	12500	217	Emory	http://stats.ncaa.org/team/217/12500
+2017	12500	216	Emory & Henry	http://stats.ncaa.org/team/216/12500
+2017	12500	8981	Endicott	http://stats.ncaa.org/team/8981/12500
+2017	12500	218	Eureka	http://stats.ncaa.org/team/218/12500
+2017	12500	221	FDU-Florham	http://stats.ncaa.org/team/221/12500
+2017	12500	27892	Farmingdale St.	http://stats.ncaa.org/team/27892/12500
+2017	12500	225	Ferrum	http://stats.ncaa.org/team/225/12500
+2017	12500	30032	Finlandia	http://stats.ncaa.org/team/30032/12500
+2017	12500	227	Fitchburg St.	http://stats.ncaa.org/team/227/12500
+2017	12500	11538	Fontbonne	http://stats.ncaa.org/team/11538/12500
+2017	12500	238	Framingham St.	http://stats.ncaa.org/team/238/12500
+2017	12500	30069	Franciscan	http://stats.ncaa.org/team/30069/12500
+2017	12500	239	Frank. & Marsh.	http://stats.ncaa.org/team/239/12500
+2017	12500	2694	Franklin	http://stats.ncaa.org/team/2694/12500
+2017	12500	242	Fredonia	http://stats.ncaa.org/team/242/12500
+2017	12500	243	Frostburg St.	http://stats.ncaa.org/team/243/12500
+2017	12500	245	Gallaudet	http://stats.ncaa.org/team/245/12500
+2017	12500	30084	Geneva	http://stats.ncaa.org/team/30084/12500
+2017	12500	1094	George Fox	http://stats.ncaa.org/team/1094/12500
+2017	12500	258	Gettysburg	http://stats.ncaa.org/team/258/12500
+2017	12500	1099	Gordon	http://stats.ncaa.org/team/1099/12500
+2017	12500	1467	Goucher	http://stats.ncaa.org/team/1467/12500
+2017	12500	11062	Green Mountain	http://stats.ncaa.org/team/11062/12500
+2017	12500	263	Greensboro	http://stats.ncaa.org/team/263/12500
+2017	12500	1111	Greenville	http://stats.ncaa.org/team/1111/12500
+2017	12500	264	Grinnell	http://stats.ncaa.org/team/264/12500
+2017	12500	265	Grove City	http://stats.ncaa.org/team/265/12500
+2017	12500	1112	Guilford	http://stats.ncaa.org/team/1112/12500
+2017	12500	266	Gust. Adolphus	http://stats.ncaa.org/team/266/12500
+2017	12500	12399	Gwynedd Mercy	http://stats.ncaa.org/team/12399/12500
+2017	12500	267	Hamilton	http://stats.ncaa.org/team/267/12500
+2017	12500	268	Hamline	http://stats.ncaa.org/team/268/12500
+2017	12500	1115	Hanover	http://stats.ncaa.org/team/1115/12500
+2017	12500	271	Hardin-Simmons	http://stats.ncaa.org/team/271/12500
+2017	12500	273	Hartwick	http://stats.ncaa.org/team/273/12500
+2017	12500	276	Haverford	http://stats.ncaa.org/team/276/12500
+2017	12500	278	Heidelberg	http://stats.ncaa.org/team/278/12500
+2017	12500	1124	Hendrix	http://stats.ncaa.org/team/1124/12500
+2017	12500	8398	Hilbert	http://stats.ncaa.org/team/8398/12500
+2017	12500	281	Hiram	http://stats.ncaa.org/team/281/12500
+2017	12500	284	Hollins	http://stats.ncaa.org/team/284/12500
+2017	12500	8404	Hood	http://stats.ncaa.org/team/8404/12500
+2017	12500	286	Hope	http://stats.ncaa.org/team/286/12500
+2017	12500	30160	Houghton	http://stats.ncaa.org/team/30160/12500
+2017	12500	2741	Howard Payne	http://stats.ncaa.org/team/2741/12500
+2017	12500	292	Hunter	http://stats.ncaa.org/team/292/12500
+2017	12500	1130	Huntingdon	http://stats.ncaa.org/team/1130/12500
+2017	12500	1133	Husson	http://stats.ncaa.org/team/1133/12500
+2017	12500	30172	IIT	http://stats.ncaa.org/team/30172/12500
+2017	12500	300	Ill. Wesleyan	http://stats.ncaa.org/team/300/12500
+2017	12500	297	Illinois Col.	http://stats.ncaa.org/team/297/12500
+2017	12500	303	Immaculata	http://stats.ncaa.org/team/303/12500
+2017	12500	30173	Iowa Wesleyan	http://stats.ncaa.org/team/30173/12500
+2017	12500	313	Ithaca	http://stats.ncaa.org/team/313/12500
+2017	12500	320	John Carroll	http://stats.ncaa.org/team/320/12500
+2017	12500	321	John Jay	http://stats.ncaa.org/team/321/12500
+2017	12500	322	Johns Hopkins	http://stats.ncaa.org/team/322/12500
+2017	12500	22626	Johnson & Wales (RI)	http://stats.ncaa.org/team/22626/12500
+2017	12500	324	Johnson St.	http://stats.ncaa.org/team/324/12500
+2017	12500	325	Juniata	http://stats.ncaa.org/team/325/12500
+2017	12500	326	Kalamazoo	http://stats.ncaa.org/team/326/12500
+2017	12500	329	Kean	http://stats.ncaa.org/team/329/12500
+2017	12500	330	Keene St.	http://stats.ncaa.org/team/330/12500
+2017	12500	335	Kenyon	http://stats.ncaa.org/team/335/12500
+2017	12500	1159	Keuka	http://stats.ncaa.org/team/1159/12500
+2017	12500	30047	Keystone	http://stats.ncaa.org/team/30047/12500
+2017	12500	336	King's (PA)	http://stats.ncaa.org/team/336/12500
+2017	12500	337	Knox	http://stats.ncaa.org/team/337/12500
+2017	12500	1163	La Roche	http://stats.ncaa.org/team/1163/12500
+2017	12500	341	La Verne	http://stats.ncaa.org/team/341/12500
+2017	12500	1162	LaGrange	http://stats.ncaa.org/team/1162/12500
+2017	12500	344	Lake Forest	http://stats.ncaa.org/team/344/12500
+2017	12500	1164	Lakeland	http://stats.ncaa.org/team/1164/12500
+2017	12500	30085	Lancaster Bible	http://stats.ncaa.org/team/30085/12500
+2017	12500	8486	Lasell	http://stats.ncaa.org/team/8486/12500
+2017	12500	348	Lawrence	http://stats.ncaa.org/team/348/12500
+2017	12500	8490	LeTourneau	http://stats.ncaa.org/team/8490/12500
+2017	12500	351	Lebanon Valley	http://stats.ncaa.org/team/351/12500
+2017	12500	279	Lehman	http://stats.ncaa.org/team/279/12500
+2017	12500	24317	Lesley	http://stats.ncaa.org/team/24317/12500
+2017	12500	22235	Lewis & Clark	http://stats.ncaa.org/team/22235/12500
+2017	12500	1179	Linfield	http://stats.ncaa.org/team/1179/12500
+2017	12500	364	Loras	http://stats.ncaa.org/team/364/12500
+2017	12500	1182	Louisiana Col.	http://stats.ncaa.org/team/1182/12500
+2017	12500	372	Luther	http://stats.ncaa.org/team/372/12500
+2017	12500	373	Lycoming	http://stats.ncaa.org/team/373/12500
+2017	12500	374	Lynchburg	http://stats.ncaa.org/team/374/12500
+2017	12500	30065	Lyndon St.	http://stats.ncaa.org/team/30065/12500
+2017	12500	486	MCLA	http://stats.ncaa.org/team/486/12500
+2017	12500	398	MIT	http://stats.ncaa.org/team/398/12500
+2017	12500	20220	MSOE	http://stats.ncaa.org/team/20220/12500
+2017	12500	377	MacMurray	http://stats.ncaa.org/team/377/12500
+2017	12500	376	Macalester	http://stats.ncaa.org/team/376/12500
+2017	12500	378	Maine Maritime	http://stats.ncaa.org/team/378/12500
+2017	12500	1192	Manchester	http://stats.ncaa.org/team/1192/12500
+2017	12500	382	Manhattanville	http://stats.ncaa.org/team/382/12500
+2017	12500	1194	Maranatha Baptist	http://stats.ncaa.org/team/1194/12500
+2017	12500	1196	Marian (WI)	http://stats.ncaa.org/team/1196/12500
+2017	12500	385	Marietta	http://stats.ncaa.org/team/385/12500
+2017	12500	8597	Martin Luther	http://stats.ncaa.org/team/8597/12500
+2017	12500	389	Mary Baldwin	http://stats.ncaa.org/team/389/12500
+2017	12500	1203	Mary Hardin-Baylor	http://stats.ncaa.org/team/1203/12500
+2017	12500	390	Mary Washington	http://stats.ncaa.org/team/390/12500
+2017	12500	394	Marymount (VA)	http://stats.ncaa.org/team/394/12500
+2017	12500	396	Maryville (TN)	http://stats.ncaa.org/team/396/12500
+2017	12500	397	Marywood	http://stats.ncaa.org/team/397/12500
+2017	12500	773	McDaniel	http://stats.ncaa.org/team/773/12500
+2017	12500	8530	McMurry	http://stats.ncaa.org/team/8530/12500
+2017	12500	379	Me.-Farmington	http://stats.ncaa.org/team/379/12500
+2017	12500	30040	Me.-Presque Isle	http://stats.ncaa.org/team/30040/12500
+2017	12500	23725	Medaille	http://stats.ncaa.org/team/23725/12500
+2017	12500	403	Medgar Evers	http://stats.ncaa.org/team/403/12500
+2017	12500	724	Merchant Marine	http://stats.ncaa.org/team/724/12500
+2017	12500	409	Meredith	http://stats.ncaa.org/team/409/12500
+2017	12500	411	Messiah	http://stats.ncaa.org/team/411/12500
+2017	12500	412	Methodist	http://stats.ncaa.org/team/412/12500
+2017	12500	420	Middlebury	http://stats.ncaa.org/team/420/12500
+2017	12500	424	Millikin	http://stats.ncaa.org/team/424/12500
+2017	12500	426	Millsaps	http://stats.ncaa.org/team/426/12500
+2017	12500	1226	Minn.-Morris	http://stats.ncaa.org/team/1226/12500
+2017	12500	16142	Misericordia	http://stats.ncaa.org/team/16142/12500
+2017	12500	30042	Mitchell	http://stats.ncaa.org/team/30042/12500
+2017	12500	438	Monmouth (IL)	http://stats.ncaa.org/team/438/12500
+2017	12500	442	Montclair St.	http://stats.ncaa.org/team/442/12500
+2017	12500	443	Moravian	http://stats.ncaa.org/team/443/12500
+2017	12500	30067	Morrisville St.	http://stats.ncaa.org/team/30067/12500
+2017	12500	30036	Mount Aloysius	http://stats.ncaa.org/team/30036/12500
+2017	12500	449	Mount Holyoke	http://stats.ncaa.org/team/449/12500
+2017	12500	27901	Mount Ida	http://stats.ncaa.org/team/27901/12500
+2017	12500	30033	Mount Mary	http://stats.ncaa.org/team/30033/12500
+2017	12500	452	Mount Union	http://stats.ncaa.org/team/452/12500
+2017	12500	8567	Mt. St. Joseph	http://stats.ncaa.org/team/8567/12500
+2017	12500	1468	Mt. St. Mary (NY)	http://stats.ncaa.org/team/1468/12500
+2017	12500	451	Mt. St. Vincent	http://stats.ncaa.org/team/451/12500
+2017	12500	453	Muhlenberg	http://stats.ncaa.org/team/453/12500
+2017	12500	455	Muskingum	http://stats.ncaa.org/team/455/12500
+2017	12500	491	N.C. Wesleyan	http://stats.ncaa.org/team/491/12500
+2017	12500	479	NYU	http://stats.ncaa.org/team/479/12500
+2017	12500	461	Nazareth	http://stats.ncaa.org/team/461/12500
+2017	12500	462	Neb. Wesleyan	http://stats.ncaa.org/team/462/12500
+2017	12500	1254	Neumann	http://stats.ncaa.org/team/1254/12500
+2017	12500	467	New England Col.	http://stats.ncaa.org/team/467/12500
+2017	12500	319	New Jersey City	http://stats.ncaa.org/team/319/12500
+2017	12500	476	New Rochelle	http://stats.ncaa.org/team/476/12500
+2017	12500	21772	Newbury	http://stats.ncaa.org/team/21772/12500
+2017	12500	484	Nichols	http://stats.ncaa.org/team/484/12500
+2017	12500	492	North Central (IL)	http://stats.ncaa.org/team/492/12500
+2017	12500	30039	North Central (MN)	http://stats.ncaa.org/team/30039/12500
+2017	12500	496	North Park	http://stats.ncaa.org/team/496/12500
+2017	12500	1267	Northland	http://stats.ncaa.org/team/1267/12500
+2017	12500	30031	Northwestern-St. Paul	http://stats.ncaa.org/team/30031/12500
+2017	12500	511	Norwich	http://stats.ncaa.org/team/511/12500
+2017	12500	8600	Notre Dame (MD)	http://stats.ncaa.org/team/8600/12500
+2017	12500	515	Oberlin	http://stats.ncaa.org/team/515/12500
+2017	12500	516	Occidental	http://stats.ncaa.org/team/516/12500
+2017	12500	2713	Oglethorpe	http://stats.ncaa.org/team/2713/12500
+2017	12500	517	Ohio Northern	http://stats.ncaa.org/team/517/12500
+2017	12500	520	Ohio Wesleyan	http://stats.ncaa.org/team/520/12500
+2017	12500	524	Old Westbury	http://stats.ncaa.org/team/524/12500
+2017	12500	525	Olivet	http://stats.ncaa.org/team/525/12500
+2017	12500	530	Oswego St.	http://stats.ncaa.org/team/530/12500
+2017	12500	531	Otterbein	http://stats.ncaa.org/team/531/12500
+2017	12500	23008	Ozarks (AR)	http://stats.ncaa.org/team/23008/12500
+2017	12500	2751	Pacific (OR)	http://stats.ncaa.org/team/2751/12500
+2017	12500	1297	Pacific Lutheran	http://stats.ncaa.org/team/1297/12500
+2017	12500	30190	Penn College	http://stats.ncaa.org/team/30190/12500
+2017	12500	30081	Penn St. Harrisburg	http://stats.ncaa.org/team/30081/12500
+2017	12500	30114	Penn St.-Abington	http://stats.ncaa.org/team/30114/12500
+2017	12500	25719	Penn St.-Altoona	http://stats.ncaa.org/team/25719/12500
+2017	12500	538	Penn St.-Behrend	http://stats.ncaa.org/team/538/12500
+2017	12500	30044	Penn St.-Berks	http://stats.ncaa.org/team/30044/12500
+2017	12500	21830	Piedmont	http://stats.ncaa.org/team/21830/12500
+2017	12500	544	Pine Manor	http://stats.ncaa.org/team/544/12500
+2017	12500	1315	Pitt.-Bradford	http://stats.ncaa.org/team/1315/12500
+2017	12500	11839	Pitt.-Greensburg	http://stats.ncaa.org/team/11839/12500
+2017	12500	547	Plattsburgh St.	http://stats.ncaa.org/team/547/12500
+2017	12500	548	Plymouth St.	http://stats.ncaa.org/team/548/12500
+2017	12500	549	Pomona-Pitzer	http://stats.ncaa.org/team/549/12500
+2017	12500	555	Principia	http://stats.ncaa.org/team/555/12500
+2017	12500	557	Puget Sound	http://stats.ncaa.org/team/557/12500
+2017	12500	30029	Purchase	http://stats.ncaa.org/team/30029/12500
+2017	12500	580	RIT	http://stats.ncaa.org/team/580/12500
+2017	12500	564	Ramapo	http://stats.ncaa.org/team/564/12500
+2017	12500	566	Randolph	http://stats.ncaa.org/team/566/12500
+2017	12500	565	Randolph-Macon	http://stats.ncaa.org/team/565/12500
+2017	12500	567	Redlands	http://stats.ncaa.org/team/567/12500
+2017	12500	569	Regis (MA)	http://stats.ncaa.org/team/569/12500
+2017	12500	570	Rensselaer	http://stats.ncaa.org/team/570/12500
+2017	12500	571	Rhode Island Col.	http://stats.ncaa.org/team/571/12500
+2017	12500	573	Rhodes	http://stats.ncaa.org/team/573/12500
+2017	12500	577	Ripon	http://stats.ncaa.org/team/577/12500
+2017	12500	18422	Rivier	http://stats.ncaa.org/team/18422/12500
+2017	12500	578	Roanoke	http://stats.ncaa.org/team/578/12500
+2017	12500	581	Rochester (NY)	http://stats.ncaa.org/team/581/12500
+2017	12500	582	Rockford	http://stats.ncaa.org/team/582/12500
+2017	12500	583	Roger Williams	http://stats.ncaa.org/team/583/12500
+2017	12500	585	Rose-Hulman	http://stats.ncaa.org/team/585/12500
+2017	12500	15882	Rosemont	http://stats.ncaa.org/team/15882/12500
+2017	12500	259	Rowan	http://stats.ncaa.org/team/259/12500
+2017	12500	586	Rust	http://stats.ncaa.org/team/586/12500
+2017	12500	588	Rutgers-Camden	http://stats.ncaa.org/team/588/12500
+2017	12500	589	Rutgers-Newark	http://stats.ncaa.org/team/589/12500
+2017	12500	30165	SUNY Canton	http://stats.ncaa.org/team/30165/12500
+2017	12500	168	SUNY Cortland	http://stats.ncaa.org/team/168/12500
+2017	12500	247	SUNY Geneseo	http://stats.ncaa.org/team/247/12500
+2017	12500	475	SUNY New Paltz	http://stats.ncaa.org/team/475/12500
+2017	12500	526	SUNY Oneonta	http://stats.ncaa.org/team/526/12500
+2017	12500	9500	SUNY Poly	http://stats.ncaa.org/team/9500/12500
+2017	12500	552	SUNY Potsdam	http://stats.ncaa.org/team/552/12500
+2017	12500	11036	Sage Colleges	http://stats.ncaa.org/team/11036/12500
+2017	12500	595	Saint Benedict	http://stats.ncaa.org/team/595/12500
+2017	12500	612	Saint Mary's (MN)	http://stats.ncaa.org/team/612/12500
+2017	12500	30064	Saint Vincent	http://stats.ncaa.org/team/30064/12500
+2017	12500	30041	Salem	http://stats.ncaa.org/team/30041/12500
+2017	12500	621	Salem St.	http://stats.ncaa.org/team/621/12500
+2017	12500	622	Salisbury	http://stats.ncaa.org/team/622/12500
+2017	12500	623	Salve Regina	http://stats.ncaa.org/team/623/12500
+2017	12500	1355	Schreiner	http://stats.ncaa.org/team/1355/12500
+2017	12500	633	Scranton	http://stats.ncaa.org/team/633/12500
+2017	12500	652	Sewanee	http://stats.ncaa.org/team/652/12500
+2017	12500	637	Shenandoah	http://stats.ncaa.org/team/637/12500
+2017	12500	640	Simmons	http://stats.ncaa.org/team/640/12500
+2017	12500	641	Simpson	http://stats.ncaa.org/team/641/12500
+2017	12500	642	Skidmore	http://stats.ncaa.org/team/642/12500
+2017	12500	644	Smith	http://stats.ncaa.org/team/644/12500
+2017	12500	662	Southern Me.	http://stats.ncaa.org/team/662/12500
+2017	12500	30164	Southern Va.	http://stats.ncaa.org/team/30164/12500
+2017	12500	1379	Southern Vt.	http://stats.ncaa.org/team/1379/12500
+2017	12500	8746	Southwestern (TX)	http://stats.ncaa.org/team/8746/12500
+2017	12500	23260	Spalding	http://stats.ncaa.org/team/23260/12500
+2017	12500	673	Springfield	http://stats.ncaa.org/team/673/12500
+2017	12500	597	St. Catherine	http://stats.ncaa.org/team/597/12500
+2017	12500	9684	St. Elizabeth	http://stats.ncaa.org/team/9684/12500
+2017	12500	601	St. John Fisher	http://stats.ncaa.org/team/601/12500
+2017	12500	8687	St. Joseph (CT)	http://stats.ncaa.org/team/8687/12500
+2017	12500	30072	St. Joseph's (Brkln)	http://stats.ncaa.org/team/30072/12500
+2017	12500	1340	St. Joseph's (L.I.)	http://stats.ncaa.org/team/1340/12500
+2017	12500	605	St. Joseph's (ME)	http://stats.ncaa.org/team/605/12500
+2017	12500	607	St. Lawrence	http://stats.ncaa.org/team/607/12500
+2017	12500	8688	St. Mary's (IN)	http://stats.ncaa.org/team/8688/12500
+2017	12500	611	St. Mary's (MD)	http://stats.ncaa.org/team/611/12500
+2017	12500	614	St. Norbert	http://stats.ncaa.org/team/614/12500
+2017	12500	615	St. Olaf	http://stats.ncaa.org/team/615/12500
+2017	12500	618	St. Scholastica	http://stats.ncaa.org/team/618/12500
+2017	12500	620	St. Thomas (MN)	http://stats.ncaa.org/team/620/12500
+2017	12500	675	Staten Island	http://stats.ncaa.org/team/675/12500
+2017	12500	679	Stevens	http://stats.ncaa.org/team/679/12500
+2017	12500	21852	Stevenson	http://stats.ncaa.org/team/21852/12500
+2017	12500	681	Stockton	http://stats.ncaa.org/team/681/12500
+2017	12500	684	Suffolk	http://stats.ncaa.org/team/684/12500
+2017	12500	1390	Sul Ross St.	http://stats.ncaa.org/team/1390/12500
+2017	12500	685	Susquehanna	http://stats.ncaa.org/team/685/12500
+2017	12500	686	Swarthmore	http://stats.ncaa.org/team/686/12500
+2017	12500	712	TCNJ	http://stats.ncaa.org/team/712/12500
+2017	12500	1400	Texas Lutheran	http://stats.ncaa.org/team/1400/12500
+2017	12500	23121	Texas-Dallas	http://stats.ncaa.org/team/23121/12500
+2017	12500	30028	Texas-Tyler	http://stats.ncaa.org/team/30028/12500
+2017	12500	707	Thiel	http://stats.ncaa.org/team/707/12500
+2017	12500	2758	Thomas (ME)	http://stats.ncaa.org/team/2758/12500
+2017	12500	1402	Thomas More	http://stats.ncaa.org/team/1402/12500
+2017	12500	28749	Transylvania	http://stats.ncaa.org/team/28749/12500
+2017	12500	30037	Trine	http://stats.ncaa.org/team/30037/12500
+2017	12500	713	Trinity (CT)	http://stats.ncaa.org/team/713/12500
+2017	12500	715	Trinity (TX)	http://stats.ncaa.org/team/715/12500
+2017	12500	23413	Trinity Washington	http://stats.ncaa.org/team/23413/12500
+2017	12500	717	Tufts	http://stats.ncaa.org/team/717/12500
+2017	12500	1255	U New England	http://stats.ncaa.org/team/1255/12500
+2017	12500	113	UC Santa Cruz	http://stats.ncaa.org/team/113/12500
+2017	12500	401	UMass Boston	http://stats.ncaa.org/team/401/12500
+2017	12500	656	UMass Dartmouth	http://stats.ncaa.org/team/656/12500
+2017	12500	727	Union (NY)	http://stats.ncaa.org/team/727/12500
+2017	12500	730	Ursinus	http://stats.ncaa.org/team/730/12500
+2017	12500	733	Utica	http://stats.ncaa.org/team/733/12500
+2017	12500	745	Va. Wesleyan	http://stats.ncaa.org/team/745/12500
+2017	12500	30166	Valley Forge	http://stats.ncaa.org/team/30166/12500
+2017	12500	737	Vassar	http://stats.ncaa.org/team/737/12500
+2017	12500	808	WPI	http://stats.ncaa.org/team/808/12500
+2017	12500	750	Wartburg	http://stats.ncaa.org/team/750/12500
+2017	12500	751	Wash. & Jeff.	http://stats.ncaa.org/team/751/12500
+2017	12500	752	Wash. & Lee	http://stats.ncaa.org/team/752/12500
+2017	12500	753	Washington Col.	http://stats.ncaa.org/team/753/12500
+2017	12500	755	Washington-St. Louis	http://stats.ncaa.org/team/755/12500
+2017	12500	1434	Waynesburg	http://stats.ncaa.org/team/1434/12500
+2017	12500	759	Webster	http://stats.ncaa.org/team/759/12500
+2017	12500	760	Wellesley	http://stats.ncaa.org/team/760/12500
+2017	12500	761	Wells	http://stats.ncaa.org/team/761/12500
+2017	12500	762	Wentworth	http://stats.ncaa.org/team/762/12500
+2017	12500	763	Wesley	http://stats.ncaa.org/team/763/12500
+2017	12500	764	Wesleyan (CT)	http://stats.ncaa.org/team/764/12500
+2017	12500	14718	Wesleyan (GA)	http://stats.ncaa.org/team/14718/12500
+2017	12500	770	Western Conn. St.	http://stats.ncaa.org/team/770/12500
+2017	12500	775	Western New Eng.	http://stats.ncaa.org/team/775/12500
+2017	12500	777	Westfield St.	http://stats.ncaa.org/team/777/12500
+2017	12500	1450	Westminster (MO)	http://stats.ncaa.org/team/1450/12500
+2017	12500	1451	Westminster (PA)	http://stats.ncaa.org/team/1451/12500
+2017	12500	778	Wheaton (IL)	http://stats.ncaa.org/team/778/12500
+2017	12500	779	Wheaton (MA)	http://stats.ncaa.org/team/779/12500
+2017	12500	8896	Wheelock	http://stats.ncaa.org/team/8896/12500
+2017	12500	780	Whitman	http://stats.ncaa.org/team/780/12500
+2017	12500	781	Whittier	http://stats.ncaa.org/team/781/12500
+2017	12500	1454	Whitworth	http://stats.ncaa.org/team/1454/12500
+2017	12500	783	Widener	http://stats.ncaa.org/team/783/12500
+2017	12500	784	Wilkes	http://stats.ncaa.org/team/784/12500
+2017	12500	785	Willamette	http://stats.ncaa.org/team/785/12500
+2017	12500	17094	William Peace	http://stats.ncaa.org/team/17094/12500
+2017	12500	30073	William Smith	http://stats.ncaa.org/team/30073/12500
+2017	12500	789	Williams	http://stats.ncaa.org/team/789/12500
+2017	12500	1461	Wilmington (OH)	http://stats.ncaa.org/team/1461/12500
+2017	12500	12973	Wilson	http://stats.ncaa.org/team/12973/12500
+2017	12500	8911	Wis. Lutheran	http://stats.ncaa.org/team/8911/12500
+2017	12500	793	Wis.-Eau Claire	http://stats.ncaa.org/team/793/12500
+2017	12500	795	Wis.-La Crosse	http://stats.ncaa.org/team/795/12500
+2017	12500	798	Wis.-Oshkosh	http://stats.ncaa.org/team/798/12500
+2017	12500	800	Wis.-Platteville	http://stats.ncaa.org/team/800/12500
+2017	12500	801	Wis.-River Falls	http://stats.ncaa.org/team/801/12500
+2017	12500	802	Wis.-Stevens Point	http://stats.ncaa.org/team/802/12500
+2017	12500	803	Wis.-Stout	http://stats.ncaa.org/team/803/12500
+2017	12500	804	Wis.-Superior	http://stats.ncaa.org/team/804/12500
+2017	12500	805	Wis.-Whitewater	http://stats.ncaa.org/team/805/12500
+2017	12500	806	Wittenberg	http://stats.ncaa.org/team/806/12500
+2017	12500	787	Wm. Paterson	http://stats.ncaa.org/team/787/12500
+2017	12500	807	Wooster	http://stats.ncaa.org/team/807/12500
+2017	12500	809	Worcester St.	http://stats.ncaa.org/team/809/12500
+2017	12500	814	Yeshiva	http://stats.ncaa.org/team/814/12500
+2017	12500	2730	York (NY)	http://stats.ncaa.org/team/2730/12500
+2017	12500	815	York (PA)	http://stats.ncaa.org/team/815/12500
