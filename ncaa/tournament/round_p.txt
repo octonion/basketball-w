@@ -1,23 +1,15 @@
 BEGIN
  rd |    name    |   p   
 ----+------------+-------
-  5 | UConn      | 0.978
-  5 | Baylor     | 0.708
-  5 | Oregon St. | 0.292
-  5 | Texas      | 0.022
-  6 | UConn      | 0.910
+  6 | UConn      | 0.964
   6 | Syracuse   | 0.578
   6 | Washington | 0.422
-  6 | Baylor     | 0.070
-  6 | Oregon St. | 0.014
-  6 | Texas      | 0.006
-  7 | UConn      | 0.900
-  7 | Baylor     | 0.062
-  7 | Syracuse   | 0.015
-  7 | Oregon St. | 0.011
-  7 | Washington | 0.008
-  7 | Texas      | 0.004
-(16 rows)
+  6 | Oregon St. | 0.036
+  7 | UConn      | 0.954
+  7 | Oregon St. | 0.028
+  7 | Syracuse   | 0.012
+  7 | Washington | 0.007
+(8 rows)
 
-COPY 16
+COPY 8
 COMMIT

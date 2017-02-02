@@ -1,13 +1,11 @@
 BEGIN
  school_name |   p   
 -------------+-------
- UConn       | 0.900
- Baylor      | 0.062
- Syracuse    | 0.015
- Oregon St.  | 0.011
- Washington  | 0.008
- Texas       | 0.004
-(6 rows)
+ UConn       | 0.954
+ Oregon St.  | 0.028
+ Syracuse    | 0.012
+ Washington  | 0.007
+(4 rows)
 
-COPY 6
+COPY 4
 COMMIT

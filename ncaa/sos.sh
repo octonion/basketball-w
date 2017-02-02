@@ -23,6 +23,7 @@ psql basketball-w -c "vacuum full verbose analyze ncaa._schedule_factors;"
 psql basketball-w -f sos/connectivity.sql > sos/connectivity.txt
 
 psql basketball-w -f sos/current_ranking.sql > sos/current_ranking.txt
+cp /tmp/current_ranking.csv sos/current_ranking.csv
 
 psql basketball-w -f sos/division_ranking.sql > sos/division_ranking.txt
 
