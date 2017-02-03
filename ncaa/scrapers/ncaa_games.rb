@@ -57,12 +57,13 @@ record_xpath = "//table/tr[3]/td/form/table[1]/tr[2]"
         team_count += 1
         records << row
       end
-      #records.flush
+      records.flush
     end
 
     page.parser.xpath(game_xpath).each do |tr|
 
       row = []
+      
       tr.xpath("td").each do |td|
 
         a = td.xpath("a").first
@@ -89,7 +90,7 @@ record_xpath = "//table/tr[3]/td/form/table[1]/tr[2]"
 
       game_count += 1
 
-      rr = [year, school_name, school_id,row[0], opponent_id,
+      rr = [year, school_name, school_id, row[0], opponent_id,
             row[2],row[4],row[6],row[8],row[10],row[12],row[14]]
 
       rr.map!{ |e| e=='' ? nil : e }
@@ -99,7 +100,7 @@ record_xpath = "//table/tr[3]/td/form/table[1]/tr[2]"
 #      games << [year,school_name,school_id,row[0],opponent_id,row[2],row[4],
 #                row[6],row[8],row[10],row[12],row[14]]
     end
-    #games.flush
+    games.flush
   end
   records.close
   games.close
