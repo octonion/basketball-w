@@ -2,97 +2,73 @@ BEGIN
 SET
     date    | site |         home         | div | score |        away         | div | score 
 ------------+------+----------------------+-----+-------+---------------------+-----+-------
- 2017-02-03 | home | Alfred               |   3 |  48.3 | Ithaca              |   3 |  87.7
- 2017-02-03 | home | Arizona              |   1 |  60.5 | Oregon              |   1 |  69.3
- 2017-02-03 | home | Arizona St.          |   1 |  51.9 | Oregon St.          |   1 |  51.4
- 2017-02-03 | home | Augustana (SD)       |   2 |  85.7 | Minn.-Crookston     |   2 |  63.9
- 2017-02-03 | home | Bard                 |   3 |  32.7 | Skidmore            |   3 |  76.8
- 2017-02-03 | home | Bates                |   3 |  39.8 | Amherst             |   3 |  72.5
- 2017-02-03 | home | Birmingham-So.       |   3 |  56.5 | Rhodes              |   3 |  43.6
- 2017-02-03 | home | Black Hills St.      |   2 |  53.5 | MSU Denver          |   2 |  56.3
- 2017-02-03 | home | Bradley              |   1 |  63.8 | Loyola Chicago      |   1 |  47.9
- 2017-02-03 | home | Brandeis             |   3 |  59.4 | Emory               |   3 |  57.4
- 2017-02-03 | home | Brockport            |   3 |  45.9 | SUNY Geneseo        |   3 |  63.2
- 2017-02-03 | home | Brown                |   1 |  67.1 | Cornell             |   1 |  69.8
- 2017-02-03 | home | California           |   1 |  65.7 | UCLA                |   1 |  71.6
- 2017-02-03 | home | Cal St. Monterey Bay |   2 |  56.1 | UC San Diego        |   2 |  69.3
- 2017-02-03 | home | Cal St. San B'dino   |   2 |  60.9 | Cal St. East Bay    |   2 |  56.9
- 2017-02-03 | home | Castleton            |   3 |  60.6 | Thomas (ME)         |   3 |  36.3
- 2017-02-03 | home | Centre               |   3 |  47.8 | Oglethorpe          |   3 |  57.6
- 2017-02-03 | home | Chadron St.          |   2 |  66.8 | Colo. Christian     |   2 |  72.2
- 2017-02-03 | home | Chicago              |   3 |  86.6 | CWRU                |   3 |  69.3
- 2017-02-03 | home | Col. of Charleston   |   1 |  54.2 | Drexel              |   1 |  66.9
- 2017-02-03 | home | Colorado             |   1 |  69.5 | Washington St.      |   1 |  69.9
- 2017-02-03 | home | Colorado Col.        |   3 |  58.8 | Centenary (LA)      |   3 |  64.3
- 2017-02-03 | home | Colorado St.-Pueblo  |   2 |  79.6 | Adams St.           |   2 |  45.2
- 2017-02-03 | home | Concordia-St. Paul   |   2 |  77.0 | St. Cloud St.       |   2 |  65.1
- 2017-02-03 | home | Covenant             |   3 |  72.7 | Wesleyan (GA)       |   3 |  45.3
- 2017-02-03 | home | Dallas               |   3 |  56.0 | Austin              |   3 |  65.8
- 2017-02-03 | home | Delaware             |   1 |  61.7 | UNCW                |   1 |  50.0
- 2017-02-03 | home | DePaul               |   1 |  72.5 | St. John's (NY)     |   1 |  60.5
- 2017-02-03 | home | DePauw               |   3 |  69.4 | Hiram               |   3 |  47.3
- 2017-02-03 | home | Elmira               |   3 |  49.5 | Stevens             |   3 |  66.8
- 2017-02-03 | home | Elon                 |   1 |  74.8 | Towson              |   1 |  56.2
- 2017-02-03 | home | Evansville           |   1 |  51.7 | UNI                 |   1 |  65.6
- 2017-02-03 | home | Georgetown           |   1 |  62.5 | Providence          |   1 |  52.3
- 2017-02-03 | home | Green Mountain       |   3 |  39.4 | Me.-Farmington      |   3 |  66.2
- 2017-02-03 | home | Hamilton             |   3 |  45.8 | Bowdoin             |   3 |  69.5
- 2017-02-03 | home | Hofstra              |   1 |  58.0 | James Madison       |   1 |  70.5
- 2017-02-03 | home | Houghton             |   3 |  53.1 | Hartwick            |   3 |  61.8
- 2017-02-03 | home | Illinois St.         |   1 |  48.9 | Indiana St.         |   1 |  56.8
- 2017-02-03 | home | John Jay             |   3 |  60.6 | Medgar Evers        |   3 |  50.0
- 2017-02-03 | home | Johnson St.          |   3 |  55.0 | Maine Maritime      |   3 |  64.1
- 2017-02-03 | home | Lewis & Clark        |   3 |  69.1 | Puget Sound         |   3 |  72.3
- 2017-02-03 | home | Linfield             |   3 |  65.2 | Whitworth           |   3 |  65.5
- 2017-02-03 | home | Lyndon St.           |   3 |  51.7 | Husson              |   3 |  83.5
- 2017-02-03 | home | Marquette            |   1 |  90.2 | Seton Hall          |   1 |  66.3
- 2017-02-03 | home | Mary                 |   2 |  53.5 | Sioux Falls         |   2 |  62.3
- 2017-02-03 | home | Maryville (TN)       |   3 |  72.4 | Agnes Scott         |   3 |  38.9
- 2017-02-03 | home | Middlebury           |   3 |  56.2 | Colby               |   3 |  46.6
- 2017-02-03 | home | Millsaps             |   3 |  57.4 | Hendrix             |   3 |  55.0
- 2017-02-03 | home | Minnesota St.        |   2 |  69.9 | Minn. Duluth        |   2 |  61.1
- 2017-02-03 | home | Minot St.            |   2 |  67.9 | Southwest Minn. St. |   2 |  64.1
- 2017-02-03 | home | MSU Moorhead         |   2 |  63.5 | Winona St.          |   2 |  55.6
- 2017-02-03 | home | N.M. Highlands       |   2 |  52.5 | Fort Lewis          |   2 |  74.1
- 2017-02-03 | home | North Central (MN)   |   3 |  68.2 | Finlandia           |   3 |  69.8
- 2017-02-03 | home | Northeastern         |   1 |  54.6 | William & Mary      |   1 |  59.7
- 2017-02-03 | home | Northern St.         |   2 |  72.8 | Upper Iowa          |   2 |  50.8
- 2017-02-03 | home | Northwestern-St.Paul |   3 |  65.9 | Northland           |   3 |  57.7
- 2017-02-03 | home | NYU                  |   3 |  59.8 | Rochester (NY)      |   3 |  63.3
- 2017-02-03 | home | Pacific (OR)         |   3 |  52.7 | Whitman             |   3 |  70.8
- 2017-02-03 | home | Penn                 |   1 |  59.1 | Harvard             |   1 |  55.8
- 2017-02-03 | home | Princeton            |   1 |  66.0 | Dartmouth           |   1 |  51.9
- 2017-02-03 | home | Regis (CO)           |   2 |  67.5 | Colorado Mines      |   2 |  59.5
- 2017-02-03 | home | RIT                  |   3 |  65.9 | Clarkson            |   3 |  56.7
- 2017-02-03 | home | Roberts Wesleyan     |   2 |  79.8 | Bridgeport          |   2 |  72.7
- 2017-02-03 | home | Saint Peter's        |   1 |  56.7 | Marist              |   1 |  63.0
- 2017-02-03 | home | San Fran. St.        |   2 |  52.3 | Stanislaus St.      |   2 |  60.4
- 2017-02-03 | home | Schreiner            |   3 |  57.5 | Texas Lutheran      |   3 |  65.0
- 2017-02-03 | home | Sewanee              |   3 |  66.1 | Berry               |   3 |  59.0
- 2017-02-03 | home | Sonoma St.           |   2 |  60.3 | Chico St.           |   2 |  58.2
- 2017-02-03 | home | South Dakota Mines   |   2 |  61.3 | UC-Colo. Springs    |   2 |  61.9
- 2017-02-03 | home | Southern Ill.        |   1 |  63.8 | Drake               |   1 |  81.7
- 2017-02-03 | home | Stanford             |   1 |  74.8 | Southern California |   1 |  56.1
- 2017-02-03 | home | St. Scholastica      |   3 |  62.5 | Bethany Lutheran    |   3 |  63.0
- 2017-02-03 | home | SUNY Cortland        |   3 |  63.8 | Plattsburgh St.     |   3 |  53.7
- 2017-02-03 | home | SUNY New Paltz       |   3 |  69.3 | Fredonia            |   3 |  61.5
- 2017-02-03 | home | SUNY Oneonta         |   3 |  62.0 | Buffalo St.         |   3 |  46.4
- 2017-02-03 | home | Trinity (TX)         |   3 |  75.4 | Southwestern (TX)   |   3 |  56.3
- 2017-02-03 | home | Tufts                |   3 |  68.5 | Trinity (CT)        |   3 |  42.7
- 2017-02-03 | home | Utah                 |   1 |  61.3 | Washington          |   1 |  78.8
- 2017-02-03 | home | Vassar               |   3 |  59.1 | Union (NY)          |   3 |  50.9
- 2017-02-03 | home | Villanova            |   1 |  54.7 | Creighton           |   1 |  57.1
- 2017-02-03 | home | Washington-St. Louis |   3 |  76.9 | Carnegie Mellon     |   3 |  63.6
- 2017-02-03 | home | Wayne St. (NE)       |   2 |  75.9 | Bemidji St.         |   2 |  57.9
- 2017-02-03 | home | Wesleyan (CT)        |   3 |  55.4 | Williams            |   3 |  58.3
- 2017-02-03 | home | Western St.          |   2 |  52.0 | Westminster (UT)    |   2 |  54.6
- 2017-02-03 | home | Willamette           |   3 |  64.8 | Pacific Lutheran    |   3 |  47.3
- 2017-02-03 | home | William Smith        |   3 |  69.6 | St. Lawrence        |   3 |  55.6
- 2017-02-03 | home | Wis.-Superior        |   3 |  73.0 | Martin Luther       |   3 |  51.7
- 2017-02-03 | home | Wittenberg           |   3 |  70.8 | Allegheny           |   3 |  54.6
- 2017-02-03 | home | Yale                 |   1 |  65.0 | Columbia            |   1 |  59.1
- 2017-02-03 | home | York (NY)            |   3 |  43.9 | CCNY                |   3 |  68.0
-(90 rows)
+ 2017-02-05 | home | Arizona              |   1 |  51.7 | Oregon St.          |   1 |  66.2
+ 2017-02-05 | home | Arizona St.          |   1 |  60.7 | Oregon              |   1 |  55.0
+ 2017-02-05 | home | Arkansas             |   1 |  52.6 | South Carolina      |   1 |  72.1
+ 2017-02-05 | home | Averett              |   3 |  71.6 | William Peace       |   3 |  69.0
+ 2017-02-05 | home | Birmingham-So.       |   3 |  51.3 | Hendrix             |   3 |  50.0
+ 2017-02-05 | home | Boston College       |   1 |  60.3 | Syracuse            |   1 |  75.3
+ 2017-02-05 | home | Bradley              |   1 |  53.7 | Indiana St.         |   1 |  54.0
+ 2017-02-05 | home | Brandeis             |   3 |  56.9 | Rochester (NY)      |   3 |  58.9
+ 2017-02-05 | home | California           |   1 |  68.4 | Southern California |   1 |  63.3
+ 2017-02-05 | home | Centre               |   3 |  48.4 | Berry               |   3 |  49.6
+ 2017-02-05 | home | Chicago              |   3 |  74.2 | Carnegie Mellon     |   3 |  62.2
+ 2017-02-05 | home | Clemson              |   1 |  60.5 | North Carolina      |   1 |  67.2
+ 2017-02-05 | home | Col. of Charleston   |   1 |  68.5 | Towson              |   1 |  66.0
+ 2017-02-05 | home | Colorado             |   1 |  67.0 | Washington          |   1 |  86.9
+ 2017-02-05 | home | Colorado Col.        |   3 |  50.7 | Austin              |   3 |  69.5
+ 2017-02-05 | home | Connecticut Col.     |   3 |  64.6 | Williams            |   3 |  58.2
+ 2017-02-05 | home | Dallas               |   3 |  63.7 | Centenary (LA)      |   3 |  59.8
+ 2017-02-05 | home | Delaware             |   1 |  50.3 | Drexel              |   1 |  57.8
+ 2017-02-05 | home | DePaul               |   1 |  93.6 | Seton Hall          |   1 |  62.6
+ 2017-02-05 | home | Duquesne             |   1 |  64.6 | George Mason        |   1 |  59.4
+ 2017-02-05 | home | Evansville           |   1 |  59.1 | Drake               |   1 |  82.3
+ 2017-02-05 | home | Fairfield            |   1 |  60.9 | Saint Peter's       |   1 |  48.6
+ 2017-02-05 | home | Ferrum               |   3 |  70.3 | Methodist           |   3 |  49.3
+ 2017-02-05 | home | Gallaudet            |   3 |  67.1 | Penn St.-Berks      |   3 |  59.9
+ 2017-02-05 | home | Georgetown           |   1 |  56.6 | Creighton           |   1 |  57.8
+ 2017-02-05 | home | Georgia              |   1 |  59.7 | Tennessee           |   1 |  70.0
+ 2017-02-05 | home | Georgia Tech         |   1 |  66.2 | Virginia Tech       |   1 |  62.2
+ 2017-02-05 | home | Hofstra              |   1 |  53.8 | William & Mary      |   1 |  57.9
+ 2017-02-05 | home | Huntingdon           |   3 |  70.3 | Salem               |   3 |  55.3
+ 2017-02-05 | home | Illinois             |   1 |  53.7 | Purdue              |   1 |  63.8
+ 2017-02-05 | home | Illinois St.         |   1 |  58.6 | Loyola Chicago      |   1 |  49.7
+ 2017-02-05 | home | Indiana              |   1 |  73.6 | Maryland            |   1 |  86.7
+ 2017-02-05 | home | Kansas               |   1 |  62.9 | TCU                 |   1 |  69.7
+ 2017-02-05 | home | Kentucky             |   1 |  79.4 | Vanderbilt          |   1 |  60.7
+ 2017-02-05 | home | Keuka                |   3 |  72.5 | Cazenovia           |   3 |  54.6
+ 2017-02-05 | home | LaGrange             |   3 |  55.7 | Piedmont            |   3 |  61.9
+ 2017-02-05 | home | LSU                  |   1 |  64.6 | Alabama             |   1 |  56.5
+ 2017-02-05 | home | Luther               |   3 |  60.7 | St. Thomas (MN)     |   3 |  75.2
+ 2017-02-05 | home | Marquette            |   1 |  68.6 | St. John's (NY)     |   1 |  63.4
+ 2017-02-05 | home | Mary Baldwin         |   3 |  44.2 | N.C. Wesleyan       |   3 |  68.3
+ 2017-02-05 | home | Memphis              |   1 |  52.7 | South Fla.          |   1 |  66.7
+ 2017-02-05 | home | Merchant Marine      |   3 |  65.7 | Yeshiva             |   3 |  37.5
+ 2017-02-05 | home | Meredith             |   3 |  47.6 | Greensboro          |   3 |  59.3
+ 2017-02-05 | home | Michigan             |   1 |  76.6 | Iowa                |   1 |  63.8
+ 2017-02-05 | home | Millsaps             |   3 |  60.8 | Rhodes              |   3 |  47.7
+ 2017-02-05 | home | Mississippi St.      |   1 |  73.5 | Missouri            |   1 |  51.1
+ 2017-02-05 | home | Northeastern         |   1 |  57.9 | James Madison       |   1 |  72.6
+ 2017-02-05 | home | Northwestern         |   1 |  71.4 | Penn St.            |   1 |  64.7
+ 2017-02-05 | home | Notre Dame de Namur  |   2 |  71.3 | Academy of Art      |   2 |  73.3
+ 2017-02-05 | home | NYU                  |   3 |  63.3 | Emory               |   3 |  62.9
+ 2017-02-05 | home | Richmond             |   1 |  63.1 | Rhode Island        |   1 |  52.7
+ 2017-02-05 | home | Saint Louis          |   1 |  69.4 | Saint Joseph's      |   1 |  59.6
+ 2017-02-05 | home | Sewanee              |   3 |  64.9 | Oglethorpe          |   3 |  68.0
+ 2017-02-05 | home | Southern Ill.        |   1 |  53.7 | UNI                 |   1 |  64.2
+ 2017-02-05 | home | Texas A&M            |   1 |  63.9 | Auburn              |   1 |  58.5
+ 2017-02-05 | home | Tulane               |   1 |  62.8 | Temple              |   1 |  64.3
+ 2017-02-05 | home | UConn                |   1 |  98.9 | Tulsa               |   1 |  49.7
+ 2017-02-05 | home | UNCW                 |   1 |  50.9 | Elon                |   1 |  71.0
+ 2017-02-05 | home | Utah                 |   1 |  62.9 | Washington St.      |   1 |  62.7
+ 2017-02-05 | home | Villanova            |   1 |  59.7 | Providence          |   1 |  50.9
+ 2017-02-05 | home | Virginia             |   1 |  53.8 | Duke                |   1 |  59.8
+ 2017-02-05 | home | Wake Forest          |   1 |  61.8 | Pittsburgh          |   1 |  57.3
+ 2017-02-05 | home | Washington-St. Louis |   3 |  90.7 | CWRU                |   3 |  68.0
+ 2017-02-05 | home | Wells                |   3 |  52.4 | Morrisville St.     |   3 |  61.8
+ 2017-02-05 | home | Wichita St.          |   1 |  64.4 | Missouri St.        |   1 |  63.4
+ 2017-02-05 | home | Wilson               |   3 |  57.5 | Lancaster Bible     |   3 |  84.9
+(66 rows)
 
-COPY 90
+COPY 66
 COMMIT
