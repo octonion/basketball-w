@@ -1,11 +1,71 @@
 BEGIN
- school_name |   p   
--------------+-------
- UConn       | 0.954
- Oregon St.  | 0.028
- Syracuse    | 0.012
- Washington  | 0.007
-(4 rows)
+    school_name     |   p   
+--------------------+-------
+ UConn              | 0.744
+ Baylor             | 0.148
+ Mississippi St.    | 0.048
+ Notre Dame         | 0.026
+ Louisville         | 0.015
+ Oregon             | 0.008
+ Texas              | 0.004
+ South Carolina     | 0.002
+ UCLA               | 0.002
+ Florida St.        | 0.001
+ Ohio St.           | 0.001
+ Green Bay          | 0.001
+ Dayton             | 0.000
+ DePaul             | 0.000
+ Drake              | 0.000
+ Duke               | 0.000
+ American           | 0.000
+ George Washington  | 0.000
+ Georgia            | 0.000
+ Gonzaga            | 0.000
+ Grambling          | 0.000
+ Iowa               | 0.000
+ Liberty            | 0.000
+ LSU                | 0.000
+ California         | 0.000
+ Maine              | 0.000
+ Marquette          | 0.000
+ Maryland           | 0.000
+ Mercer             | 0.000
+ Miami (FL)         | 0.000
+ Michigan           | 0.000
+ Minnesota          | 0.000
+ CSUN               | 0.000
+ Missouri           | 0.000
+ Nebraska           | 0.000
+ Nicholls St.       | 0.000
+ N.C. A&T           | 0.000
+ NC State           | 0.000
+ Northern Colo.     | 0.000
+ Buffalo            | 0.000
+ Belmont            | 0.000
+ Oklahoma St.       | 0.000
+ Oklahoma           | 0.000
+ Oregon St.         | 0.000
+ Boise St.          | 0.000
+ Princeton          | 0.000
+ Quinnipiac         | 0.000
+ Saint Francis (PA) | 0.000
+ Little Rock        | 0.000
+ South Dakota St.   | 0.000
+ South Fla.         | 0.000
+ Stanford           | 0.000
+ Syracuse           | 0.000
+ Tennessee          | 0.000
+ Texas A&M          | 0.000
+ Arizona St.        | 0.000
+ Villanova          | 0.000
+ Virginia           | 0.000
+ Western Ky.        | 0.000
+ FGCU               | 0.000
+ Elon               | 0.000
+ Seattle U          | 0.000
+ Central Mich.      | 0.000
+ Creighton          | 0.000
+(64 rows)
 
-COPY 4
+COPY 64
 COMMIT
