@@ -311,6 +311,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Alabama,8,Georgia,257,02/22/2018,43,49,Home,,1 OT,"2,103"
 2018,Alabama,8,LSU,365,02/25/2018,78,79,Away,,1 OT,"3,016"
 2018,Alabama,8,Kentucky,334,03/01/2018,64,71,Neutral,"BRIDGESTONE ARENA - NASHVILLE, TN",-,0
+2018,Alabama,8,Southern U.,665,03/14/2018,69,56,Home,,-,294
+2018,Alabama,8,UCF,128,03/18/2018,0,0,Home,,-,0
 2018,Alabama A&M,6,Alabama,8,11/10/2017,32,90,Away,,-,"2,414"
 2018,Alabama A&M,6,Evansville,219,11/15/2017,70,56,Home,,-,827
 2018,Alabama A&M,6,Tennessee St.,691,11/18/2017,77,75,Away,,-,"1,136"
@@ -399,7 +401,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Alas. Anchorage,11,Northwest Nazarene,1274,02/22/2018,78,104,Away,,-,"1,250"
 2018,Alas. Anchorage,11,Central Wash.,1010,02/24/2018,84,72,Away,,-,688
 2018,Alas. Anchorage,11,Seattle Pacific,634,03/02/2018,65,74,Home,,-,"1,166"
-2018,Alas. Anchorage,11,Northwest Nazarene,1274,03/09/2018,0,0,Neutral,,-,0
+2018,Alas. Anchorage,11,Northwest Nazarene,1274,03/09/2018,65,63,Neutral,"Azusa, Calif. (Felix Event Center)",-,197
+2018,Alas. Anchorage,11,Humboldt St.,291,03/10/2018,81,73,Neutral,"Azusa, Calif. (Felix Event Center)",-,261
+2018,Alas. Anchorage,11,Mont. St. Billings,205,03/12/2018,70,71,Neutral,"Azusa, Calif. (Felix Event Center)",-,123
 2018,Alas. Fairbanks,12,Hawaii Hilo,2697,11/10/2017,49,62,Home,,-,328
 2018,Alas. Fairbanks,12,Hawaii Hilo,2697,11/11/2017,56,50,Home,,-,183
 2018,Alas. Fairbanks,12,Western St.,2759,11/17/2017,41,49,Neutral,"Alaska Airlines Center - Anchorage, AK",-,200
@@ -457,6 +461,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Albany (NY),14,Maine,380,02/25/2018,69,74,Away,,1 OT,"3,140"
 2018,Albany (NY),14,Vermont,738,03/03/2018,60,42,Neutral,"Cross Insurance Arena - Portland, Maine",-,"1,292"
 2018,Albany (NY),14,Hartford,272,03/04/2018,56,58,Neutral,"Cross Insurance Arena - Portland, Maine",-,0
+2018,Albany (NY),14,Penn,540,03/16/2018,0,0,Away,,-,0
 2018,Albany St. (GA),13,West Florida,11740,11/10/2017,67,80,Neutral,"Valdosta, Ga.",-,165
 2018,Albany St. (GA),13,Valdosta St.,734,11/11/2017,47,76,Away,,-,442
 2018,Albany St. (GA),13,Ga. Southwestern,1097,11/17/2017,76,70,Away,,-,284
@@ -801,6 +806,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,American,23,Lafayette,342,03/05/2018,55,35,Home,,-,501
 2018,American,23,Army West Point,725,03/08/2018,60,49,Home,,-,585
 2018,American,23,Navy,726,03/11/2018,58,49,Home,,-,"1,001"
+2018,American,23,UCLA,110,03/17/2018,0,0,Away,,-,0
 2018,American Int'l,22,Daemen,30174,11/10/2017,61,70,Neutral,"Rochester, N.Y.",-,250
 2018,American Int'l,22,Roberts Wesleyan,30150,11/11/2017,66,52,Away,,-,125
 2018,American Int'l,22,Le Moyne,349,11/15/2017,67,70,Away,,-,357
@@ -1091,6 +1097,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Arizona St.,28,Arizona,29,03/01/2018,76,47,Neutral,"Seattle, Wash. - KeyArena",-,"3,157"
 2018,Arizona St.,28,Oregon St.,528,03/02/2018,57,51,Neutral,"Seattle, Wash. - KeyArena",-,"4,741"
 2018,Arizona St.,28,Stanford,674,03/03/2018,46,58,Neutral,"Seattle, Wash. (KeyArena)",-,"6,889"
+2018,Arizona St.,28,Nebraska,463,03/17/2018,0,0,Neutral,"Austin, TX",-,0
 2018,Ark.-Fort Smith,30105,Colo. Sch. of Mines,155,11/10/2017,75,45,Home,,-,673
 2018,Ark.-Fort Smith,30105,Colo. Christian,11403,11/11/2017,80,50,Home,,-,467
 2018,Ark.-Fort Smith,30105,Emporia St.,1071,11/14/2017,49,63,Home,,-,635
@@ -1333,6 +1340,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Ashland,35,Grand Valley St.,262,03/04/2018,85,74,Home,,-,"1,350"
 2018,Ashland,35,Hillsdale,280,03/09/2018,104,82,Home,,-,"1,773"
 2018,Ashland,35,Grand Valley St.,262,03/10/2018,80,68,Home,,-,"1,917"
+2018,Ashland,35,Drury,1057,03/12/2018,79,73,Home,,-,"1,949"
 2018,Assumption,36,Merrimack,410,11/15/2017,50,53,Home,,-,225
 2018,Assumption,36,St. Anselm,593,11/18/2017,45,55,Away,,-,349
 2018,Assumption,36,Bentley,56,11/21/2017,52,64,Home,,-,137
@@ -1495,6 +1503,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Augustana (SD),41,Winona St.,790,02/27/2018,64,45,Neutral,"Sioux Falls, SD (Sanford Pentagon)",-,930
 2018,Augustana (SD),41,Lindenwood (MO),30136,03/09/2018,75,41,Home,,-,"1,300"
 2018,Augustana (SD),41,Northern St.,1266,03/10/2018,90,86,Home,,1 OT,"1,215"
+2018,Augustana (SD),41,Central Mo.,130,03/12/2018,42,81,Home,,-,"1,274"
 2018,AUM,30093,Tuskegee,720,11/11/2017,61,58,Neutral,"Montevallo, Ala.",-,125
 2018,AUM,30093,Miles,422,11/12/2017,52,49,Neutral,"Montevallo, Ala.",-,225
 2018,AUM,30093,Middle Ga. St.,,11/15/2017,69,65,Home,,-,114
@@ -1663,7 +1672,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Azusa Pacific,30146,Hawaii Pacific,2696,02/22/2018,81,63,Away,,-,483
 2018,Azusa Pacific,30146,Chaminade,133,02/24/2018,86,68,Away,,-,250
 2018,Azusa Pacific,30146,Point Loma,30149,03/02/2018,68,76,Neutral,"Riverside, Calif.",-,260
-2018,Azusa Pacific,30146,Humboldt St.,291,03/09/2018,0,0,Home,,-,0
+2018,Azusa Pacific,30146,Humboldt St.,291,03/09/2018,60,66,Home,,-,417
 2018,Babson,45,St. Joseph's (ME),605,11/17/2017,81,64,Neutral,"Keene, N.H.",-,0
 2018,Babson,45,Framingham St.,238,11/18/2017,60,59,Neutral,"Keene, N.H.",-,200
 2018,Babson,45,Connecticut Col.,163,11/26/2017,62,73,Home,,-,190
@@ -1747,6 +1756,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Ball St.,47,Central Mich.,129,02/28/2018,80,88,Away,,-,"2,132"
 2018,Ball St.,47,Eastern Mich.,204,03/03/2018,88,63,Away,,-,"1,370"
 2018,Ball St.,47,Western Mich.,774,03/07/2018,54,65,Neutral,"Cleveland, Ohio (Quicken Loans Arena)",-,"3,012"
+2018,Ball St.,47,Middle Tenn.,419,03/15/2018,69,60,Home,,-,"1,083"
 2018,Bard,962,Mt. St. Mary (NY),1468,11/15/2017,31,77,Away,,-,101
 2018,Bard,962,Cazenovia,23624,11/18/2017,68,79,Home,,-,65
 2018,Bard,962,Cobleskill St.,30083,11/21/2017,62,66,Away,,-,146
@@ -1935,6 +1945,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Baylor,51,Kansas St.,327,03/03/2018,83,54,Neutral,"Chesapeake Energy Arena, Oklahoma City",-,"4,047"
 2018,Baylor,51,TCU,698,03/04/2018,94,48,Neutral,"Chesapeake Energy Arena, Oklahoma City",-,0
 2018,Baylor,51,Texas,703,03/05/2018,77,69,Neutral,"Chesapeake Energy Arena, Oklahoma City",-,"3,520"
+2018,Baylor,51,Grambling,261,03/16/2018,0,0,Home,,-,0
 2018,Becker,26107,Anna Maria,26,11/15/2017,57,54,Home,,-,476
 2018,Becker,26107,WPI,808,11/17/2017,27,65,Neutral,"Worcester, MA",-,200
 2018,Becker,26107,Clark (MA),145,11/18/2017,62,65,Away,,-,117
@@ -2051,6 +2062,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Belmont,14927,Murray St.,454,02/28/2018,88,64,Neutral,"Evansville, Ind. (Ford Center)",-,0
 2018,Belmont,14927,Jacksonville St.,315,03/02/2018,63,53,Neutral,"Evansville, Ind. (Ford Center)",-,0
 2018,Belmont,14927,UT Martin,695,03/03/2018,63,56,Neutral,"Evansville, Ind. (Ford Center)",1 OT,823
+2018,Belmont,14927,Duke,193,03/17/2018,0,0,Neutral,"Athens, GA",-,0
 2018,Belmont Abbey,2683,Coker,1023,11/10/2017,66,71,Home,,-,0
 2018,Belmont Abbey,2683,Newberry,1257,11/11/2017,57,77,Home,,-,0
 2018,Belmont Abbey,2683,Mars Hill,1199,11/14/2017,77,65,Away,,-,241
@@ -2380,6 +2392,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Bethune-Cookman,61,Florida A&M,228,03/01/2018,62,42,Away,,-,"2,479"
 2018,Bethune-Cookman,61,UMES,393,03/07/2018,71,65,Neutral,"The Scope Arena | Norfolk, Va.",-,"7,523"
 2018,Bethune-Cookman,61,Hampton,270,03/09/2018,60,61,Neutral,2018 MEAC Women's Basketball Tournament,-,0
+2018,Bethune-Cookman,61,Georgia Tech,255,03/15/2018,32,85,Away,,-,539
 2018,Binghamton,62,Army West Point,725,11/10/2017,61,73,Away,,-,725
 2018,Binghamton,62,SUNY Cortland,168,11/13/2017,90,36,Home,,-,"1,239"
 2018,Binghamton,62,Penn,540,11/15/2017,77,72,Home,,-,"1,364"
@@ -2410,6 +2423,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Binghamton,62,Albany (NY),14,02/22/2018,53,57,Home,,-,"1,672"
 2018,Binghamton,62,Hartford,272,02/25/2018,45,61,Away,,-,"1,218"
 2018,Binghamton,62,Hartford,272,03/03/2018,68,72,Neutral,"Cross Insurance Arena - Portland, Maine",1 OT,0
+2018,Binghamton,62,Youngstown St.,817,03/14/2018,70,59,Away,,-,830
 2018,Biola,30220,Cal Poly Pomona,91,11/14/2017,64,82,Away,,-,87
 2018,Biola,30220,Northwest Nazarene,1274,11/16/2017,67,64,Home,,-,212
 2018,Biola,30220,Saint Martin's,1343,11/21/2017,59,69,Away,,-,310
@@ -2663,6 +2677,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Boise St.,66,Air Force,721,03/06/2018,60,46,Neutral,"Las Vegas, Nevada (Thomas & Mack Center)",-,0
 2018,Boise St.,66,Colorado St.,156,03/07/2018,76,51,Neutral,"Las Vegas, Nevada (Thomas & Mack Center)",-,"2,142"
 2018,Boise St.,66,Nevada,466,03/09/2018,62,60,Neutral,"Las Vegas, Nevada (Thomas & Mack Center)",-,"2,419"
+2018,Boise St.,66,Louisville,367,03/16/2018,0,0,Away,,-,0
 2018,Boston College,67,Bryant,81,11/10/2017,65,42,Home,,-,748
 2018,Boston College,67,Dartmouth,172,11/12/2017,57,68,Away,,-,537
 2018,Boston College,67,Fordham,236,11/16/2017,55,52,Home,,-,"2,563"
@@ -2783,7 +2798,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Bowie St.,70,Virginia St.,743,03/02/2018,53,49,Neutral,"Spectrum Center - Charlotte, N.C.",-,0
 2018,Bowie St.,70,Virginia Union,744,03/03/2018,57,73,Neutral,"Spectrum Center - Charlotte, NC",-,0
 2018,Bowie St.,70,Virginia Union,744,03/09/2018,63,56,Away,,-,"1,854"
-2018,Bowie St.,70,Edinboro,209,03/10/2018,79,75,Neutral,"Richmond, VA (Barco-Stevens Hall)",-,417
+2018,Bowie St.,70,Edinboro,209,03/10/2018,79,75,Neutral,"Richmond, VA",-,845
+2018,Bowie St.,70,Indiana (PA),307,03/12/2018,60,75,Neutral,"Richmond, VA (Barco-Stevens Hall)",-,400
 2018,Bowling Green,71,Eastern Ky.,202,11/10/2017,77,60,Home,,-,937
 2018,Bowling Green,71,Detroit Mercy,184,11/13/2017,85,81,Away,,-,"4,127"
 2018,Bowling Green,71,Robert Morris,579,11/16/2017,64,62,Away,,1 OT,529
@@ -3170,6 +3186,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Bucknell,83,Army West Point,725,02/28/2018,75,55,Away,,-,578
 2018,Bucknell,83,Holy Cross,285,03/05/2018,67,53,Home,,-,594
 2018,Bucknell,83,Navy,726,03/08/2018,62,68,Home,,-,619
+2018,Bucknell,83,West Virginia,768,03/15/2018,50,83,Away,,-,"1,509"
 2018,Buena Vista,84,Gust. Adolphus,266,11/15/2017,73,80,Home,,-,515
 2018,Buena Vista,84,Cornell College,166,11/17/2017,72,63,Away,,-,405
 2018,Buena Vista,84,Bethel (MN),60,11/18/2017,79,85,Neutral,Small Multi-Purpose Center,-,205
@@ -3228,6 +3245,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Buffalo,86,Kent St.,331,03/07/2018,72,50,Neutral,"Cleveland, Ohio (Quicken Loans Arena)",-,0
 2018,Buffalo,86,Western Mich.,774,03/09/2018,85,53,Neutral,"Cleveland, Ohio (Quicken Loans Arena)",-,"1,271"
 2018,Buffalo,86,Central Mich.,129,03/10/2018,91,96,Neutral,"Cleveland, Ohio (Quicken Loans Arena)",-,"1,656"
+2018,Buffalo,86,South Fla.,651,03/17/2018,0,0,Neutral,"Tallahassee, FL",-,0
 2018,Buffalo St.,85,Medaille,23725,11/15/2017,69,48,Home,,-,231
 2018,Buffalo St.,85,Villa Maria,,11/17/2017,63,68,Home,,-,155
 2018,Buffalo St.,85,Brooklyn,79,11/18/2017,52,57,Home,,-,151
@@ -3713,6 +3731,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,California,107,Washington,756,02/25/2018,83,67,Away,,-,"2,354"
 2018,California,107,Washington,756,03/01/2018,71,68,Neutral,"Seattle, Wash. - KeyArena",-,"3,532"
 2018,California,107,UCLA,110,03/02/2018,74,77,Neutral,"Seattle, Wash. (KeyArena)",-,"4,852"
+2018,California,107,Virginia,746,03/16/2018,0,0,Neutral,"Columbia, SC",-,0
 2018,California (PA),106,West Liberty,1438,11/11/2017,68,61,Neutral,"South Euclid, OH (Keller Center)",-,171
 2018,California (PA),106,Notre Dame (OH),30126,11/12/2017,85,76,Away,,-,254
 2018,California (PA),106,Kutztown,339,11/18/2017,73,47,Home,,-,142
@@ -4048,6 +4067,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Carson-Newman,1000,Wingate,1462,03/04/2018,79,70,Neutral,"Greenville, S.C. (Timmons Arena)",-,522
 2018,Carson-Newman,1000,Anderson (SC),13028,03/09/2018,70,62,Home,,-,642
 2018,Carson-Newman,1000,Lander,1167,03/10/2018,96,85,Home,,-,"1,023"
+2018,Carson-Newman,1000,North Georgia,30052,03/12/2018,75,71,Home,,-,"1,844"
 2018,Carthage,121,Bethel (MN),60,11/17/2017,77,68,Neutral,"Mount Vernon, Iowa (Multi-Sport Center)",-,115
 2018,Carthage,121,Cornell College,166,11/18/2017,68,56,Away,,-,315
 2018,Carthage,121,Coe,150,11/21/2017,67,49,Away,,-,219
@@ -4365,7 +4385,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Central Ark.,1004,Sam Houston St.,624,02/28/2018,73,53,Away,,-,758
 2018,Central Ark.,1004,Northwestern St.,508,03/03/2018,59,39,Home,,-,"1,045"
 2018,Central Ark.,1004,Abilene Christian,2,03/09/2018,54,41,Neutral,"Katy, Texas (Merrell Center)",-,606
-2018,Central Ark.,1004,SFA,676,03/10/2018,60,70,Neutral,"Katy, TX",-,0
+2018,Central Ark.,1004,SFA,676,03/10/2018,60,70,Neutral,"Katy, Texas (Merrell Center)",-,"1,446"
+2018,Central Ark.,1004,SIUE,660,03/15/2018,51,39,Home,,-,487
 2018,Central Conn. St.,127,West Virginia,768,11/10/2017,52,102,Away,,-,"1,359"
 2018,Central Conn. St.,127,Virginia,746,11/12/2017,59,103,Away,,-,"3,306"
 2018,Central Conn. St.,127,Brown,80,11/16/2017,55,78,Home,,-,798
@@ -4428,6 +4449,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Central Mich.,129,Eastern Mich.,204,03/07/2018,67,64,Neutral,"Cleveland, Ohio (Quicken Loans Arena)",-,0
 2018,Central Mich.,129,Miami (OH),414,03/09/2018,61,58,Neutral,"Cleveland, Ohio (Quicken Loans Arena)",-,0
 2018,Central Mich.,129,Buffalo,86,03/10/2018,96,91,Neutral,"Cleveland, Ohio (Quicken Loans Arena)",-,"1,656"
+2018,Central Mich.,129,LSU,365,03/17/2018,0,0,Neutral,"Columbus, OH",-,0
 2018,Central Mo.,130,Mary,30075,11/10/2017,69,58,Neutral,"Kansas City, Mo./Municipal Auditorium",-,159
 2018,Central Mo.,130,Northern St.,1266,11/11/2017,82,65,Neutral,"Kansas City, Mo./Municipal Auditorium",-,187
 2018,Central Mo.,130,William Jewell,30120,11/18/2017,66,56,Home,,-,"1,500"
@@ -4457,6 +4479,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Central Mo.,130,Lindenwood (MO),30136,03/01/2018,66,75,Neutral,"Kansas City, Mo./Municipal Auditorium",-,0
 2018,Central Mo.,130,MSU Moorhead,1240,03/09/2018,66,49,Neutral,"Sioux Falls, SD (Elmen Center)",-,238
 2018,Central Mo.,130,Fort Hays St.,9011,03/10/2018,66,59,Neutral,"Sioux Falls, SD (Elmen Center)",-,573
+2018,Central Mo.,130,Augustana (SD),41,03/12/2018,81,42,Away,,-,"1,274"
 2018,Central Okla.,1009,Southeastern Okla.,1371,11/10/2017,70,62,Away,,-,985
 2018,Central Okla.,1009,Northwestern Okla.,30178,11/11/2017,88,50,Neutral,"Durant, OK (Bloomer Sullivan Arena)",-,385
 2018,Central Okla.,1009,Okla. Christian,30179,11/14/2017,67,61,Away,,-,"1,500"
@@ -4791,6 +4814,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Chattanooga,693,Mercer,406,02/22/2018,56,65,Away,,-,"1,672"
 2018,Chattanooga,693,Samford,625,02/24/2018,71,65,Away,,-,417
 2018,Chattanooga,693,UNCG,459,03/01/2018,66,70,Neutral,"U.S. Cellular Center (Asheville, N.C.)",2 OT,"2,633"
+2018,Chattanooga,693,UAB,9,03/15/2018,0,0,Away,,-,0
+2018,Chattanooga,693,UAB,9,03/15/2018,50,60,Neutral,"Bartow Arena, Birmingham, Ala.",-,769
 2018,Chestnut Hill,21323,Molloy,437,11/11/2017,55,46,Neutral,"Philadelphia, Pa. (Gallagher Center)",-,0
 2018,Chestnut Hill,21323,Queens (NY),560,11/12/2017,84,67,Neutral,"Philadelphia, Pa. (Gallagher Center)",-,123
 2018,Chestnut Hill,21323,Kutztown,339,11/15/2017,79,88,Away,,-,504
@@ -5048,6 +5073,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Cincinnati,140,Houston,288,02/26/2018,61,57,Home,,-,643
 2018,Cincinnati,140,Tulsa,719,03/04/2018,66,65,Neutral,"Mohegan Sun Arena - Uncasville, Conn.",-,"6,804"
 2018,Cincinnati,140,UConn,164,03/05/2018,21,75,Neutral,"Mohegan Sun Arena - Uncasville, Conn.",-,"6,033"
+2018,Cincinnati,140,Michigan St.,416,03/15/2018,75,81,Away,,-,"1,705"
 2018,Claflin,30058,Livingstone,359,11/15/2017,61,80,Away,,-,583
 2018,Claflin,30058,Florida Tech,230,11/18/2017,64,56,Home,,-,"1,250"
 2018,Claflin,30058,Virginia St.,743,11/20/2017,43,59,Away,,-,105
@@ -5769,6 +5795,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Colorado St.,156,New Mexico,473,02/27/2018,48,54,Away,,-,"5,088"
 2018,Colorado St.,156,Fresno St.,96,03/06/2018,71,55,Neutral,"Las Vegas, Nevada (Thomas ' Mack Center)",-,"1,293"
 2018,Colorado St.,156,Boise St.,66,03/07/2018,51,76,Neutral,"Las Vegas, Nevada (Thomas & Mack Center)",-,"2,142"
+2018,Colorado St.,156,Western Ill.,771,03/15/2018,67,64,Home,,-,772
 2018,Colorado St.-Pueblo,2720,Lubbock Christian,30177,11/10/2017,52,57,Neutral,"The Field House, Commerce, TX",-,127
 2018,Colorado St.-Pueblo,2720,Tex. A&M-Commerce,199,11/11/2017,55,52,Away,,-,603
 2018,Colorado St.-Pueblo,2720,Northern St.,1266,11/17/2017,59,75,Home,,-,941
@@ -5800,7 +5827,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Colorado St.-Pueblo,2720,South Dakota Mines,30139,02/27/2018,60,50,Home,,-,602
 2018,Colorado St.-Pueblo,2720,Regis (CO),568,03/02/2018,60,58,Home,,-,684
 2018,Colorado St.-Pueblo,2720,Black Hills St.,30134,03/03/2018,84,69,Home,,-,746
-2018,Colorado St.-Pueblo,2720,MSU Denver,413,03/09/2018,0,0,Neutral,,-,0
+2018,Colorado St.-Pueblo,2720,MSU Denver,413,03/09/2018,70,78,Neutral,"Rip Griffin Center - Lubbock, Texas",-,176
 2018,Columbia,158,Providence,556,11/10/2017,73,64,Away,,-,231
 2018,Columbia,158,Richmond,575,11/12/2017,79,85,Home,,-,418
 2018,Columbia,158,UMass Lowell,368,11/15/2017,70,77,Away,,-,718
@@ -6298,6 +6325,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Creighton,169,Villanova,739,02/25/2018,48,55,Away,,-,801
 2018,Creighton,169,St. John's (NY),603,03/04/2018,66,58,Neutral,"Chicago, Ill. (Wintrust Arena)",-,"1,991"
 2018,Creighton,169,Marquette,387,03/05/2018,70,76,Neutral,"Chicago, Ill. (Wintrust Arena)",-,0
+2018,Creighton,169,Iowa,312,03/17/2018,0,0,Neutral,"Los Angeles, CA",-,0
 2018,Crown (MN),30035,Hamline,268,11/15/2017,69,65,Home,,-,134
 2018,Crown (MN),30035,Viterbo,,11/17/2017,58,75,Home,,-,114
 2018,Crown (MN),30035,Macalester,376,11/21/2017,57,70,Home,,-,75
@@ -6354,6 +6382,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,CSU Bakersfield,94,UTRGV,536,03/07/2018,70,59,Neutral,"Las Vegas, Nev. (Orleans Arena)",-,722
 2018,CSU Bakersfield,94,Grand Canyon,1104,03/09/2018,61,55,Neutral,"Las Vegas, Nev. (Orleans Arena)",-,0
 2018,CSU Bakersfield,94,Seattle U,1356,03/10/2018,54,57,Neutral,"Las Vegas, NV (Orleans Arena)",-,733
+2018,CSU Bakersfield,94,Fresno St.,96,03/14/2018,66,77,Home,,-,"1,604"
 2018,CSUN,101,Oregon,529,11/10/2017,43,91,Away,,-,"2,646"
 2018,CSUN,101,San Diego St.,626,11/14/2017,55,58,Away,,-,366
 2018,CSUN,101,New Orleans,474,11/17/2017,73,76,Away,,-,417
@@ -6388,6 +6417,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,CSUN,101,UC Santa Barbara,104,03/07/2018,72,63,Neutral,Titan Gym,-,502
 2018,CSUN,101,Cal Poly,90,03/09/2018,73,50,Neutral,"Anaheim, CA",-,867
 2018,CSUN,101,UC Davis,108,03/10/2018,63,55,Neutral,"Anaheim, CA",-,"1,273"
+2018,CSUN,101,Notre Dame,513,03/16/2018,0,0,Away,,-,0
 2018,Curry,170,Framingham St.,238,11/15/2017,57,53,Away,,-,268
 2018,Curry,170,Pine Manor,544,11/18/2017,71,64,Home,,-,100
 2018,Curry,170,Maine Maritime,378,11/19/2017,44,64,Home,,-,75
@@ -6658,7 +6688,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Dayton,175,George Mason,248,02/21/2018,71,66,Home,,-,"2,099"
 2018,Dayton,175,Saint Louis,609,02/24/2018,72,85,Away,,-,"4,461"
 2018,Dayton,175,Richmond,575,03/02/2018,67,58,Neutral,"Richmond, Va. (Richmond Coliseum)",-,"2,954"
-2018,Dayton,175,George Washington,249,03/03/2018,53,58,Neutral,"Richmond, Va. (Richmond Coliseum)",-,0
+2018,Dayton,175,George Washington,249,03/03/2018,53,58,Neutral,"Richmond, Va. (Richmond Coliseum)",-,"1,709"
+2018,Dayton,175,Marquette,387,03/16/2018,0,0,Neutral,"Louisville, KY",-,0
 2018,Dean,30219,Eastern Nazarene,1064,11/15/2017,59,80,Away,,-,143
 2018,Dean,30219,Wentworth,762,11/17/2017,75,66,Neutral,"Newton, Mass. (Athletic Center)",-,104
 2018,Dean,30219,Mount Ida,27901,11/18/2017,64,68,Away,,-,0
@@ -6740,6 +6771,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Delaware,180,Towson,711,03/03/2018,81,55,Away,,-,481
 2018,Delaware,180,Northeastern,500,03/08/2018,61,50,Neutral,"Daskalakis Athletic Center, Philadelphia",-,"2,053"
 2018,Delaware,180,Drexel,191,03/09/2018,53,58,Away,,1 OT,0
+2018,Delaware,180,Georgetown,251,03/16/2018,0,0,Away,,-,0
 2018,Delaware St.,178,Temple,690,11/10/2017,72,96,Away,,-,"1,202"
 2018,Delaware St.,178,DePaul,176,11/17/2017,71,110,Away,,-,"1,692"
 2018,Delaware St.,178,Ole Miss,433,11/18/2017,58,110,Neutral,"Chicago, Ill. (Wintrust Arena)",-,"1,964"
@@ -6911,6 +6943,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,DePaul,176,Seton Hall,635,03/04/2018,78,52,Home,,-,"2,147"
 2018,DePaul,176,Georgetown,251,03/05/2018,85,53,Home,,-,"2,192"
 2018,DePaul,176,Marquette,387,03/06/2018,98,63,Home,,-,"2,264"
+2018,DePaul,176,Oklahoma,522,03/16/2018,0,0,Neutral,"College Station, TX",-,0
 2018,DePauw,177,Wis. Lutheran,8911,11/17/2017,64,53,Away,,-,201
 2018,DePauw,177,Luther,372,11/18/2017,78,67,Neutral,"Milwaukee, Wis. (Recreation Complex)",-,112
 2018,DePauw,177,Franklin,2694,11/21/2017,69,62,Away,,-,273
@@ -7193,6 +7226,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Drake,189,Valparaiso,735,03/09/2018,89,40,Neutral,"TaxSlayer Center | Moline, Ill.",-,0
 2018,Drake,189,Southern Ill.,659,03/10/2018,68,59,Neutral,"TaxSlayer Center | Moline, IL",-,0
 2018,Drake,189,UNI,504,03/11/2018,75,63,Neutral,"TaxSlayer Center | Moline, IL",-,"2,169"
+2018,Drake,189,Texas A&M,697,03/16/2018,0,0,Away,,-,0
 2018,Drew,190,Wilson,12973,11/17/2017,67,43,Home,,-,238
 2018,Drew,190,Widener,783,11/18/2017,81,58,Home,,-,217
 2018,Drew,190,Penn St.-Berks,30044,11/21/2017,75,37,Home,,-,102
@@ -7251,6 +7285,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Drexel,191,UNCW,460,03/08/2018,71,41,Home,,-,0
 2018,Drexel,191,Delaware,180,03/09/2018,58,53,Home,,1 OT,0
 2018,Drexel,191,Elon,1068,03/10/2018,45,57,Home,,-,"2,441"
+2018,Drexel,191,Robert Morris,579,03/16/2018,0,0,Home,,-,0
 2018,Drury,1057,Trevecca Nazarene,30002,11/10/2017,71,57,Away,,-,404
 2018,Drury,1057,Walsh,30141,11/11/2017,85,55,Neutral,"Nashville, TN",-,321
 2018,Drury,1057,Southwest Baptist,2755,11/14/2017,82,93,Away,,-,"2,514"
@@ -7284,6 +7319,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Drury,1057,Southern Ind.,661,03/04/2018,62,52,Neutral,"Edwardsville, IL (Vadalabene Center)",-,641
 2018,Drury,1057,Findlay,1079,03/09/2018,76,72,Neutral,"Kates Gymnasium - Ashland, Ohio",-,422
 2018,Drury,1057,Lewis,354,03/10/2018,63,49,Neutral,"Kates Gymnasium - Ashland, Ohio",-,"1,266"
+2018,Drury,1057,Ashland,35,03/12/2018,73,79,Away,,-,"1,949"
 2018,Dubuque,192,Wis.-Stout,803,11/17/2017,68,84,Neutral,"Eau Claire, WI-Zorn Arena",-,102
 2018,Dubuque,192,Wis.-Eau Claire,793,11/18/2017,65,100,Away,,-,320
 2018,Dubuque,192,Saint Mary's (MN),612,11/21/2017,70,74,Home,,-,214
@@ -7339,6 +7375,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Duke,193,Florida St.,234,02/19/2018,79,66,Home,,-,"4,127"
 2018,Duke,193,North Carolina,457,02/25/2018,70,54,Home,,-,"9,314"
 2018,Duke,193,NC State,490,03/02/2018,45,51,Neutral,"Greensboro, NC (Greensboro Coliseum)",-,"5,613"
+2018,Duke,193,Belmont,14927,03/17/2018,0,0,Neutral,"Athens, GA",-,0
 2018,Duquesne,194,Charlotte,458,11/10/2017,72,75,Away,,-,"4,841"
 2018,Duquesne,194,Winthrop,792,11/12/2017,81,54,Away,,-,303
 2018,Duquesne,194,Pittsburgh,545,11/16/2017,66,53,Away,,-,"1,410"
@@ -7369,6 +7406,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Duquesne,194,Fordham,236,02/21/2018,43,51,Home,,-,707
 2018,Duquesne,194,St. Bonaventure,596,02/24/2018,76,73,Away,,-,921
 2018,Duquesne,194,Saint Louis,609,03/02/2018,65,71,Neutral,"Richmond, Va. (Richmond Coliseum)",-,0
+2018,Duquesne,194,Miami (OH),414,03/15/2018,69,56,Away,,-,510
 2018,Earlham,195,Denison,182,11/18/2017,61,68,Away,,-,135
 2018,Earlham,195,Kenyon,335,11/19/2017,56,68,Neutral,"Livingston Gymnasium in Granville, Ohio",-,80
 2018,Earlham,195,Berea,30171,11/21/2017,61,88,Home,,-,175
@@ -7847,7 +7885,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Edinboro,209,West Chester,765,03/03/2018,106,78,Neutral,"Indiana, PA (Kovalchick Complex)",-,341
 2018,Edinboro,209,Millersville,423,03/04/2018,77,66,Neutral,"Indiana, PA (Kovalchick Complex)",-,163
 2018,Edinboro,209,Virginia St.,743,03/09/2018,80,55,Neutral,"Richmond, VA (Barco-Stevens Hall)",-,0
-2018,Edinboro,209,Bowie St.,70,03/10/2018,75,79,Neutral,"Richmond, VA (Barco-Stevens Hall)",-,417
+2018,Edinboro,209,Bowie St.,70,03/10/2018,75,79,Neutral,"Richmond, VA",-,845
 2018,Elizabeth City St.,210,Gannon,246,11/10/2017,50,68,Neutral,"Charlotte, N.C. - Brayboy Gym",-,357
 2018,Elizabeth City St.,210,Cheyney,135,11/11/2017,57,52,Neutral,"Charloote, N.C.",-,189
 2018,Elizabeth City St.,210,Apprentice,,11/14/2017,78,46,Home,,-,200
@@ -8011,6 +8049,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Elon,1068,William & Mary,786,03/08/2018,67,50,Neutral,"Daskalakis Athletic Center, Philadelphia",-,"2,053"
 2018,Elon,1068,James Madison,317,03/09/2018,76,53,Neutral,"Daskalakis Athletic Center, Philadelphia",-,"2,120"
 2018,Elon,1068,Drexel,191,03/10/2018,57,45,Away,,-,"2,441"
+2018,Elon,1068,NC State,490,03/16/2018,0,0,Away,,-,0
 2018,Embry-Riddle (FL),9680,Christian Bros.,1015,11/10/2017,68,58,Neutral,"St. Petersburg, Fla.",-,58
 2018,Embry-Riddle (FL),9680,West Ala.,358,11/11/2017,59,45,Neutral,"St. Petersburg, Fla.",-,87
 2018,Embry-Riddle (FL),9680,Palm Beach Atl.,30045,11/15/2017,74,60,Away,,-,215
@@ -8293,6 +8332,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,ETSU,198,Wofford,2915,03/01/2018,78,64,Neutral,"U.S. Cellular Center (Asheville, N.C.)",-,0
 2018,ETSU,198,UNCG,459,03/02/2018,54,52,Neutral,"U.S. Cellular Center (Asheville, N.C.)",-,"3,867"
 2018,ETSU,198,Mercer,406,03/04/2018,53,68,Neutral,"U.S. Cellular Center (Asheville, N.C.)",-,0
+2018,ETSU,198,James Madison,317,03/15/2018,52,60,Away,,-,"1,089"
 2018,Eureka,218,Knox,337,11/15/2017,77,82,Away,,-,200
 2018,Eureka,218,Rockford,582,11/18/2017,85,62,Away,,-,111
 2018,Eureka,218,Monmouth (IL),438,11/21/2017,91,78,Home,,-,179
@@ -8639,6 +8679,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,FGCU,28755,NJIT,471,03/02/2018,83,62,Home,,-,"2,006"
 2018,FGCU,28755,Lipscomb,28600,03/07/2018,105,55,Home,,-,"2,022"
 2018,FGCU,28755,Jacksonville,316,03/11/2018,68,58,Home,,-,"2,966"
+2018,FGCU,28755,Missouri,434,03/17/2018,0,0,Neutral,"Stanford, CA",-,0
 2018,Findlay,1079,Wayne St. (MI),757,11/11/2017,88,92,Neutral,"Painesville, Ohio (Osborne Center)",1 OT,261
 2018,Findlay,1079,Tiffin,1403,11/12/2017,95,63,Neutral,"Painesville, Ohio (Osborne Center)",-,102
 2018,Findlay,1079,Gannon,246,11/15/2017,73,55,Away,,-,285
@@ -8928,6 +8969,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Florida St.,234,Georgia Tech,255,02/25/2018,64,61,Home,,-,"3,357"
 2018,Florida St.,234,Miami (FL),415,03/02/2018,73,69,Neutral,"the Greensboro Coliseum - Greensboro, NC",-,"4,316"
 2018,Florida St.,234,Notre Dame,513,03/03/2018,80,90,Neutral,"the Greensboro Coliseum - Greensboro, NC",-,"6,160"
+2018,Florida St.,234,Little Rock,32,03/17/2018,0,0,Home,,-,0
 2018,Florida Tech,230,Rollins,584,11/15/2017,65,93,Away,,-,319
 2018,Florida Tech,230,Claflin,30058,11/18/2017,56,64,Away,,-,"1,250"
 2018,Florida Tech,230,Caldwell,995,11/24/2017,68,74,Neutral,"Winter Park, Fla. - Warden Arena",-,78
@@ -9011,6 +9053,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Fordham,236,Saint Joseph's,606,02/24/2018,50,52,Home,,-,"2,366"
 2018,Fordham,236,Rhode Island,572,02/27/2018,75,53,Home,,-,662
 2018,Fordham,236,Saint Joseph's,606,03/02/2018,49,52,Neutral,"Richmond, Va. (Richmond Coliseum)",-,0
+2018,Fordham,236,Harvard,275,03/16/2018,0,0,Home,,-,0
 2018,Fort Hays St.,9011,Upper Iowa,728,11/10/2017,66,32,Away,,-,184
 2018,Fort Hays St.,9011,Southwest Minn. St.,8736,11/11/2017,84,42,Neutral,"Fayette, IA (Dorman Gymnasium)",-,124
 2018,Fort Hays St.,9011,UC-Colo. Springs,9754,11/17/2017,81,51,Home,,-,"1,450"
@@ -9363,6 +9406,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Fresno St.,96,Wyoming,811,02/24/2018,57,74,Away,,-,"3,084"
 2018,Fresno St.,96,New Mexico,473,03/02/2018,89,93,Home,,1 OT,"2,401"
 2018,Fresno St.,96,Colorado St.,156,03/06/2018,55,71,Neutral,"Las Vegas, Nevada (Thomas ' Mack Center)",-,"1,293"
+2018,Fresno St.,96,CSU Bakersfield,94,03/14/2018,77,66,Away,,-,"1,604"
 2018,Frostburg St.,243,Mount Aloysius,30036,11/15/2017,62,73,Home,,-,156
 2018,Frostburg St.,243,Bethany (WV),59,11/17/2017,76,53,Home,,-,269
 2018,Frostburg St.,243,Rutgers-Camden,588,11/18/2017,83,79,Home,,1 OT,354
@@ -9419,6 +9463,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Furman,244,ETSU,198,02/17/2018,46,56,Away,,-,"1,423"
 2018,Furman,244,Wofford,2915,02/24/2018,63,57,Home,,-,716
 2018,Furman,244,Samford,625,03/01/2018,58,59,Neutral,"Asheville, N.C. (U.S. Cellular Center)",-,0
+2018,Furman,244,UNC Asheville,456,03/15/2018,65,64,Away,,-,863
 2018,Ga. Southern,253,N.C. A&T,488,11/10/2017,49,60,Away,,-,"1,411"
 2018,Ga. Southern,253,Coastal Ga.,,11/13/2017,68,63,Home,,-,315
 2018,Ga. Southern,253,Mercer,406,11/16/2017,45,72,Away,,-,"1,172"
@@ -9650,6 +9695,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,George Mason,248,La Salle,340,02/24/2018,65,55,Home,,-,"1,460"
 2018,George Mason,248,St. Bonaventure,596,02/27/2018,89,79,Home,,-,"1,115"
 2018,George Mason,248,George Washington,249,03/02/2018,59,64,Neutral,"Richmond, Va. (Richmond Coliseum)",-,0
+2018,George Mason,248,SFA,676,03/16/2018,0,0,Home,,-,0
 2018,George Washington,249,Princeton,554,11/10/2017,52,72,Away,,-,803
 2018,George Washington,249,South Dakota St.,649,11/12/2017,88,97,Home,,1 OT,"1,135"
 2018,George Washington,249,Towson,711,11/16/2017,66,43,Away,,-,"1,213"
@@ -9680,8 +9726,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,George Washington,249,Richmond,575,02/24/2018,36,49,Home,,-,524
 2018,George Washington,249,La Salle,340,02/27/2018,69,49,Home,,-,472
 2018,George Washington,249,George Mason,248,03/02/2018,64,59,Neutral,"Richmond, Va. (Richmond Coliseum)",-,0
-2018,George Washington,249,Dayton,175,03/03/2018,58,53,Neutral,"Richmond, Va. (Richmond Coliseum)",-,0
+2018,George Washington,249,Dayton,175,03/03/2018,58,53,Neutral,"Richmond, Va. (Richmond Coliseum)",-,"1,709"
 2018,George Washington,249,Saint Joseph's,606,03/04/2018,65,49,Neutral,"Richmond, Va. (Richmond Coliseum)",-,"2,103"
+2018,George Washington,249,Ohio St.,518,03/17/2018,0,0,Away,,-,0
 2018,Georgetown,251,Howard,290,11/14/2017,93,41,Home,,-,393
 2018,Georgetown,251,Loyola Maryland,369,11/16/2017,72,54,Away,,-,273
 2018,Georgetown,251,George Washington,249,11/19/2017,54,65,Away,,-,"1,005"
@@ -9712,6 +9759,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Georgetown,251,Providence,556,02/25/2018,74,48,Home,,-,607
 2018,Georgetown,251,Villanova,739,03/04/2018,63,58,Neutral,"Chicago, Ill.",-,"2,147"
 2018,Georgetown,251,DePaul,176,03/05/2018,53,85,Away,,-,"2,192"
+2018,Georgetown,251,Delaware,180,03/16/2018,0,0,Home,,-,0
 2018,Georgia,257,Wofford,2915,11/12/2017,95,56,Home,,-,"3,292"
 2018,Georgia,257,Virginia,746,11/16/2017,64,61,Away,,-,"3,170"
 2018,Georgia,257,Mercer,406,11/19/2017,72,54,Away,,-,"2,731"
@@ -9743,6 +9791,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Georgia,257,Florida,235,02/25/2018,63,43,Home,,-,"4,568"
 2018,Georgia,257,Missouri,434,03/02/2018,55,41,Neutral,"BRIDGESTONE ARENA - NASHVILLE, TN",-,"7,489"
 2018,Georgia,257,South Carolina,648,03/03/2018,49,71,Neutral,"BRIDGESTONE ARENA - NASHVILLE, TN",-,"8,819"
+2018,Georgia,257,Mercer,406,03/17/2018,0,0,Home,,-,0
 2018,Georgia College,1096,Wingate,1462,11/10/2017,58,69,Away,,-,417
 2018,Georgia College,1096,Anderson (SC),13028,11/11/2017,47,79,Neutral,"Wingate, N.C.",-,125
 2018,Georgia College,1096,Barton,15646,11/17/2017,70,40,Neutral,"Memorial Hall - Dahlonega, Ga.",-,108
@@ -9834,6 +9883,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Georgia Tech,255,Florida St.,234,02/25/2018,61,64,Away,,-,"3,357"
 2018,Georgia Tech,255,Clemson,147,02/28/2018,61,52,Neutral,"the Greensboro Coliseum - Greensboro, NC",-,"3,134"
 2018,Georgia Tech,255,Virginia,746,03/01/2018,58,60,Neutral,"the Greensboro Coliseum - Greensboro, NC",-,0
+2018,Georgia Tech,255,Bethune-Cookman,61,03/15/2018,85,32,Home,,-,539
 2018,Georgian Court,9004,Merrimack,410,11/11/2017,60,78,Home,,-,100
 2018,Georgian Court,9004,Saint Rose,1347,11/12/2017,74,76,Home,,-,135
 2018,Georgian Court,9004,Mercy,407,11/18/2017,75,60,Away,,-,39
@@ -9982,6 +10032,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Gonzaga,260,Pepperdine,541,03/02/2018,81,70,Neutral,"ORLEANS ARENA (LAS VEGAS, NV)",-,"2,500"
 2018,Gonzaga,260,San Francisco,629,03/05/2018,65,53,Neutral,"ORLEANS ARENA (LAS VEGAS, NV)",-,"3,500"
 2018,Gonzaga,260,San Diego,627,03/06/2018,79,71,Neutral,"Orleans Arena (Las Vegas, Nev.)",-,"6,661"
+2018,Gonzaga,260,Stanford,674,03/17/2018,0,0,Away,,-,0
 2018,Gordon,1099,Emerson,214,11/15/2017,71,90,Away,,-,100
 2018,Gordon,1099,Manhattanville,382,11/17/2017,45,80,Home,,-,150
 2018,Gordon,1099,Elms,532,11/18/2017,78,53,Home,,-,110
@@ -10066,6 +10117,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Grambling,261,Alcorn,17,03/06/2018,80,71,Home,,-,"1,300"
 2018,Grambling,261,Texas Southern,699,03/09/2018,66,59,Neutral,Delmar Fieldhouse,-,"1,800"
 2018,Grambling,261,Southern U.,665,03/10/2018,72,68,Neutral,"Houston, Texas (Delmar Fieldhouse)",-,"1,993"
+2018,Grambling,261,Baylor,51,03/16/2018,0,0,Away,,-,0
 2018,Grand Canyon,1104,Rice,574,11/10/2017,59,69,Home,,-,818
 2018,Grand Canyon,1104,Duke,193,11/12/2017,61,74,Home,,-,"1,683"
 2018,Grand Canyon,1104,Cal Poly,90,11/16/2017,69,75,Away,,-,"1,677"
@@ -10161,6 +10213,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Green Bay,794,Northern Ky.,505,03/03/2018,62,49,Neutral,"Detroit, Mich. (Little Caesars Arena)",-,0
 2018,Green Bay,794,Youngstown St.,817,03/05/2018,66,45,Neutral,"Little Caesars Arena - Detroit, Michigan",-,0
 2018,Green Bay,794,Wright St.,810,03/06/2018,62,44,Neutral,"Little Caesars Arena -Detroit, Michigan",-,0
+2018,Green Bay,794,Minnesota,428,03/16/2018,0,0,Neutral,"Eugene, OR",-,0
 2018,Green Mountain,11062,Southern Vt.,1379,11/18/2017,71,62,Home,,-,64
 2018,Green Mountain,11062,Cazenovia,23624,11/20/2017,51,81,Home,,-,68
 2018,Green Mountain,11062,Lyndon St.,30065,11/28/2017,51,104,Away,,-,83
@@ -10241,6 +10294,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Greenville,1111,Westminster (MO),1450,02/23/2018,67,73,Home,,-,450
 2018,Greenville,1111,Trinity Christian,,03/03/2018,71,63,Home,,-,300
 2018,Greenville,1111,TBA,,03/14/2018,0,0,Neutral,"Winona Lake, IN",-,0
+2018,Greenville,1111,Southwestern Christ.,,03/14/2018,77,70,Neutral,"Winona Lake, Ind. (MOCC)",2 OT,200
 2018,Grinnell,264,Emmaus,,11/15/2017,74,63,Home,,-,521
 2018,Grinnell,264,Central (IA),126,11/16/2017,82,99,Away,,-,200
 2018,Grinnell,264,Buena Vista,84,11/21/2017,54,67,Home,,-,417
@@ -10625,6 +10679,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Harvard,275,Cornell,167,03/03/2018,91,57,Away,,-,314
 2018,Harvard,275,Columbia,158,03/04/2018,78,59,Away,,-,349
 2018,Harvard,275,Penn,540,03/10/2018,52,57,Away,,-,0
+2018,Harvard,275,Fordham,236,03/16/2018,0,0,Away,,-,0
 2018,Haverford,276,Elizabethtown,211,11/15/2017,62,58,Home,,-,123
 2018,Haverford,276,Sage Colleges,11036,11/18/2017,59,52,Neutral,"Gwynedd Valley, Pa. - Griffin Complex",-,100
 2018,Haverford,276,Gwynedd Mercy,12399,11/19/2017,60,49,Away,,-,200
@@ -11190,6 +11245,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Houston,288,UCF,128,02/24/2018,59,64,Home,,-,"1,099"
 2018,Houston,288,Cincinnati,140,02/26/2018,57,61,Away,,-,643
 2018,Houston,288,Tulsa,719,03/03/2018,72,98,Neutral,"Mohegan Sun Arena - Uncasville, Conn.",-,"4,599"
+2018,Houston,288,South Dakota,650,03/15/2018,58,65,Away,,-,"1,176"
 2018,Houston Baptist,287,South Fla.,651,11/12/2017,43,90,Away,,-,"2,022"
 2018,Houston Baptist,287,LeTourneau,8490,11/15/2017,88,43,Home,,-,448
 2018,Houston Baptist,287,Rice,574,11/18/2017,45,67,Away,,-,576
@@ -11305,7 +11361,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Humboldt St.,291,Cal St. East Bay,98,02/27/2018,54,53,Home,,-,537
 2018,Humboldt St.,291,Cal Poly Pomona,91,03/02/2018,69,53,Away,,-,446
 2018,Humboldt St.,291,UC San Diego,112,03/03/2018,76,75,Neutral,"Pomona, CA",-,422
-2018,Humboldt St.,291,Azusa Pacific,30146,03/09/2018,0,0,Away,,-,0
+2018,Humboldt St.,291,Azusa Pacific,30146,03/09/2018,66,60,Away,,-,417
+2018,Humboldt St.,291,Alas. Anchorage,11,03/10/2018,73,81,Neutral,"Azusa, Calif. (Felix Event Center)",-,261
 2018,Hunter,292,Bay Path,26520,11/17/2017,66,34,Home,,-,102
 2018,Hunter,292,Olivet,525,11/18/2017,100,80,Home,,-,101
 2018,Hunter,292,Merchant Marine,724,11/21/2017,61,41,Away,,-,75
@@ -11421,6 +11478,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Idaho,295,Montana St.,440,03/07/2018,78,74,Neutral,"Reno, Nev. (Reno Events Center)",-,989
 2018,Idaho,295,Portland St.,550,03/09/2018,102,99,Neutral,"Reno, Nev. (Reno Events Center)",-,"1,002"
 2018,Idaho,295,Northern Colo.,502,03/10/2018,69,91,Neutral,"Reno, Nev. (Reno Events Center)",-,0
+2018,Idaho,295,UC Davis,108,03/15/2018,62,82,Away,,-,"1,382"
 2018,Idaho St.,294,Seattle U,1356,11/10/2017,74,69,Away,,-,350
 2018,Idaho St.,294,Washington,756,11/12/2017,79,59,Away,,-,"1,479"
 2018,Idaho St.,294,Col. of Idaho,,11/16/2017,89,32,Home,,-,"1,365"
@@ -11731,6 +11789,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Indiana,306,Iowa,312,02/24/2018,62,75,Away,,-,"6,921"
 2018,Indiana,306,Michigan St.,416,03/01/2018,111,109,Neutral,"Bankers Life Fieldhouse-Indianapolis, IN",4 OT,0
 2018,Indiana,306,Maryland,392,03/02/2018,54,67,Neutral,"Indianapolis, Ind. (Bankers Life FH)",-,0
+2018,Indiana,306,UT Martin,695,03/15/2018,74,50,Home,,-,"2,324"
 2018,Indiana (PA),307,West Va. Wesleyan,9630,11/11/2017,82,54,Home,,-,0
 2018,Indiana (PA),307,West Virginia St.,1439,11/12/2017,72,47,Home,,-,336
 2018,Indiana (PA),307,Lock Haven,360,11/18/2017,78,53,Home,,-,212
@@ -11762,6 +11821,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Indiana (PA),307,Millersville,423,03/03/2018,86,89,Home,,3 OT,0
 2018,Indiana (PA),307,California (PA),106,03/09/2018,90,65,Neutral,"Richmond, VA (Barco-Stevens Hall)",-,0
 2018,Indiana (PA),307,Glenville St.,1098,03/10/2018,88,68,Neutral,"Richmond, VA (Barco-Stevens Hall)",-,0
+2018,Indiana (PA),307,Bowie St.,70,03/12/2018,75,60,Neutral,"Richmond, VA (Barco-Stevens Hall)",-,400
 2018,Indiana St.,305,Saint Louis,609,11/10/2017,59,60,Home,,-,"1,469"
 2018,Indiana St.,305,IUPUI,2699,11/17/2017,57,86,Away,,-,611
 2018,Indiana St.,305,Fla. Atlantic,229,11/20/2017,58,66,Home,,-,"1,258"
@@ -11853,6 +11913,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Iowa,312,Indiana,306,02/24/2018,75,62,Home,,-,"6,921"
 2018,Iowa,312,Northwestern,509,03/01/2018,55,45,Neutral,"Bankers Life Fieldhouse-Indianapolis, IN",-,"3,565"
 2018,Iowa,312,Minnesota,428,03/02/2018,89,90,Neutral,"Bankers Life Fieldhouse-Indianapolis, IN",-,"5,274"
+2018,Iowa,312,Creighton,169,03/17/2018,0,0,Neutral,"Los Angeles, CA",-,0
 2018,Iowa St.,311,South Dakota,650,11/10/2017,81,76,Home,,-,"9,143"
 2018,Iowa St.,311,UNI,504,11/14/2017,53,57,Away,,-,"2,099"
 2018,Iowa St.,311,UMKC,2707,11/20/2017,61,45,Home,,-,"9,603"
@@ -11938,6 +11999,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Ithaca,313,RIT,580,02/24/2018,61,68,Neutral,"Saratoga Springs, NY - Williamson Center",-,150
 2018,Ithaca,313,SUNY Geneseo,247,03/02/2018,54,47,Neutral,"Medford, Mass. (Cousens Gym)",-,325
 2018,Ithaca,313,Tufts,717,03/03/2018,39,61,Away,,-,375
+2018,IUPUI,2699,Purdue,559,03/15/2017,46,48,Home,,-,488
 2018,IUPUI,2699,UNI,504,11/10/2017,54,48,Away,,-,"1,852"
 2018,IUPUI,2699,Georgetown (KY),,11/13/2017,85,52,Home,,-,"1,175"
 2018,IUPUI,2699,Indiana St.,305,11/17/2017,86,57,Home,,-,611
@@ -11969,6 +12031,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,IUPUI,2699,Northern Ky.,505,02/25/2018,56,54,Home,,-,512
 2018,IUPUI,2699,Oakland,514,03/03/2018,56,49,Neutral,"Detroit, Mich. (Little Caesars Arena)",-,0
 2018,IUPUI,2699,Wright St.,810,03/05/2018,52,60,Neutral,"Little Caesars Arena - Detroit, Michigan",-,"5,398"
+2018,IUPUI,2699,Purdue,559,03/15/2018,0,0,Home,,-,0
 2018,Jackson St.,314,Millsaps,426,11/10/2017,79,41,Home,,-,402
 2018,Jackson St.,314,LSU-Shreveport,,11/13/2017,85,86,Home,,-,599
 2018,Jackson St.,314,Ill.-Chicago,302,11/16/2017,76,63,Away,,-,285
@@ -12029,6 +12092,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Jacksonville,316,Kennesaw St.,1157,03/02/2018,79,52,Home,,-,379
 2018,Jacksonville,316,North Florida,2711,03/07/2018,83,77,Home,,1 OT,"1,010"
 2018,Jacksonville,316,FGCU,28755,03/11/2018,58,68,Away,,-,"2,966"
+2018,Jacksonville,316,UCF,128,03/14/2018,60,65,Away,,1 OT,493
 2018,Jacksonville St.,315,Brewton-Parker,,11/10/2017,103,44,Home,,-,233
 2018,Jacksonville St.,315,Florida St.,234,11/12/2017,51,75,Home,,-,"1,191"
 2018,Jacksonville St.,315,Stillman,,11/15/2017,93,38,Home,,-,309
@@ -12091,6 +12155,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,James Madison,317,William & Mary,786,03/03/2018,70,64,Home,,-,"2,115"
 2018,James Madison,317,Col. of Charleston,1014,03/08/2018,81,66,Neutral,Daskalakis Athletic Center,-,"2,053"
 2018,James Madison,317,Elon,1068,03/09/2018,53,76,Neutral,"Daskalakis Athletic Center, Philadelphia",-,"2,120"
+2018,James Madison,317,ETSU,198,03/15/2018,60,52,Home,,-,"1,089"
 2018,Jefferson,543,Queens (NY),560,11/11/2017,60,54,Home,,-,137
 2018,Jefferson,543,Molloy,437,11/12/2017,71,47,Home,,-,159
 2018,Jefferson,543,Bridgeport,74,11/15/2017,64,53,Home,,-,89
@@ -12402,6 +12467,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Kansas St.,327,Texas Tech,700,02/26/2018,86,63,Away,,-,"3,084"
 2018,Kansas St.,327,Kansas,328,03/02/2018,72,63,Neutral,"Chesapeake Energy Arena, Oklahoma City",-,0
 2018,Kansas St.,327,Baylor,51,03/03/2018,54,83,Neutral,"Chesapeake Energy Arena, Oklahoma City",-,"4,047"
+2018,Kansas St.,327,Saint Louis,609,03/15/2018,75,61,Home,,-,"1,254"
 2018,Kean,329,Brooklyn,79,11/15/2017,53,60,Home,,-,144
 2018,Kean,329,Salisbury,622,11/17/2017,50,48,Home,,-,155
 2018,Kean,329,Cabrini,88,11/18/2017,72,67,Home,,-,144
@@ -12803,8 +12869,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,La Roche,1163,Penn St.-Altoona,25719,01/06/2018,87,72,Home,,-,210
 2018,La Roche,1163,Pitt.-Greensburg,11839,01/10/2018,48,62,Away,,-,217
 2018,La Roche,1163,D'Youville,1059,01/13/2018,83,59,Away,,-,85
+2018,La Roche,1163,Penn St.-Altoona,25719,01/16/2018,87,72,Home,,-,210
 2018,La Roche,1163,Penn St.-Behrend,538,01/17/2018,62,60,Home,,-,290
-2018,La Roche,1163,Pitt.-Bradford,1315,01/20/2018,62,79,Home,,-,0
+2018,La Roche,1163,Pitt.-Bradford,1315,01/20/2018,62,79,Home,,-,280
 2018,La Roche,1163,Franciscan,30069,01/24/2018,60,54,Home,,-,315
 2018,La Roche,1163,Hilbert,8398,01/27/2018,54,74,Away,,-,156
 2018,La Roche,1163,Mount Aloysius,30036,01/31/2018,76,83,Away,,-,184
@@ -13093,6 +13160,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Lamar University,346,SFA,676,02/24/2018,75,58,Away,,-,"4,221"
 2018,Lamar University,346,McNeese,402,03/03/2018,81,72,Away,,-,983
 2018,Lamar University,346,Nicholls St.,483,03/10/2018,68,74,Neutral,"Katy, Texas (Merrell Center)",-,"1,446"
+2018,Lamar University,346,TCU,698,03/15/2018,68,80,Away,,-,"1,330"
 2018,Lancaster Bible,30085,East. Mennonite,203,11/15/2017,55,72,Away,,-,709
 2018,Lancaster Bible,30085,Centenary (NJ),12884,11/18/2017,72,60,Neutral,"Center Valley, PA",-,100
 2018,Lancaster Bible,30085,DeSales,20,11/19/2017,40,79,Away,,-,250
@@ -13150,7 +13218,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Lander,1167,Clayton St.,20576,02/28/2018,68,60,Home,,-,346
 2018,Lander,1167,Columbus St.,159,03/03/2018,91,83,Neutral,"UNG Convocation Center - Dahlonega, Ga.",-,743
 2018,Lander,1167,North Georgia,30052,03/04/2018,60,76,Away,,-,987
-2018,Lander,1167,Limestone,1174,03/09/2018,0,0,Neutral,,-,0
+2018,Lander,1167,Limestone,1174,03/09/2018,84,53,Neutral,"Jefferson City, Tenn. (Holt Fieldhouse)",-,92
 2018,Lander,1167,Carson-Newman,1000,03/10/2018,85,96,Away,,-,"1,023"
 2018,Lane,347,Arkansas Tech,947,11/12/2017,49,86,Away,,-,264
 2018,Lane,347,North Ala.,487,11/14/2017,48,74,Home,,-,379
@@ -13600,6 +13668,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Liberty,355,Charleston So.,48,03/09/2018,80,53,Home,,-,850
 2018,Liberty,355,High Point,19651,03/10/2018,78,54,Home,,-,"1,197"
 2018,Liberty,355,UNC Asheville,456,03/11/2018,60,42,Home,,-,"1,077"
+2018,Liberty,355,Tennessee,694,03/16/2018,0,0,Away,,-,0
 2018,Limestone,1174,Newberry,1257,11/10/2017,90,74,Neutral,"Belmont, N.C.",-,0
 2018,Limestone,1174,Coker,1023,11/11/2017,62,52,Neutral,"Belmont, N.C.",-,0
 2018,Limestone,1174,Lander,1167,11/18/2017,65,69,Away,,-,671
@@ -13628,7 +13697,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Limestone,1174,Mount Olive,1245,02/20/2018,103,80,Away,,-,131
 2018,Limestone,1174,Converse,8935,02/23/2018,65,41,Away,,-,195
 2018,Limestone,1174,North Greenville,9223,02/26/2018,56,57,Home,,-,225
-2018,Limestone,1174,Lander,1167,03/09/2018,0,0,Neutral,,-,0
+2018,Limestone,1174,Lander,1167,03/09/2018,53,84,Neutral,"Jefferson City, Tenn. (Holt Fieldhouse)",-,92
 2018,Lincoln (MO),356,Ark.-Monticello,8411,11/10/2017,54,66,Neutral,"St. Charles, Mo. (Hyland Arena)",-,150
 2018,Lincoln (MO),356,Southern Ark.,1376,11/11/2017,62,57,Neutral,"St. Charles, Mo. (Hyland Arena)",-,65
 2018,Lincoln (MO),356,Missouri S&T,435,11/14/2017,57,72,Home,,-,762
@@ -13835,6 +13904,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Little Rock,32,Appalachian St.,27,03/08/2018,66,34,Neutral,"Lakefront Arena/New Orleans, La.",-,967
 2018,Little Rock,32,Troy,716,03/10/2018,66,63,Neutral,"Lakefront Arena/New Orleans, La.",-,898
 2018,Little Rock,32,Texas St.,670,03/11/2018,54,53,Neutral,"Lakefront Arena/New Orleans, La.",-,"1,214"
+2018,Little Rock,32,Florida St.,234,03/17/2018,0,0,Away,,-,0
 2018,LIU Brooklyn,361,Yale,813,11/10/2017,51,62,Away,,-,802
 2018,LIU Brooklyn,361,Saint Peter's,617,11/14/2017,57,46,Home,,-,155
 2018,LIU Brooklyn,361,UMBC,391,11/17/2017,66,52,Away,,-,341
@@ -14125,6 +14195,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Louisiana Tech,366,UAB,9,02/24/2018,70,60,Away,,-,517
 2018,Louisiana Tech,366,Rice,574,03/01/2018,70,62,Away,,-,"1,514"
 2018,Louisiana Tech,366,North Texas,497,03/08/2018,69,76,Neutral,"Frisco, Texas (Ford Center at The Star)",-,"2,130"
+2018,Louisiana Tech,366,Missouri St.,669,03/15/2018,59,63,Home,,-,"1,734"
 2018,Louisville,367,Southeast Mo. St.,654,11/10/2017,80,40,Home,,-,"6,054"
 2018,Louisville,367,Ohio St.,518,11/12/2017,95,90,Away,,1 OT,"9,711"
 2018,Louisville,367,Toledo,709,11/14/2017,90,55,Home,,-,"5,444"
@@ -14159,6 +14230,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Louisville,367,Virginia Tech,742,03/02/2018,73,70,Neutral,"the Greensboro Coliseum - Greensboro, NC",-,"3,297"
 2018,Louisville,367,NC State,490,03/03/2018,64,59,Neutral,"the Greensboro Coliseum - Greensboro, NC",-,0
 2018,Louisville,367,Notre Dame,513,03/04/2018,74,72,Neutral,"the Greensboro Coliseum - Greensboro, NC",-,"7,424"
+2018,Louisville,367,Boise St.,66,03/16/2018,0,0,Home,,-,0
 2018,Loyola Chicago,371,Fort Wayne,308,11/12/2017,70,79,Away,,-,637
 2018,Loyola Chicago,371,Western Mich.,774,11/15/2017,47,65,Home,,-,312
 2018,Loyola Chicago,371,Youngstown St.,817,11/18/2017,49,73,Home,,-,224
@@ -14277,6 +14349,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,LSU,365,South Carolina,648,02/22/2018,48,57,Away,,-,"12,835"
 2018,LSU,365,Alabama,8,02/25/2018,79,78,Home,,1 OT,"3,016"
 2018,LSU,365,Texas A&M,697,03/02/2018,69,75,Neutral,"BRIDGESTONE ARENA - NASHVILLE, TN",-,"6,344"
+2018,LSU,365,Central Mich.,129,03/17/2018,0,0,Neutral,"Columbus, OH",-,0
 2018,Lubbock Christian,30177,Colorado St.-Pueblo,2720,11/10/2017,57,52,Neutral,"The Field House, Commerce, TX",-,127
 2018,Lubbock Christian,30177,MSU Denver,413,11/11/2017,71,53,Neutral,"The Field House, Commerce, TX",-,147
 2018,Lubbock Christian,30177,Tex. A&M-Commerce,199,11/13/2017,74,39,Away,,-,486
@@ -14308,6 +14381,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Lubbock Christian,30177,Ark.-Fort Smith,30105,03/04/2018,69,61,Neutral,"Tulsa, Okla. (UMAC)",-,354
 2018,Lubbock Christian,30177,Tarleton St.,1395,03/09/2018,78,46,Home,,-,831
 2018,Lubbock Christian,30177,Angelo St.,25,03/10/2018,61,59,Home,,-,"1,137"
+2018,Lubbock Christian,30177,West Tex. A&M,767,03/12/2018,56,53,Home,,-,"2,200"
 2018,Luther,372,Macalester,376,11/15/2017,82,74,Home,,-,375
 2018,Luther,372,Washington-St. Louis,755,11/17/2017,45,68,Neutral,"Milwaukee, Wis. (Recreation Complex)",-,81
 2018,Luther,372,DePauw,177,11/18/2017,67,78,Neutral,"Milwaukee, Wis. (Recreation Complex)",-,112
@@ -14524,6 +14598,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Maine,380,UMBC,391,03/03/2018,65,43,Neutral,"Cross Insurance Arena - Portland, Maine",-,"2,158"
 2018,Maine,380,New Hampshire,469,03/04/2018,64,48,Neutral,"Cross Insurance Arena - Portland, Maine",-,0
 2018,Maine,380,Hartford,272,03/09/2018,74,65,Home,,-,"3,373"
+2018,Maine,380,Texas,703,03/17/2018,0,0,Away,,-,0
 2018,Maine Maritime,378,St. Joseph's (ME),605,11/15/2017,53,80,Home,,-,109
 2018,Maine Maritime,378,Mount Holyoke,449,11/18/2017,80,30,Neutral,,-,100
 2018,Maine Maritime,378,Curry,170,11/19/2017,64,44,Away,,-,75
@@ -14800,6 +14875,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Marist,386,Manhattan,381,03/02/2018,84,60,Neutral,"Times Union Center (Albany, NY)",-,"1,699"
 2018,Marist,386,Siena,639,03/04/2018,67,51,Away,,-,"2,208"
 2018,Marist,386,Quinnipiac,562,03/05/2018,58,67,Neutral,"Albany, NY - Times Union Center",-,"2,437"
+2018,Marist,386,St. John's (NY),603,03/15/2018,0,0,Away,,-,0
 2018,Marquette,387,New Mexico,473,11/13/2017,87,88,Away,,-,"4,169"
 2018,Marquette,387,Loyola Maryland,369,11/19/2017,83,63,Home,,-,"1,173"
 2018,Marquette,387,Tennessee,694,11/23/2017,99,101,Neutral,Hard Rock Hotel Riviera Maya,1 OT,982
@@ -14832,6 +14908,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Marquette,387,Butler,87,03/04/2018,73,61,Neutral,"Chicago, Ill.",-,0
 2018,Marquette,387,Creighton,169,03/05/2018,76,70,Neutral,"Chicago, Ill. (Wintrust Arena)",-,0
 2018,Marquette,387,DePaul,176,03/06/2018,63,98,Away,,-,"2,264"
+2018,Marquette,387,Dayton,175,03/16/2018,0,0,Neutral,"Louisville, KY",-,0
 2018,Mars Hill,1199,King (TN),30051,11/10/2017,53,67,Neutral,"Greeneville, Tenn.",-,114
 2018,Mars Hill,1199,Converse,8935,11/11/2017,66,60,Neutral,"Greeneville, Tenn.",-,188
 2018,Mars Hill,1199,Belmont Abbey,2683,11/14/2017,65,77,Home,,-,241
@@ -15055,6 +15132,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Maryland,392,Indiana,306,03/02/2018,67,54,Neutral,"Indianapolis, Ind. (Bankers Life FH)",-,0
 2018,Maryland,392,Nebraska,463,03/03/2018,66,53,Neutral,"Indianapolis, Ind. (Bankers Life FH)",-,"7,499"
 2018,Maryland,392,Ohio St.,518,03/04/2018,69,79,Neutral,"Bankers Life Fieldhouse-Indianapolis, IN",-,"4,519"
+2018,Maryland,392,Princeton,554,03/16/2018,0,0,Neutral,"Raleigh, NC",-,0
 2018,Marymount (VA),394,Randolph-Macon,565,11/15/2017,73,78,Away,,-,470
 2018,Marymount (VA),394,Albright,16,11/18/2017,59,55,Neutral,"Baltimore, MD / Goldfarb Gym",-,250
 2018,Marymount (VA),394,Johns Hopkins,322,11/19/2017,70,56,Away,,-,121
@@ -15480,6 +15558,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Mercer,406,Western Caro.,769,03/01/2018,75,44,Neutral,"U.S. Cellular Center (Asheville, N.C.)",-,0
 2018,Mercer,406,Samford,625,03/02/2018,81,44,Neutral,"U.S. Cellular Center (Asheville, N.C.)",-,0
 2018,Mercer,406,ETSU,198,03/04/2018,68,53,Neutral,"U.S. Cellular Center (Asheville, N.C.)",-,0
+2018,Mercer,406,Georgia,257,03/17/2018,0,0,Away,,-,0
 2018,Merchant Marine,724,Hunter,292,11/21/2017,41,61,Home,,-,75
 2018,Merchant Marine,724,Purchase,30029,11/28/2017,75,48,Home,,-,50
 2018,Merchant Marine,724,St. Joseph's (Brkln),30072,11/30/2017,61,59,Away,,-,53
@@ -15701,6 +15780,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Miami (FL),415,Virginia Tech,742,02/25/2018,76,46,Home,,-,"1,165"
 2018,Miami (FL),415,Wake Forest,749,03/01/2018,68,60,Neutral,"the Greensboro Coliseum - Greensboro, NC",-,"4,008"
 2018,Miami (FL),415,Florida St.,234,03/02/2018,69,73,Neutral,"the Greensboro Coliseum - Greensboro, NC",-,"4,316"
+2018,Miami (FL),415,Quinnipiac,562,03/17/2018,0,0,Neutral,"Storrs, CT",-,0
 2018,Miami (OH),414,Detroit Mercy,184,11/10/2017,91,64,Home,,-,"1,678"
 2018,Miami (OH),414,Purdue,559,11/15/2017,66,75,Away,,-,"5,610"
 2018,Miami (OH),414,Cincinnati,140,11/18/2017,62,73,Away,,-,500
@@ -15732,6 +15812,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Miami (OH),414,Kent St.,331,03/03/2018,58,35,Home,,-,527
 2018,Miami (OH),414,Ohio,519,03/07/2018,69,66,Neutral,"Cleveland, Ohio (Quicken Loans Arena)",-,0
 2018,Miami (OH),414,Central Mich.,129,03/09/2018,58,61,Neutral,"Cleveland, Ohio (Quicken Loans Arena)",-,0
+2018,Miami (OH),414,Duquesne,194,03/15/2018,56,69,Home,,-,510
 2018,Michigan,418,George Mason,248,11/10/2017,75,61,Home,,-,"3,442"
 2018,Michigan,418,Liberty,355,11/12/2017,74,50,Home,,-,"2,138"
 2018,Michigan,418,Louisville,367,11/16/2017,49,74,Away,,-,"5,651"
@@ -15763,6 +15844,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Michigan,418,Maryland,392,02/22/2018,71,65,Home,,-,"2,964"
 2018,Michigan,418,Penn St.,539,03/01/2018,77,48,Neutral,"Bankers Life Fieldhouse-Indianapolis, IN",-,"3,813"
 2018,Michigan,418,Nebraska,463,03/02/2018,54,61,Neutral,"Bankers Life Fieldhouse-Indianapolis, IN",-,"5,538"
+2018,Michigan,418,Northern Colo.,502,03/16/2018,0,0,Neutral,"Waco, TX",-,0
 2018,Michigan St.,416,Robert Morris,579,11/11/2017,100,58,Home,,-,"5,038"
 2018,Michigan St.,416,Oakland,514,11/13/2017,95,63,Home,,-,"4,362"
 2018,Michigan St.,416,Col. of Charleston,1014,11/19/2017,107,43,Home,,-,"4,425"
@@ -15793,6 +15875,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Michigan St.,416,Wisconsin,796,02/21/2018,69,61,Home,,-,"5,355"
 2018,Michigan St.,416,Purdue,559,02/24/2018,82,68,Away,,-,"6,800"
 2018,Michigan St.,416,Indiana,306,03/01/2018,109,111,Neutral,"Bankers Life Fieldhouse-Indianapolis, IN",4 OT,0
+2018,Michigan St.,416,Cincinnati,140,03/15/2018,81,75,Home,,-,"1,705"
 2018,Michigan Tech,417,Davis & Elkins,174,11/10/2017,65,48,Neutral,,-,102
 2018,Michigan Tech,417,Ursuline,30140,11/11/2017,81,67,Away,,-,237
 2018,Michigan Tech,417,MSU Moorhead,1240,11/16/2017,66,53,Away,,-,876
@@ -15852,6 +15935,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Middle Tenn.,419,Charlotte,458,02/25/2018,54,53,Away,,-,789
 2018,Middle Tenn.,419,Old Dominion,523,03/03/2018,65,47,Home,,-,"10,050"
 2018,Middle Tenn.,419,Rice,574,03/08/2018,53,61,Neutral,"Frisco, Texas (Ford Center at The Star)",-,"2,796"
+2018,Middle Tenn.,419,Ball St.,47,03/15/2018,60,69,Away,,-,"1,083"
 2018,Middlebury,420,Emerson,214,11/18/2017,80,55,Away,,-,200
 2018,Middlebury,420,Mt. St. Mary (NY),1468,11/19/2017,59,34,Neutral,Brown & Plofker Gym - Emerson College,-,100
 2018,Middlebury,420,Johnson St.,324,11/21/2017,74,27,Away,,-,84
@@ -16048,6 +16132,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Milwaukee,797,Detroit Mercy,184,02/23/2018,90,45,Home,,-,535
 2018,Milwaukee,797,Oakland,514,02/25/2018,75,80,Home,,-,650
 2018,Milwaukee,797,Youngstown St.,817,03/04/2018,58,62,Neutral,"Detroit, Mich. (Little Caesars Arena)",-,0
+2018,Milwaukee,797,UNI,504,03/15/2018,81,67,Away,,-,"1,105"
 2018,Minn. Duluth,427,Wis.-Parkside,799,11/18/2017,73,49,Away,,-,0
 2018,Minn. Duluth,427,Michigan Tech,417,11/20/2017,70,79,Away,,1 OT,629
 2018,Minn. Duluth,427,Lake Superior St.,345,11/22/2017,89,51,Home,,-,226
@@ -16159,6 +16244,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Minnesota,428,Illinois,301,02/25/2018,84,75,Away,,-,"1,638"
 2018,Minnesota,428,Iowa,312,03/02/2018,90,89,Neutral,"Bankers Life Fieldhouse-Indianapolis, IN",-,"5,274"
 2018,Minnesota,428,Ohio St.,518,03/03/2018,88,90,Neutral,"Bankers Life Fieldhouse-Indianapolis, IN",-,0
+2018,Minnesota,428,Green Bay,794,03/16/2018,0,0,Neutral,"Eugene, OR",-,0
 2018,Minnesota St.,383,Washburn,2814,11/10/2017,65,78,Neutral,"Kansas City, Mo./Municipal Auditorium",-,216
 2018,Minnesota St.,383,Pittsburg St.,1314,11/11/2017,60,84,Neutral,"Kansas City, Mo./Municipal Auditorium",-,263
 2018,Minnesota St.,383,Black Hills St.,30134,11/14/2017,44,67,Home,,-,183
@@ -16304,6 +16390,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Mississippi St.,430,Kentucky,334,03/02/2018,81,58,Neutral,"BRIDGESTONE ARENA - NASHVILLE, TN",-,"6,344"
 2018,Mississippi St.,430,Texas A&M,697,03/03/2018,70,55,Neutral,"BRIDGESTONE ARENA - NASHVILLE, TN",-,"8,819"
 2018,Mississippi St.,430,South Carolina,648,03/04/2018,51,62,Neutral,"BRIDGESTONE ARENA - NASHVILLE, TN",-,"8,215"
+2018,Mississippi St.,430,Nicholls St.,483,03/17/2018,0,0,Home,,-,0
 2018,Mississippi Val.,432,UAB,9,11/11/2017,72,87,Away,,-,596
 2018,Mississippi Val.,432,Southern Miss.,664,11/16/2017,69,84,Away,,-,"1,244"
 2018,Mississippi Val.,432,Colorado,157,11/24/2017,48,85,Away,,-,"1,314"
@@ -16365,6 +16452,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Missouri,434,Texas A&M,697,02/25/2018,63,82,Away,,-,"6,627"
 2018,Missouri,434,Ole Miss,433,03/01/2018,59,50,Neutral,"Nashville, Tenn. (Bridgestone Arena)",-,"6,047"
 2018,Missouri,434,Georgia,257,03/02/2018,41,55,Neutral,"BRIDGESTONE ARENA - NASHVILLE, TN",-,"7,489"
+2018,Missouri,434,FGCU,28755,03/17/2018,0,0,Neutral,"Stanford, CA",-,0
 2018,Missouri S&T,435,LeMoyne-Owen,350,11/10/2017,93,84,Home,,-,337
 2018,Missouri S&T,435,Purdue Northwest,30222,11/11/2017,88,80,Home,,-,327
 2018,Missouri S&T,435,Lincoln (MO),356,11/14/2017,72,57,Away,,-,762
@@ -16422,6 +16510,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Missouri St.,669,Indiana St.,305,03/03/2018,69,56,Home,,-,"2,412"
 2018,Missouri St.,669,Bradley,72,03/09/2018,76,68,Neutral,"TaxSlayer Center | Moline, Ill.",-,0
 2018,Missouri St.,669,UNI,504,03/10/2018,58,70,Neutral,"TaxSlayer Center | Moline, IL",-,"2,129"
+2018,Missouri St.,669,Louisiana Tech,366,03/15/2018,63,59,Away,,-,"1,734"
 2018,Missouri Western,9013,Southwest Minn. St.,8736,11/10/2017,76,46,Neutral,"Fayette, IA (Dorman Gymnasium)",-,120
 2018,Missouri Western,9013,Upper Iowa,728,11/11/2017,65,49,Away,,-,198
 2018,Missouri Western,9013,William Jewell,30120,11/15/2017,67,63,Home,,-,849
@@ -16680,6 +16769,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Mont. St. Billings,205,Northwest Nazarene,1274,03/02/2018,76,69,Neutral,"Alaska Airlines Center - Anchorage, AK",-,724
 2018,Mont. St. Billings,205,Seattle Pacific,634,03/03/2018,71,61,Neutral,"Alaska Airlines Center - Anchorage, AK",-,639
 2018,Mont. St. Billings,205,Hawaii Pacific,2696,03/09/2018,76,65,Neutral,"Azusa, Calif. (Felix Event Center)",-,293
+2018,Mont. St. Billings,205,UC San Diego,112,03/10/2018,75,73,Neutral,"Azusa, Calif. (Felix Event Center)",-,184
+2018,Mont. St. Billings,205,Alas. Anchorage,11,03/12/2018,71,70,Neutral,"Azusa, Calif. (Felix Event Center)",-,123
 2018,Montana,441,Wyoming,811,11/13/2017,62,67,Away,,-,"2,484"
 2018,Montana,441,Kentucky,334,11/16/2017,54,71,Home,,-,"2,808"
 2018,Montana,441,Gonzaga,260,11/18/2017,55,70,Home,,-,"3,520"
@@ -17121,7 +17212,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,MSU Denver,413,Colo. Sch. of Mines,155,02/24/2018,67,53,Home,,-,403
 2018,MSU Denver,413,Colorado Mesa,11416,02/27/2018,71,58,Home,,-,378
 2018,MSU Denver,413,Black Hills St.,30134,03/02/2018,50,52,Neutral,"Pueblo, Colo. (Massari Arena)",-,352
-2018,MSU Denver,413,Colorado St.-Pueblo,2720,03/09/2018,0,0,Neutral,,-,0
+2018,MSU Denver,413,Colorado St.-Pueblo,2720,03/09/2018,78,70,Neutral,"Rip Griffin Center - Lubbock, Texas",-,176
 2018,MSU Denver,413,West Tex. A&M,767,03/10/2018,60,70,Neutral,"Rip Griffin Center - Lubbock, Texas",-,387
 2018,MSU Moorhead,1240,Michigan Tech,417,11/16/2017,53,66,Home,,-,876
 2018,MSU Moorhead,1240,Northern Mich.,506,11/19/2017,74,63,Home,,-,569
@@ -17346,6 +17437,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,N.C. A&T,488,South Carolina St.,647,03/07/2018,54,38,Neutral,2018 MEAC Women's Basketball Tournament,-,"7,523"
 2018,N.C. A&T,488,Florida A&M,228,03/09/2018,65,61,Neutral,2018 MEAC Women's Basketball Tournament,-,0
 2018,N.C. A&T,488,Hampton,270,03/10/2018,72,65,Neutral,2018 MEAC Women's Basketball Tournament,1 OT,"6,036"
+2018,N.C. A&T,488,South Carolina,648,03/16/2018,0,0,Away,,-,0
 2018,N.C. Central,489,Longwood,363,11/14/2017,87,75,Home,,-,786
 2018,N.C. Central,489,Wofford,2915,11/21/2017,56,77,Away,,-,"1,657"
 2018,N.C. Central,489,Oregon St.,528,11/22/2017,44,97,Home,,-,219
@@ -17462,6 +17554,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Navy,726,Loyola Maryland,369,03/05/2018,63,55,Home,,-,487
 2018,Navy,726,Bucknell,83,03/08/2018,68,62,Away,,-,619
 2018,Navy,726,American,23,03/11/2018,49,58,Away,,-,"1,001"
+2018,Navy,726,Virginia Tech,742,03/16/2018,0,0,Away,,-,0
 2018,Nazareth,461,Wells,761,11/15/2017,72,32,Away,,-,185
 2018,Nazareth,461,Keuka,1159,11/18/2017,51,61,Home,,-,435
 2018,Nazareth,461,Oswego St.,530,11/21/2017,66,37,Home,,-,110
@@ -17519,6 +17612,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,NC State,490,North Carolina,457,03/01/2018,77,64,Neutral,"the Greensboro Coliseum - Greensboro, NC",-,"6,164"
 2018,NC State,490,Duke,193,03/02/2018,51,45,Neutral,"Greensboro, NC (Greensboro Coliseum)",-,"5,613"
 2018,NC State,490,Louisville,367,03/03/2018,59,64,Neutral,"the Greensboro Coliseum - Greensboro, NC",-,0
+2018,NC State,490,Elon,1068,03/16/2018,0,0,Home,,-,0
 2018,Neb. Wesleyan,462,North Central (MN),30039,11/17/2017,71,43,Away,,-,200
 2018,Neb. Wesleyan,462,Northwestern-St.Paul,30031,11/18/2017,63,44,Away,,-,142
 2018,Neb. Wesleyan,462,Sul Ross St.,1390,11/24/2017,102,47,Neutral,"Colorado Springs, Colo. / Reid Arena",-,154
@@ -17603,6 +17697,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Nebraska,463,Maryland,392,02/25/2018,75,77,Away,,-,"10,239"
 2018,Nebraska,463,Michigan,418,03/02/2018,61,54,Neutral,"Bankers Life Fieldhouse-Indianapolis, IN",-,"5,538"
 2018,Nebraska,463,Maryland,392,03/03/2018,53,66,Neutral,"Indianapolis, Ind. (Bankers Life FH)",-,"7,499"
+2018,Nebraska,463,Arizona St.,28,03/17/2018,0,0,Neutral,"Austin, TX",-,0
 2018,Neumann,1254,King's (PA),336,11/15/2017,67,70,Home,,-,276
 2018,Neumann,1254,Penn St.-Brandywine,,11/18/2017,75,56,Home,,-,206
 2018,Neumann,1254,Misericordia,16142,11/19/2017,70,66,Home,,-,208
@@ -17664,6 +17759,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Nevada,466,UNLV,465,03/06/2018,77,73,Neutral,"Las Vegas, Nevada (Thomas ' Mack Center)",2 OT,0
 2018,Nevada,466,Wyoming,811,03/07/2018,67,63,Neutral,"Las Vegas, Nevada (Thomas ' Mack Center)",-,"2,142"
 2018,Nevada,466,Boise St.,66,03/09/2018,60,62,Neutral,"Las Vegas, Nevada (Thomas & Mack Center)",-,"2,419"
+2018,Nevada,466,UC Irvine,109,03/15/2018,70,60,Home,,-,"1,205"
 2018,New England Col.,467,Delaware Valley,179,11/18/2017,66,62,Neutral,"The Sports Center; Galloway, NJ",-,127
 2018,New England Col.,467,Stockton,681,11/19/2017,48,71,Away,,-,130
 2018,New England Col.,467,Newbury,21772,11/21/2017,71,61,Away,,-,40
@@ -17801,6 +17897,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,New Mexico,473,Fresno St.,96,03/02/2018,93,89,Away,,1 OT,"2,401"
 2018,New Mexico,473,San Jose St.,630,03/05/2018,84,54,Neutral,"Las Vegas, Nevada (Thomas ' Mack Center)",-,"1,542"
 2018,New Mexico,473,Wyoming,811,03/06/2018,66,69,Neutral,"Las Vegas, Nevada (Thomas ' Mack Center)",-,"2,361"
+2018,New Mexico,473,Saint Mary's (CA),610,03/15/2018,0,0,Home,,-,0
 2018,New Mexico St.,472,Western Mich.,774,11/12/2017,55,64,Home,,-,646
 2018,New Mexico St.,472,Tex. Permian Basin,30088,11/14/2017,85,58,Home,,-,"1,772"
 2018,New Mexico St.,472,New Mexico,473,11/18/2017,75,86,Away,,-,"5,082"
@@ -17831,6 +17928,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,New Mexico St.,472,UTRGV,536,03/03/2018,72,56,Home,,-,"1,564"
 2018,New Mexico St.,472,Chicago St.,136,03/07/2018,84,60,Neutral,"Las Vegas, Nev. (Orleans Arena)",-,0
 2018,New Mexico St.,472,Seattle U,1356,03/09/2018,61,84,Neutral,"Las Vegas, Nev. (Orleans Arena)",-,"1,366"
+2018,New Mexico St.,472,Wyoming,811,03/15/2018,59,67,Away,,-,"1,947"
 2018,New Orleans,474,Louisiana,671,11/10/2017,57,66,Away,,-,692
 2018,New Orleans,474,CSUN,101,11/17/2017,76,73,Home,,-,417
 2018,New Orleans,474,Houston,288,11/18/2017,66,78,Home,,-,382
@@ -18032,6 +18130,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Nicholls St.,483,A&M-Corpus Christi,26172,03/09/2018,61,59,Neutral,"Katy, Texas (Merrell Center)",-,0
 2018,Nicholls St.,483,Lamar University,346,03/10/2018,74,68,Neutral,"Katy, Texas (Merrell Center)",-,"1,446"
 2018,Nicholls St.,483,SFA,676,03/11/2018,69,65,Neutral,"Merrell Center (Katy, Texas)",-,927
+2018,Nicholls St.,483,Mississippi St.,430,03/17/2018,0,0,Away,,-,0
 2018,Nichols,484,WPI,808,11/21/2017,33,60,Home,,-,119
 2018,Nichols,484,Anna Maria,26,11/27/2017,78,44,Away,,-,60
 2018,Nichols,484,Endicott,8981,11/29/2017,54,66,Home,,-,175
@@ -18348,6 +18447,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,North Georgia,30052,Lander,1167,03/04/2018,76,60,Home,,-,987
 2018,North Georgia,30052,Barton,15646,03/09/2018,81,76,Neutral,"Jefferson City, Tenn. (Holt Fieldhouse)",-,90
 2018,North Georgia,30052,Wingate,1462,03/10/2018,78,75,Neutral,"Jefferson City, Tenn. (Holt Fieldhouse)",-,0
+2018,North Georgia,30052,Carson-Newman,1000,03/12/2018,71,75,Away,,-,"1,844"
 2018,North Greenville,9223,North Georgia,30052,11/10/2017,61,65,Neutral,"Florence, SC (Smith University Center)",-,195
 2018,North Greenville,9223,Francis Marion,1085,11/11/2017,65,80,Away,,-,493
 2018,North Greenville,9223,Tusculum,12830,11/17/2017,59,83,Away,,-,188
@@ -18433,7 +18533,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,North Texas,497,Rice,574,03/03/2018,45,47,Away,,-,"3,524"
 2018,North Texas,497,Charlotte,458,03/07/2018,58,55,Neutral,"Frisco, Texas (Ford Center at The Star)",-,"2,031"
 2018,North Texas,497,Louisiana Tech,366,03/08/2018,76,69,Neutral,"Frisco, Texas (Ford Center at The Star)",-,"2,130"
-2018,North Texas,497,Western Ky.,772,03/09/2018,61,77,Neutral,"Frisco, Texas (Ford Center at The Star)",-,0
+2018,North Texas,497,Western Ky.,772,03/09/2018,61,77,Neutral,"Frisco, Texas (Ford Center at The Star)",-,"3,452"
 2018,Northeastern,500,Boston U.,68,11/10/2017,73,74,Away,,-,"1,535"
 2018,Northeastern,500,Providence,556,11/14/2017,95,98,Home,,1 OT,338
 2018,Northeastern,500,Fairfield,220,11/17/2017,63,43,Home,,-,352
@@ -18464,6 +18564,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Northeastern,500,Col. of Charleston,1014,02/25/2018,67,48,Away,,-,427
 2018,Northeastern,500,Hofstra,283,03/03/2018,58,54,Home,,-,279
 2018,Northeastern,500,Delaware,180,03/08/2018,50,61,Neutral,"Daskalakis Athletic Center, Philadelphia",-,"2,053"
+2018,Northeastern,500,Yale,813,03/15/2018,58,68,Home,,-,232
 2018,Northeastern St.,12810,Northwestern Okla.,30178,11/10/2017,82,75,Neutral,"Durant, OK (Bloomer Sullivan Arena)",-,425
 2018,Northeastern St.,12810,Southeastern Okla.,1371,11/11/2017,59,72,Away,,-,985
 2018,Northeastern St.,12810,Rogers St.,30180,11/15/2017,79,66,Home,,-,"1,503"
@@ -18553,6 +18654,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Northern Colo.,502,Montana,441,03/07/2018,78,69,Neutral,"Reno, Nev. (Reno Events)",-,0
 2018,Northern Colo.,502,Idaho St.,294,03/09/2018,73,66,Neutral,"Reno, Nev. (Reno Events Center)",-,0
 2018,Northern Colo.,502,Idaho,295,03/10/2018,91,69,Neutral,"Reno, Nev. (Reno Events Center)",-,0
+2018,Northern Colo.,502,Michigan,418,03/16/2018,0,0,Neutral,"Waco, TX",-,0
 2018,Northern Ill.,503,Eastern Ill.,201,11/10/2017,93,64,Away,,-,338
 2018,Northern Ill.,503,Iowa,312,11/15/2017,80,105,Away,,-,"3,504"
 2018,Northern Ill.,503,Western Ill.,771,11/18/2017,96,94,Home,,-,550
@@ -18753,7 +18855,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Northwest Nazarene,1274,Alas. Anchorage,11,02/22/2018,104,78,Home,,-,"1,250"
 2018,Northwest Nazarene,1274,Alas. Fairbanks,12,02/24/2018,89,66,Home,,-,750
 2018,Northwest Nazarene,1274,Mont. St. Billings,205,03/02/2018,69,76,Neutral,"Alaska Airlines Center - Anchorage, AK",-,724
-2018,Northwest Nazarene,1274,Alas. Anchorage,11,03/09/2018,0,0,Neutral,,-,0
+2018,Northwest Nazarene,1274,Alas. Anchorage,11,03/09/2018,63,65,Neutral,"Azusa, Calif. (Felix Event Center)",-,197
 2018,Northwestern,509,Chicago St.,136,11/10/2017,63,36,Away,,-,250
 2018,Northwestern,509,Oakland,514,11/16/2017,88,70,Home,,-,572
 2018,Northwestern,509,UT Martin,695,11/18/2017,71,63,Away,,-,"1,409"
@@ -18957,6 +19059,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Notre Dame,513,Virginia,746,03/02/2018,83,47,Neutral,"the Greensboro Coliseum - Greensboro, NC",-,0
 2018,Notre Dame,513,Florida St.,234,03/03/2018,90,80,Neutral,"the Greensboro Coliseum - Greensboro, NC",-,"6,160"
 2018,Notre Dame,513,Louisville,367,03/04/2018,72,74,Neutral,"the Greensboro Coliseum - Greensboro, NC",-,"7,424"
+2018,Notre Dame,513,CSUN,101,03/16/2018,0,0,Home,,-,0
 2018,Notre Dame (MD),8600,Muhlenberg,453,11/17/2017,42,97,Away,,-,184
 2018,Notre Dame (MD),8600,Valley Forge,30166,11/18/2017,87,82,Neutral,"Memorial Hall -- Allentown, Pa.",-,87
 2018,Notre Dame (MD),8600,Immaculata,303,11/29/2017,46,64,Away,,-,371
@@ -19416,6 +19519,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Ohio St.,518,Rutgers,587,03/02/2018,82,57,Neutral,"Bankers Life Fieldhouse-Indianapolis, IN",-,0
 2018,Ohio St.,518,Minnesota,428,03/03/2018,90,88,Neutral,"Bankers Life Fieldhouse-Indianapolis, IN",-,0
 2018,Ohio St.,518,Maryland,392,03/04/2018,79,69,Neutral,"Bankers Life Fieldhouse-Indianapolis, IN",-,"4,519"
+2018,Ohio St.,518,George Washington,249,03/17/2018,0,0,Home,,-,0
 2018,Ohio Valley,15207,Ind.-East,,11/11/2017,54,91,Neutral,"Wilbeforce, Ohio",-,206
 2018,Ohio Valley,15207,Central St. (OH),30049,11/12/2017,70,98,Away,,-,671
 2018,Ohio Valley,15207,Youngstown St.,817,11/20/2017,59,86,Away,,-,"1,259"
@@ -19555,6 +19659,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Oklahoma,522,Texas Tech,700,02/24/2018,79,61,Home,,-,"5,030"
 2018,Oklahoma,522,Texas,703,02/27/2018,66,79,Away,,-,"4,207"
 2018,Oklahoma,522,TCU,698,03/03/2018,83,90,Neutral,"Chesapeake Energy Arena, Oklahoma City",-,"4,074"
+2018,Oklahoma,522,DePaul,176,03/16/2018,0,0,Neutral,"College Station, TX",-,0
 2018,Oklahoma St.,521,Incarnate Word,2743,11/10/2017,86,35,Home,,-,"3,935"
 2018,Oklahoma St.,521,Wichita St.,782,11/14/2017,91,67,Home,,-,"1,543"
 2018,Oklahoma St.,521,UTRGV,536,11/17/2017,80,38,Home,,-,"1,441"
@@ -19585,6 +19690,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Oklahoma St.,521,West Virginia,768,02/24/2018,79,69,Away,,-,"4,058"
 2018,Oklahoma St.,521,TCU,698,02/26/2018,85,72,Home,,-,"1,563"
 2018,Oklahoma St.,521,West Virginia,768,03/03/2018,60,69,Neutral,"Chesapeake Energy Arena, Oklahoma City",-,"3,676"
+2018,Oklahoma St.,521,Syracuse,688,03/17/2018,0,0,Neutral,"Starkville, MS",-,0
 2018,Old Dominion,523,Liberty,355,11/10/2017,55,63,Home,,-,"1,584"
 2018,Old Dominion,523,George Mason,248,11/17/2017,53,66,Away,,-,523
 2018,Old Dominion,523,Saint Francis (PA),600,11/18/2017,68,79,Neutral,"EagleBank Arena (Fairfax, Va.)",-,177
@@ -19791,6 +19897,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Oregon,529,Colorado,157,03/02/2018,84,47,Neutral,"Seattle, Wash. - KeyArena",-,"4,852"
 2018,Oregon,529,UCLA,110,03/03/2018,65,62,Neutral,"Seattle, Wash. - KeyArena",-,0
 2018,Oregon,529,Stanford,674,03/04/2018,77,57,Neutral,"Seattle, Wash. - KeyArena",-,"5,387"
+2018,Oregon,529,Seattle U,1356,03/16/2018,0,0,Home,,-,0
 2018,Oregon St.,528,North Dakota,494,11/10/2017,65,55,Home,,-,"3,737"
 2018,Oregon St.,528,Utah Valley,30024,11/15/2017,98,41,Home,,-,"2,925"
 2018,Oregon St.,528,Notre Dame,513,11/19/2017,67,72,Home,,-,"7,570"
@@ -19821,6 +19928,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Oregon St.,528,Arizona,29,02/23/2018,65,40,Away,,-,"1,543"
 2018,Oregon St.,528,Arizona St.,28,02/25/2018,64,60,Away,,-,"3,258"
 2018,Oregon St.,528,Arizona St.,28,03/02/2018,51,57,Neutral,"Seattle, Wash. - KeyArena",-,"4,741"
+2018,Oregon St.,528,Western Ky.,772,03/16/2018,0,0,Neutral,"Knoxville, TN",-,0
 2018,Oswego St.,530,Clarkson,146,11/15/2017,52,67,Home,,-,75
 2018,Oswego St.,530,Medgar Evers,403,11/17/2017,66,27,Home,,-,100
 2018,Oswego St.,530,Elmira,213,11/18/2017,40,53,Home,,-,80
@@ -20125,6 +20233,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Penn,540,Brown,80,03/03/2018,67,56,Home,,-,638
 2018,Penn,540,Harvard,275,03/10/2018,57,52,Home,,-,0
 2018,Penn,540,Princeton,554,03/11/2018,34,63,Home,,-,0
+2018,Penn,540,Albany (NY),14,03/16/2018,0,0,Home,,-,0
 2018,Penn College,30190,Thiel,707,11/15/2017,55,48,Home,,-,123
 2018,Penn College,30190,Arcadia,966,11/17/2017,47,70,Away,,-,90
 2018,Penn College,30190,Westminster (PA),1451,11/18/2017,43,55,Home,,-,87
@@ -20180,6 +20289,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Penn St.,539,Ohio St.,518,02/25/2018,64,89,Home,,-,"7,517"
 2018,Penn St.,539,Illinois,301,02/28/2018,83,57,Neutral,"Indianapolis, Ind.",-,"3,119"
 2018,Penn St.,539,Michigan,418,03/01/2018,48,77,Neutral,"Bankers Life Fieldhouse-Indianapolis, IN",-,"3,813"
+2018,Penn St.,539,Radford,563,03/15/2018,62,63,Home,,1 OT,473
 2018,Penn St. Harrisburg,30081,Cairn,1305,11/15/2017,52,38,Away,,-,175
 2018,Penn St. Harrisburg,30081,Gwynedd Mercy,12399,11/18/2017,50,61,Away,,-,200
 2018,Penn St. Harrisburg,30081,Sage Colleges,11036,11/19/2017,58,62,Neutral,"Gwynedd Valley, Pa. - Griffin Complex",-,100
@@ -20243,6 +20353,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Penn St.-Altoona,25719,La Roche,1163,01/06/2018,72,87,Away,,-,210
 2018,Penn St.-Altoona,25719,Mount Aloysius,30036,01/10/2018,73,82,Home,,-,213
 2018,Penn St.-Altoona,25719,Penn St.-Behrend,538,01/13/2018,66,81,Away,,-,123
+2018,Penn St.-Altoona,25719,La Roche,1163,01/16/2018,72,87,Away,,-,210
 2018,Penn St.-Altoona,25719,Pitt.-Greensburg,11839,01/17/2018,84,56,Home,,-,127
 2018,Penn St.-Altoona,25719,Hilbert,8398,01/20/2018,51,61,Home,,-,122
 2018,Penn St.-Altoona,25719,Hood,8404,01/22/2018,96,66,Home,,-,71
@@ -20429,7 +20540,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Pitt.-Bradford,1315,Medaille,23725,01/10/2018,76,66,Home,,-,215
 2018,Pitt.-Bradford,1315,Pitt.-Greensburg,11839,01/13/2018,75,56,Home,,-,365
 2018,Pitt.-Bradford,1315,Hilbert,8398,01/17/2018,41,66,Away,,-,68
-2018,Pitt.-Bradford,1315,La Roche,1163,01/20/2018,79,62,Away,,-,0
+2018,Pitt.-Bradford,1315,La Roche,1163,01/20/2018,79,62,Away,,-,280
 2018,Pitt.-Bradford,1315,Alfred St.,30170,01/24/2018,82,62,Home,,-,235
 2018,Pitt.-Bradford,1315,Franciscan,30069,01/27/2018,68,54,Home,,-,365
 2018,Pitt.-Bradford,1315,D'Youville,1059,01/31/2018,80,69,Home,,-,390
@@ -20775,7 +20886,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Prairie View,553,Alcorn,17,03/01/2018,96,76,Away,,-,175
 2018,Prairie View,553,Southern U.,665,03/03/2018,58,96,Away,,-,935
 2018,Prairie View,553,Jackson St.,314,03/06/2018,66,64,Home,,-,523
-2018,Prairie View,553,Southern U.,665,03/09/2018,76,84,Neutral,"Houston, TX",-,0
+2018,Prairie View,553,Southern U.,665,03/09/2018,76,84,Neutral,Delmar Fieldhouse,-,0
 2018,Presbyterian,1320,San Diego St.,626,11/10/2017,50,77,Away,,-,464
 2018,Presbyterian,1320,UCLA,110,11/12/2017,40,76,Away,,-,"1,101"
 2018,Presbyterian,1320,USC Upstate,10411,11/15/2017,83,69,Away,,-,317
@@ -20835,6 +20946,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Princeton,554,Yale,813,03/03/2018,64,53,Home,,-,"1,272"
 2018,Princeton,554,Yale,813,03/10/2018,78,57,Neutral,"The Palestra (Philadelphia, Pa.)",-,0
 2018,Princeton,554,Penn,540,03/11/2018,63,34,Away,,-,0
+2018,Princeton,554,Maryland,392,03/16/2018,0,0,Neutral,"Raleigh, NC",-,0
 2018,Providence,556,Columbia,158,11/10/2017,64,73,Home,,-,231
 2018,Providence,556,Northeastern,500,11/14/2017,98,95,Away,,1 OT,338
 2018,Providence,556,Penn St.,539,11/18/2017,51,60,Home,,-,422
@@ -20916,6 +21028,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Purchase,30029,Bard,962,02/12/2018,54,63,Away,,-,115
 2018,Purchase,30029,Sarah Lawrence,30163,02/13/2018,88,53,Home,,-,86
 2018,Purchase,30029,Yeshiva,814,02/17/2018,67,51,Away,,-,150
+2018,Purdue,559,IUPUI,2699,03/15/2017,48,46,Away,,-,488
 2018,Purdue,559,Central Mich.,129,11/10/2017,79,69,Away,,-,"2,035"
 2018,Purdue,559,Miami (OH),414,11/15/2017,75,66,Home,,-,"5,610"
 2018,Purdue,559,Lamar University,346,11/18/2017,79,64,Home,,-,"5,579"
@@ -20947,6 +21060,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Purdue,559,Illinois,301,02/21/2018,64,51,Home,,-,"5,655"
 2018,Purdue,559,Michigan St.,416,02/24/2018,68,82,Home,,-,"6,800"
 2018,Purdue,559,Rutgers,587,03/01/2018,60,62,Neutral,"Bankers Life Fieldhouse-Indianapolis, IN",-,0
+2018,Purdue,559,IUPUI,2699,03/15/2018,0,0,Away,,-,0
 2018,Purdue Northwest,30222,Ill.-Springfield,30050,11/10/2017,73,79,Neutral,"Rolla, MO (Billy Key Court)",-,227
 2018,Purdue Northwest,30222,Missouri S&T,435,11/11/2017,80,88,Away,,-,327
 2018,Purdue Northwest,30222,Lewis,354,11/22/2017,57,71,Away,,-,131
@@ -21084,6 +21198,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Quinnipiac,562,Monmouth,439,03/02/2018,83,44,Neutral,"Times Union Center (Albany, NY)",-,0
 2018,Quinnipiac,562,Rider,576,03/04/2018,82,62,Neutral,"Albany, NY - Times Union Center",-,0
 2018,Quinnipiac,562,Marist,386,03/05/2018,67,58,Neutral,"Albany, NY - Times Union Center",-,"2,437"
+2018,Quinnipiac,562,Miami (FL),415,03/17/2018,0,0,Neutral,"Storrs, CT",-,0
 2018,Radford,563,Appalachian St.,27,11/12/2017,61,40,Home,,-,689
 2018,Radford,563,North Carolina,457,11/16/2017,46,79,Away,,-,"2,250"
 2018,Radford,563,Tennessee Tech,692,11/20/2017,60,41,Away,,-,757
@@ -21115,6 +21230,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Radford,563,Campbell,115,03/03/2018,56,36,Home,,-,782
 2018,Radford,563,Gardner-Webb,1092,03/09/2018,53,51,Neutral,"Lynchburg, Va. (Vines Center)",-,0
 2018,Radford,563,UNC Asheville,456,03/10/2018,50,60,Neutral,"Lynchburg, Va. (Vines Center)",-,"1,197"
+2018,Radford,563,Penn St.,539,03/15/2018,63,62,Away,,1 OT,473
 2018,Ramapo,564,CCNY,480,11/15/2017,52,33,Home,,-,75
 2018,Ramapo,564,York (NY),2730,11/17/2017,57,47,Home,,-,115
 2018,Ramapo,564,Suffolk,684,11/18/2017,55,60,Home,,-,210
@@ -21414,6 +21530,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Rice,574,Old Dominion,523,03/07/2018,70,48,Neutral,"Frisco, Texas (Ford Center at The Star)",-,"2,031"
 2018,Rice,574,Middle Tenn.,419,03/08/2018,61,53,Neutral,"Frisco, Texas (Ford Center at The Star)",-,"2,796"
 2018,Rice,574,UAB,9,03/09/2018,55,67,Neutral,"Frisco, Texas (Ford Center at The Star)",-,0
+2018,Rice,574,Texas St.,670,03/15/2018,71,60,Home,,-,320
 2018,Richmond,575,Fairfield,220,11/10/2017,72,67,Away,,-,788
 2018,Richmond,575,Columbia,158,11/12/2017,85,79,Away,,-,418
 2018,Richmond,575,Wake Forest,749,11/15/2017,81,85,Home,,-,775
@@ -21610,6 +21727,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Robert Morris,579,Central Conn. St.,127,03/07/2018,60,54,Home,,-,324
 2018,Robert Morris,579,LIU Brooklyn,361,03/08/2018,74,44,Home,,-,435
 2018,Robert Morris,579,Saint Francis (PA),600,03/11/2018,56,66,Away,,-,"1,161"
+2018,Robert Morris,579,Drexel,191,03/16/2018,0,0,Away,,-,0
 2018,Roberts Wesleyan,30150,Nyack,1277,11/10/2017,104,65,Home,,-,350
 2018,Roberts Wesleyan,30150,American Int'l,22,11/11/2017,52,66,Home,,-,125
 2018,Roberts Wesleyan,30150,Virginia Union,744,11/17/2017,82,95,Home,,-,225
@@ -22193,6 +22311,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Saint Francis (PA),600,Fairleigh Dickinson,222,03/07/2018,89,70,Home,,-,381
 2018,Saint Francis (PA),600,Sacred Heart,590,03/08/2018,78,47,Home,,-,536
 2018,Saint Francis (PA),600,Robert Morris,579,03/11/2018,66,56,Home,,-,"1,161"
+2018,Saint Francis (PA),600,UConn,164,03/17/2018,0,0,Away,,-,0
 2018,Saint Joseph's,606,Niagara,482,11/12/2017,93,69,Away,,-,463
 2018,Saint Joseph's,606,Bucknell,83,11/15/2017,77,53,Away,,-,704
 2018,Saint Joseph's,606,James Madison,317,11/19/2017,73,66,Away,,-,"1,850"
@@ -22225,6 +22344,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Saint Joseph's,606,Fordham,236,03/02/2018,52,49,Neutral,"Richmond, Va. (Richmond Coliseum)",-,0
 2018,Saint Joseph's,606,Saint Louis,609,03/03/2018,58,49,Neutral,"Richmond, Va. (Richmond Coliseum)",-,"1,709"
 2018,Saint Joseph's,606,George Washington,249,03/04/2018,49,65,Neutral,"Richmond, Va. (Richmond Coliseum)",-,"2,103"
+2018,Saint Joseph's,606,Seton Hall,635,03/14/2018,75,57,Away,,-,281
 2018,Saint Leo,608,Lee,30013,11/10/2017,53,84,Away,,-,417
 2018,Saint Leo,608,Shorter,30151,11/11/2017,62,61,Neutral,"Cleveland, TN",-,183
 2018,Saint Leo,608,Fla. Southern,233,11/15/2017,60,75,Home,,-,0
@@ -22286,6 +22406,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Saint Louis,609,Massachusetts,400,02/27/2018,70,64,Home,,-,543
 2018,Saint Louis,609,Duquesne,194,03/02/2018,71,65,Neutral,"Richmond, Va. (Richmond Coliseum)",-,0
 2018,Saint Louis,609,Saint Joseph's,606,03/03/2018,49,58,Neutral,"Richmond, Va. (Richmond Coliseum)",-,"1,709"
+2018,Saint Louis,609,Kansas St.,327,03/15/2018,61,75,Away,,-,"1,254"
 2018,Saint Martin's,1343,Cal St. San B'dino,93,11/11/2017,44,69,Neutral,"Monmouth, Ore. - New P.E. Building",-,155
 2018,Saint Martin's,1343,Dixie St.,30095,11/12/2017,74,81,Neutral,"Monmouth, Ore. - New P.E. Building",-,155
 2018,Saint Martin's,1343,Puget Sound,557,11/17/2017,74,57,Away,,-,727
@@ -22344,6 +22465,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Saint Mary's (CA),610,Pepperdine,541,02/22/2018,82,75,Away,,-,219
 2018,Saint Mary's (CA),610,Santa Clara,631,02/24/2018,72,51,Away,,-,527
 2018,Saint Mary's (CA),610,Pacific,534,03/02/2018,73,77,Neutral,"ORLEANS ARENA (LAS VEGAS, NV)",-,"6,813"
+2018,Saint Mary's (CA),610,New Mexico,473,03/15/2018,0,0,Away,,-,0
 2018,Saint Mary's (MN),612,Martin Luther,8597,11/15/2017,61,60,Home,,-,219
 2018,Saint Mary's (MN),612,Wis.-La Crosse,795,11/17/2017,59,67,Neutral,"Claire Lynch, St. Joseph, Minn.",-,125
 2018,Saint Mary's (MN),612,Minn.-Morris,1226,11/18/2017,81,57,Neutral,"Claire Lynch, St. Joseph, Minn.",-,75
@@ -23021,6 +23143,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Seattle U,1356,UMKC,2707,03/07/2018,75,64,Neutral,"Las Vegas, Nev. (Orleans Arena)",-,809
 2018,Seattle U,1356,New Mexico St.,472,03/09/2018,84,61,Neutral,"Las Vegas, Nev. (Orleans Arena)",-,"1,366"
 2018,Seattle U,1356,CSU Bakersfield,94,03/10/2018,57,54,Neutral,"Las Vegas, NV (Orleans Arena)",-,733
+2018,Seattle U,1356,Oregon,529,03/16/2018,0,0,Away,,-,0
 2018,Seton Hall,635,Saint Peter's,617,11/10/2017,91,49,Home,,-,726
 2018,Seton Hall,635,Wake Forest,749,11/12/2017,67,57,Away,,-,497
 2018,Seton Hall,635,Princeton,554,11/16/2017,83,85,Home,,-,716
@@ -23052,6 +23175,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Seton Hall,635,DePaul,176,02/25/2018,68,72,Home,,-,"1,013"
 2018,Seton Hall,635,Xavier,812,03/03/2018,66,42,Neutral,"Chicago, Ill",-,"1,950"
 2018,Seton Hall,635,DePaul,176,03/04/2018,52,78,Away,,-,"2,147"
+2018,Seton Hall,635,Saint Joseph's,606,03/14/2018,57,75,Home,,-,281
 2018,Seton Hill,30063,Lincoln (PA),357,11/10/2017,71,68,Neutral,VSU Multipurpose Center,-,0
 2018,Seton Hill,30063,Virginia St.,743,11/11/2017,49,69,Away,,-,0
 2018,Seton Hill,30063,Mansfield,384,11/18/2017,73,77,Home,,-,275
@@ -23136,8 +23260,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,SFA,676,Lamar University,346,02/24/2018,58,75,Home,,-,"4,221"
 2018,SFA,676,Abilene Christian,2,02/28/2018,78,52,Away,,-,"1,228"
 2018,SFA,676,Sam Houston St.,624,03/03/2018,72,49,Away,,-,375
-2018,SFA,676,Central Ark.,1004,03/10/2018,70,60,Neutral,"Katy, TX",-,0
+2018,SFA,676,Central Ark.,1004,03/10/2018,70,60,Neutral,"Katy, Texas (Merrell Center)",-,"1,446"
 2018,SFA,676,Nicholls St.,483,03/11/2018,65,69,Neutral,"Merrell Center (Katy, Texas)",-,927
+2018,SFA,676,George Mason,248,03/16/2018,0,0,Away,,-,0
 2018,Shaw,636,Pitt.-Johnstown,546,11/11/2017,60,75,Neutral,"Winston-Salem, N.C. (C.E. Gaines Center)",-,0
 2018,Shaw,636,Shepherd,10870,11/12/2017,61,85,Neutral,"Winston-Salem, N.C.(C.E. Gaines Center)",-,312
 2018,Shaw,636,Clark Atlanta,144,11/18/2017,71,62,Away,,-,267
@@ -23447,6 +23572,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,SIUE,660,Eastern Ill.,201,02/24/2018,72,76,Away,,1 OT,"1,076"
 2018,SIUE,660,Austin Peay,43,03/01/2018,76,43,Neutral,"Evansville, Ind. (Ford Center)",-,439
 2018,SIUE,660,UT Martin,695,03/02/2018,67,69,Neutral,"Evansville, Ind. (Ford Center)",-,695
+2018,SIUE,660,Central Ark.,1004,03/15/2018,39,51,Away,,-,487
 2018,Skidmore,642,Bowdoin,69,11/17/2017,42,76,Home,,-,405
 2018,Skidmore,642,Connecticut Col.,163,11/18/2017,65,74,Home,,-,450
 2018,Skidmore,642,Williams,789,11/28/2017,60,58,Home,,-,105
@@ -23617,6 +23743,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,South Ala.,646,Georgia St.,254,03/03/2018,70,69,Away,,-,448
 2018,South Ala.,646,La.-Monroe,498,03/06/2018,80,54,Neutral,"Lakefront Arena/New Orleans, La.",-,694
 2018,South Ala.,646,Troy,716,03/08/2018,79,82,Neutral,"Lakefront Arena/New Orleans, La.",-,967
+2018,South Ala.,646,Stetson,678,03/15/2018,49,33,Home,,-,707
 2018,South Carolina,648,Alabama St.,7,11/10/2017,99,31,Home,,-,"13,723"
 2018,South Carolina,648,Maryland,392,11/13/2017,94,86,Away,,-,"8,677"
 2018,South Carolina,648,Clemson,147,11/16/2017,66,36,Away,,-,"1,589"
@@ -23649,6 +23776,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,South Carolina,648,Tennessee,694,03/02/2018,73,62,Neutral,"BRIDGESTONE ARENA - NASHVILLE, TN",-,"7,489"
 2018,South Carolina,648,Georgia,257,03/03/2018,71,49,Neutral,"BRIDGESTONE ARENA - NASHVILLE, TN",-,"8,819"
 2018,South Carolina,648,Mississippi St.,430,03/04/2018,62,51,Neutral,"BRIDGESTONE ARENA - NASHVILLE, TN",-,"8,215"
+2018,South Carolina,648,N.C. A&T,488,03/16/2018,0,0,Home,,-,0
 2018,South Carolina St.,647,Georgia Tech,255,11/12/2017,40,86,Away,,-,896
 2018,South Carolina St.,647,Clemson,147,11/13/2017,48,56,Away,,-,478
 2018,South Carolina St.,647,Winthrop,792,11/18/2017,65,37,Away,,-,316
@@ -23711,6 +23839,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,South Dakota,650,Fort Wayne,308,03/03/2018,83,32,Neutral,"Sioux Falls, S.D. (PREMIER Center)",-,"8,944"
 2018,South Dakota,650,Oral Roberts,527,03/05/2018,65,53,Neutral,"Sioux Falls, S.D. (Premier Center)",-,"6,424"
 2018,South Dakota,650,South Dakota St.,649,03/06/2018,50,65,Neutral,"Sioux Falls, S.D. (PREMIER Center)",-,"8,704"
+2018,South Dakota,650,Houston,288,03/15/2018,65,58,Home,,-,"1,176"
 2018,South Dakota Mines,30139,Eastern N.M.,206,11/10/2017,65,57,Neutral,"Durango, CO (Whlaen Gym)",-,0
 2018,South Dakota Mines,30139,Tex. Permian Basin,30088,11/11/2017,78,72,Neutral,"Durango, CO (Whalen Gymnasium)",-,323
 2018,South Dakota Mines,30139,Johnson & Wales (CO),30046,11/17/2017,77,48,Home,,-,543
@@ -23772,6 +23901,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,South Dakota St.,649,North Dakota St.,493,03/03/2018,87,62,Neutral,"PREMIER Center: Sioux Falls, S.D.",-,"8,944"
 2018,South Dakota St.,649,Western Ill.,771,03/05/2018,80,51,Neutral,"PREMIER Center, Sioux Falls, S.D.",-,"6,424"
 2018,South Dakota St.,649,South Dakota,650,03/06/2018,65,50,Neutral,"Sioux Falls, S.D. (PREMIER Center)",-,"8,704"
+2018,South Dakota St.,649,Villanova,739,03/16/2018,0,0,Neutral,"South Bend, IN",-,0
 2018,South Fla.,651,LSU,365,11/10/2017,61,55,Home,,-,"4,192"
 2018,South Fla.,651,Houston Baptist,287,11/12/2017,90,43,Home,,-,"2,022"
 2018,South Fla.,651,Arkansas St.,30,11/17/2017,98,55,Home,,-,"2,276"
@@ -23805,6 +23935,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,South Fla.,651,East Carolina,196,03/04/2018,80,44,Neutral,"Mohegan Sun Arena - Uncasville, Conn.",-,"3,392"
 2018,South Fla.,651,UCF,128,03/05/2018,74,59,Neutral,"Mohegan Sun Arena - Uncasville, Conn.",-,"6,033"
 2018,South Fla.,651,UConn,164,03/06/2018,54,70,Neutral,"Mohegan Sun Arena - Uncasville, Conn.",-,"7,501"
+2018,South Fla.,651,Buffalo,86,03/17/2018,0,0,Neutral,"Tallahassee, FL",-,0
 2018,Southeast Mo. St.,654,Louisville,367,11/10/2017,40,80,Away,,-,"6,054"
 2018,Southeast Mo. St.,654,Missouri Valley,,11/14/2017,69,34,Home,,-,"2,178"
 2018,Southeast Mo. St.,654,Saint Francis (PA),600,11/17/2017,82,50,Neutral,"EagleBank Arena (Fairfax, Va.)",-,134
@@ -24185,8 +24316,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Southern U.,665,Texas Southern,699,03/01/2018,60,66,Home,,-,"1,259"
 2018,Southern U.,665,Prairie View,553,03/03/2018,96,58,Home,,-,935
 2018,Southern U.,665,Ark.-Pine Bluff,2678,03/06/2018,70,60,Home,,-,"1,235"
-2018,Southern U.,665,Prairie View,553,03/09/2018,84,76,Neutral,"Houston, TX",-,0
+2018,Southern U.,665,Prairie View,553,03/09/2018,84,76,Neutral,Delmar Fieldhouse,-,0
 2018,Southern U.,665,Grambling,261,03/10/2018,68,72,Neutral,"Houston, Texas (Delmar Fieldhouse)",-,"1,993"
+2018,Southern U.,665,Alabama,8,03/14/2018,56,69,Away,,-,294
 2018,Southern Utah,667,BYU,77,11/10/2017,67,75,Away,,1 OT,972
 2018,Southern Utah,667,San Diego,627,11/14/2017,59,72,Away,,-,202
 2018,Southern Utah,667,Binghamton,62,11/18/2017,66,72,Home,,-,480
@@ -24741,6 +24873,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,St. John's (NY),603,DePaul,176,02/23/2018,54,67,Home,,-,749
 2018,St. John's (NY),603,Marquette,387,02/25/2018,57,76,Home,,-,"1,069"
 2018,St. John's (NY),603,Creighton,169,03/04/2018,58,66,Neutral,"Chicago, Ill. (Wintrust Arena)",-,"1,991"
+2018,St. John's (NY),603,Marist,386,03/15/2018,0,0,Home,,-,0
 2018,St. Joseph (CT),8687,Bay Path,26520,11/15/2017,79,36,Away,,-,57
 2018,St. Joseph (CT),8687,St. Joseph (VT),,11/17/2017,76,68,Home,,-,182
 2018,St. Joseph (CT),8687,Newbury,21772,11/18/2017,54,60,Home,,-,115
@@ -25111,6 +25244,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Stanford,674,Southern California,657,03/02/2018,69,59,Neutral,"Seattle, Wash. (KeyArena)",-,"4,741"
 2018,Stanford,674,Arizona St.,28,03/03/2018,58,46,Neutral,"Seattle, Wash. (KeyArena)",-,"6,889"
 2018,Stanford,674,Oregon,529,03/04/2018,57,77,Neutral,"Seattle, Wash. - KeyArena",-,"5,387"
+2018,Stanford,674,Gonzaga,260,03/17/2018,0,0,Home,,-,0
 2018,Stanislaus St.,103,Northwest Nazarene,1274,11/10/2017,66,76,Home,,-,422
 2018,Stanislaus St.,103,Concordia Portland,30200,11/11/2017,72,68,Home,,1 OT,194
 2018,Stanislaus St.,103,Cal St. San B'dino,93,11/15/2017,60,72,Home,,-,211
@@ -25197,6 +25331,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Stetson,678,Lipscomb,28600,02/19/2018,91,71,Home,,-,708
 2018,Stetson,678,FGCU,28755,02/24/2018,60,74,Home,,-,446
 2018,Stetson,678,North Florida,2711,03/02/2018,55,63,Home,,1 OT,437
+2018,Stetson,678,South Ala.,646,03/15/2018,33,49,Away,,-,707
 2018,Stevens,679,NYU,479,11/15/2017,65,68,Away,,-,174
 2018,Stevens,679,Elizabethtown,211,11/18/2017,63,72,Neutral,"Lancaster, Pa.",-,0
 2018,Stevens,679,Immaculata,303,11/19/2017,62,43,Neutral,"Lancaster, Pa.",-,103
@@ -25312,6 +25447,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Stonehill,682,Bentley,56,03/04/2018,72,73,Neutral,"Smitfield, R.I. - Chace Athletic Center",1 OT,495
 2018,Stonehill,682,Southern Conn. St.,658,03/09/2018,70,45,Home,,-,716
 2018,Stonehill,682,St. Thomas Aquinas,1348,03/10/2018,63,52,Home,,-,764
+2018,Stonehill,682,USciences,28594,03/12/2018,71,61,Home,,-,"1,500"
 2018,Stony Brook,683,Manhattan,381,11/11/2017,74,59,Home,,-,816
 2018,Stony Brook,683,Hofstra,283,11/14/2017,73,49,Away,,-,312
 2018,Stony Brook,683,Fairleigh Dickinson,222,11/19/2017,56,51,Away,,-,227
@@ -25661,6 +25797,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Syracuse,688,North Carolina,457,02/22/2018,86,80,Away,,-,"2,357"
 2018,Syracuse,688,Boston College,67,02/25/2018,69,63,Home,,-,"3,196"
 2018,Syracuse,688,Virginia Tech,742,03/01/2018,70,85,Neutral,"the Greensboro Coliseum - Greensboro, NC",-,"2,886"
+2018,Syracuse,688,Oklahoma St.,521,03/17/2018,0,0,Neutral,"Starkville, MS",-,0
 2018,Tampa,689,Spring Hill,30191,11/10/2017,69,62,Home,,-,83
 2018,Tampa,689,West Ga.,766,11/11/2017,71,68,Home,,-,78
 2018,Tampa,689,Eckerd,208,11/15/2017,48,44,Home,,-,98
@@ -25781,6 +25918,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,TCU,698,Oklahoma St.,521,02/26/2018,72,85,Away,,-,"1,563"
 2018,TCU,698,Oklahoma,522,03/03/2018,90,83,Neutral,"Chesapeake Energy Arena, Oklahoma City",-,"4,074"
 2018,TCU,698,Baylor,51,03/04/2018,48,94,Neutral,"Chesapeake Energy Arena, Oklahoma City",-,0
+2018,TCU,698,Lamar University,346,03/15/2018,80,68,Home,,-,"1,330"
 2018,Temple,690,Delaware St.,178,11/10/2017,96,72,Home,,-,"1,202"
 2018,Temple,690,Rutgers,587,11/13/2017,67,84,Home,,-,"1,158"
 2018,Temple,690,Wagner,748,11/16/2017,70,36,Home,,-,903
@@ -25843,6 +25981,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Tennessee,694,South Carolina,648,02/25/2018,65,46,Home,,-,"13,058"
 2018,Tennessee,694,Auburn,37,03/01/2018,64,61,Neutral,"Nashville, Tenn. (Bridgestone Arena)",-,"6,047"
 2018,Tennessee,694,South Carolina,648,03/02/2018,62,73,Neutral,"BRIDGESTONE ARENA - NASHVILLE, TN",-,"7,489"
+2018,Tennessee,694,Liberty,355,03/16/2018,0,0,Home,,-,0
 2018,Tennessee St.,691,Memphis,404,11/10/2017,75,79,Away,,1 OT,"1,024"
 2018,Tennessee St.,691,Alabama A&M,6,11/18/2017,75,77,Home,,-,"1,136"
 2018,Tennessee St.,691,Ball St.,47,11/22/2017,65,85,Home,,-,468
@@ -26047,6 +26186,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Texas,703,Iowa St.,311,03/03/2018,81,69,Neutral,"Chesapeake Energy Arena, Oklahoma City",-,0
 2018,Texas,703,West Virginia,768,03/04/2018,68,55,Neutral,"Chesapeake Energy Arena, Oklahoma City",-,"3,832"
 2018,Texas,703,Baylor,51,03/05/2018,69,77,Neutral,"Chesapeake Energy Arena, Oklahoma City",-,"3,520"
+2018,Texas,703,Maine,380,03/17/2018,0,0,Home,,-,0
 2018,Texas A&M,697,Houston,288,11/10/2017,83,65,Home,,-,"3,085"
 2018,Texas A&M,697,Louisiana,671,11/12/2017,83,62,Home,,-,"2,867"
 2018,Texas A&M,697,Oregon,529,11/16/2017,68,83,Home,,-,"3,315"
@@ -26080,6 +26220,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Texas A&M,697,Arkansas,31,03/01/2018,82,52,Neutral,"Nasvhille, Tenn. (Bridgestone Arena)",-,"3,889"
 2018,Texas A&M,697,LSU,365,03/02/2018,75,69,Neutral,"BRIDGESTONE ARENA - NASHVILLE, TN",-,"6,344"
 2018,Texas A&M,697,Mississippi St.,430,03/03/2018,55,70,Neutral,"BRIDGESTONE ARENA - NASHVILLE, TN",-,"8,819"
+2018,Texas A&M,697,Drake,189,03/16/2018,0,0,Home,,-,0
 2018,Texas Lutheran,1400,Mary Hardin-Baylor,1203,11/16/2017,73,91,Away,,-,407
 2018,Texas Lutheran,1400,Sul Ross St.,1390,11/18/2017,74,57,Home,,-,375
 2018,Texas Lutheran,1400,Howard Payne,2741,11/20/2017,60,66,Home,,-,320
@@ -26136,6 +26277,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Texas Southern,699,Alcorn,17,03/03/2018,52,54,Away,,-,381
 2018,Texas Southern,699,Alabama St.,7,03/06/2018,70,42,Home,,-,904
 2018,Texas Southern,699,Grambling,261,03/09/2018,59,66,Neutral,Delmar Fieldhouse,-,"1,800"
+2018,Texas Southern,699,Weber St.,758,03/15/2018,56,66,Home,,-,482
 2018,Texas St.,670,Texas Tech,700,11/12/2017,87,70,Away,,-,"3,611"
 2018,Texas St.,670,Incarnate Word,2743,11/15/2017,74,33,Away,,-,"1,000"
 2018,Texas St.,670,TCU,698,11/18/2017,58,82,Away,,-,"1,766"
@@ -26168,6 +26310,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Texas St.,670,Coastal Caro.,149,03/08/2018,78,69,Neutral,"Lakefront Arena/New Orleans, La.",-,954
 2018,Texas St.,670,Louisiana,671,03/10/2018,62,56,Neutral,"Lakefront Arena/New Orleans, La.",-,898
 2018,Texas St.,670,Little Rock,32,03/11/2018,53,54,Neutral,"Lakefront Arena/New Orleans, La.",-,"1,214"
+2018,Texas St.,670,Rice,574,03/15/2018,60,71,Away,,-,320
 2018,Texas Tech,700,Texas St.,670,11/12/2017,70,87,Home,,-,"3,611"
 2018,Texas Tech,700,Florida A&M,228,11/15/2017,82,63,Home,,-,"8,238"
 2018,Texas Tech,700,Ark.-Pine Bluff,2678,11/19/2017,74,47,Home,,-,"3,335"
@@ -26421,6 +26564,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Toledo,709,Northern Ill.,503,02/28/2018,79,89,Away,,-,463
 2018,Toledo,709,Central Mich.,129,03/03/2018,67,72,Home,,-,"4,837"
 2018,Toledo,709,Kent St.,331,03/05/2018,76,80,Home,,1 OT,"3,157"
+2018,Toledo,709,Wright St.,810,03/16/2018,0,0,Home,,-,0
 2018,Towson,711,Massachusetts,400,11/12/2017,49,72,Away,,-,361
 2018,Towson,711,George Washington,249,11/16/2017,43,66,Home,,-,"1,213"
 2018,Towson,711,Pittsburgh,545,11/19/2017,63,81,Away,,-,"1,124"
@@ -26871,7 +27015,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,UAB,9,UTSA,706,03/03/2018,74,66,Away,,-,561
 2018,UAB,9,UTEP,704,03/08/2018,75,66,Neutral,"Frisco, Texas (Ford Center at The Star)",-,0
 2018,UAB,9,Rice,574,03/09/2018,67,55,Neutral,"Frisco, Texas (Ford Center at The Star)",-,0
-2018,UAB,9,Western Ky.,772,03/10/2018,57,72,Neutral,"Frisco, Texas (Ford Center at The Star)",-,0
+2018,UAB,9,Western Ky.,772,03/10/2018,57,72,Neutral,"Frisco, Texas (Ford Center at The Star)",-,"4,422"
+2018,UAB,9,Chattanooga,693,03/15/2018,0,0,Home,,-,0
+2018,UAB,9,Chattanooga,693,03/15/2018,60,50,Neutral,"Bartow Arena, Birmingham, Ala.",-,769
 2018,UC Davis,108,Washington St.,754,11/10/2017,91,76,Home,,-,817
 2018,UC Davis,108,Pepperdine,541,11/12/2017,69,64,Home,,-,482
 2018,UC Davis,108,Portland St.,550,11/17/2017,79,67,Home,,-,335
@@ -26898,11 +27044,12 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,UC Davis,108,CSUN,101,02/10/2018,72,46,Home,,-,"3,031"
 2018,UC Davis,108,Long Beach St.,99,02/15/2018,79,49,Home,,-,"1,012"
 2018,UC Davis,108,Hawaii,277,02/17/2018,68,56,Away,,-,"1,791"
-2018,UC Davis,108,UC Irvine,109,02/24/2018,66,56,Home,,-,0
+2018,UC Davis,108,UC Irvine,109,02/24/2018,66,56,Home,,-,"2,704"
 2018,UC Davis,108,Cal St. Fullerton,97,03/01/2018,67,55,Away,,-,252
 2018,UC Davis,108,UC Riverside,111,03/03/2018,62,76,Away,,-,362
 2018,UC Davis,108,UC Riverside,111,03/09/2018,49,46,Neutral,"Anaheim, Calif. (Honda Center)",-,867
 2018,UC Davis,108,CSUN,101,03/10/2018,55,63,Neutral,"Anaheim, CA",-,"1,273"
+2018,UC Davis,108,Idaho,295,03/15/2018,82,62,Home,,-,"1,382"
 2018,UC Irvine,109,Utah St.,731,11/10/2017,87,84,Home,,-,421
 2018,UC Irvine,109,UNLV,465,11/14/2017,54,73,Away,,-,"1,579"
 2018,UC Irvine,109,Portland,551,11/17/2017,63,52,Home,,-,386
@@ -26930,10 +27077,11 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,UC Irvine,109,Cal Poly,90,02/15/2018,107,66,Home,,-,361
 2018,UC Irvine,109,UC Santa Barbara,104,02/17/2018,55,82,Away,,-,417
 2018,UC Irvine,109,Long Beach St.,99,02/21/2018,73,80,Home,,-,365
-2018,UC Irvine,109,UC Davis,108,02/24/2018,56,66,Away,,-,0
+2018,UC Irvine,109,UC Davis,108,02/24/2018,56,66,Away,,-,"2,704"
 2018,UC Irvine,109,CSUN,101,03/01/2018,67,71,Away,,-,437
 2018,UC Irvine,109,Cal St. Fullerton,97,03/03/2018,78,58,Home,,-,474
 2018,UC Irvine,109,UC Riverside,111,03/07/2018,74,86,Neutral,Titan Gym,-,0
+2018,UC Irvine,109,Nevada,466,03/15/2018,60,70,Away,,-,"1,205"
 2018,UC Riverside,111,Loyola Marymount,370,11/10/2017,59,67,Home,,-,326
 2018,UC Riverside,111,Southern California,657,11/13/2017,46,64,Home,,-,694
 2018,UC Riverside,111,Stanford,674,11/17/2017,43,53,Away,,-,"2,266"
@@ -26999,6 +27147,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,UC San Diego,112,Chico St.,95,03/02/2018,67,48,Neutral,"Pomona, CA",-,388
 2018,UC San Diego,112,Humboldt St.,291,03/03/2018,75,76,Neutral,"Pomona, CA",-,422
 2018,UC San Diego,112,Seattle Pacific,634,03/09/2018,64,51,Neutral,"Azusa, Calif. (Felix Event Center)",-,292
+2018,UC San Diego,112,Mont. St. Billings,205,03/10/2018,73,75,Neutral,"Azusa, Calif. (Felix Event Center)",-,184
 2018,UC Santa Barbara,104,Northern Ariz.,501,11/10/2017,96,93,Away,,-,603
 2018,UC Santa Barbara,104,Santa Clara,631,11/14/2017,63,68,Away,,-,303
 2018,UC Santa Barbara,104,Seattle U,1356,11/17/2017,71,77,Home,,-,702
@@ -27108,6 +27257,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,UCF,128,East Carolina,196,02/26/2018,75,54,Home,,-,"3,339"
 2018,UCF,128,Temple,690,03/04/2018,77,70,Neutral,"Mohegan Sun Arena - Uncasville, Conn.",-,"3,392"
 2018,UCF,128,South Fla.,651,03/05/2018,59,74,Neutral,"Mohegan Sun Arena - Uncasville, Conn.",-,"6,033"
+2018,UCF,128,Jacksonville,316,03/14/2018,65,60,Home,,1 OT,493
+2018,UCF,128,Alabama,8,03/18/2018,0,0,Away,,-,0
 2018,UCLA,110,San Jose St.,630,11/10/2017,129,69,Home,,-,"1,437"
 2018,UCLA,110,Presbyterian,1320,11/12/2017,76,40,Home,,-,"1,101"
 2018,UCLA,110,Baylor,51,11/18/2017,82,68,Home,,-,"3,912"
@@ -27139,6 +27290,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,UCLA,110,Utah,732,02/24/2018,78,71,Home,,1 OT,"3,866"
 2018,UCLA,110,California,107,03/02/2018,77,74,Neutral,"Seattle, Wash. (KeyArena)",-,"4,852"
 2018,UCLA,110,Oregon,529,03/03/2018,62,65,Neutral,"Seattle, Wash. - KeyArena",-,0
+2018,UCLA,110,American,23,03/17/2018,0,0,Home,,-,0
 2018,UConn,164,Stanford,674,11/12/2017,78,53,Neutral,"Columbus, Ohio (Nationwide Arena)",-,"9,711"
 2018,UConn,164,California,107,11/17/2017,82,47,Home,,-,"8,103"
 2018,UConn,164,Maryland,392,11/19/2017,97,72,Home,,-,"10,126"
@@ -27171,6 +27323,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,UConn,164,Tulane,718,03/04/2018,82,56,Neutral,"Mohegan Sun Arena - Uncasville, Conn.",-,"6,804"
 2018,UConn,164,Cincinnati,140,03/05/2018,75,21,Neutral,"Mohegan Sun Arena - Uncasville, Conn.",-,"6,033"
 2018,UConn,164,South Fla.,651,03/06/2018,70,54,Neutral,"Mohegan Sun Arena - Uncasville, Conn.",-,"7,501"
+2018,UConn,164,Saint Francis (PA),600,03/17/2018,0,0,Home,,-,0
 2018,UIndy,309,Northern Mich.,506,11/10/2017,53,59,Home,,-,0
 2018,UIndy,309,Hillsdale,280,11/12/2017,70,76,Home,,-,120
 2018,UIndy,309,Grand Valley St.,262,11/17/2017,57,77,Away,,-,564
@@ -27409,6 +27562,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,UNC Asheville,456,Campbell,115,03/09/2018,47,42,Neutral,"Lynchburg, VA",-,0
 2018,UNC Asheville,456,Radford,563,03/10/2018,60,50,Neutral,"Lynchburg, Va. (Vines Center)",-,"1,197"
 2018,UNC Asheville,456,Liberty,355,03/11/2018,42,60,Away,,-,"1,077"
+2018,UNC Asheville,456,Furman,244,03/15/2018,64,65,Home,,-,863
 2018,UNC Pembroke,537,Fayetteville St.,223,11/11/2017,72,65,Home,,-,619
 2018,UNC Pembroke,537,UNCW,460,11/12/2017,64,73,Away,,-,803
 2018,UNC Pembroke,537,Mount Olive,1245,11/17/2017,88,74,Home,,-,477
@@ -27531,6 +27685,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,UNI,504,Illinois St.,299,03/09/2018,56,36,Neutral,"TaxSlayer Center | Moline, Ill.",-,"1,706"
 2018,UNI,504,Missouri St.,669,03/10/2018,70,58,Neutral,"TaxSlayer Center | Moline, IL",-,"2,129"
 2018,UNI,504,Drake,189,03/11/2018,63,75,Neutral,"TaxSlayer Center | Moline, IL",-,"2,169"
+2018,UNI,504,Milwaukee,797,03/15/2018,67,81,Home,,-,"1,105"
 2018,Union (NY),727,Hartwick,273,11/15/2017,47,41,Home,,-,235
 2018,Union (NY),727,St. John Fisher,601,11/25/2017,41,44,Away,,-,381
 2018,Union (NY),727,William Smith,30073,12/01/2017,49,45,Home,,-,87
@@ -27588,6 +27743,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Union (TN),30153,West Florida,11740,03/04/2018,66,54,Neutral,"Homewood, Ala.",-,0
 2018,Union (TN),30153,Clark Atlanta,144,03/09/2018,94,50,Home,,-,0
 2018,Union (TN),30153,Embry-Riddle (FL),9680,03/10/2018,74,59,Home,,-,"1,002"
+2018,Union (TN),30153,Valdosta St.,734,03/12/2018,74,73,Home,,-,0
 2018,UNLV,465,Portland St.,550,11/10/2017,88,80,Home,,1 OT,838
 2018,UNLV,465,UC Irvine,109,11/14/2017,73,54,Home,,-,"1,579"
 2018,UNLV,465,Grand Canyon,1104,11/19/2017,76,47,Home,,-,868
@@ -27618,6 +27774,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,UNLV,465,Nevada,466,02/27/2018,55,75,Away,,-,"1,670"
 2018,UNLV,465,Utah St.,731,03/02/2018,68,58,Home,,-,"1,001"
 2018,UNLV,465,Nevada,466,03/06/2018,73,77,Neutral,"Las Vegas, Nevada (Thomas ' Mack Center)",2 OT,0
+2018,UNLV,465,Utah,732,03/15/2018,68,78,Away,,-,497
 2018,Upper Iowa,728,Fort Hays St.,9011,11/10/2017,32,66,Home,,-,184
 2018,Upper Iowa,728,Missouri Western,9013,11/11/2017,49,65,Home,,-,198
 2018,Upper Iowa,728,Clarke,,11/14/2017,74,69,Home,,-,213
@@ -27792,6 +27949,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,USciences,28594,Jefferson,543,03/04/2018,64,56,Away,,-,575
 2018,USciences,28594,LIU Post,362,03/09/2018,61,50,Neutral,"Easton, Mass. - Paula Sullivan Court",-,276
 2018,USciences,28594,Bentley,56,03/10/2018,61,54,Neutral,"Easton, Mass. - Paula Sullivan Court",-,552
+2018,USciences,28594,Stonehill,682,03/12/2018,61,71,Away,,-,"1,500"
 2018,UT Arlington,702,Incarnate Word,2743,11/11/2017,61,48,Home,,-,"1,972"
 2018,UT Arlington,702,Oral Roberts,527,11/13/2017,70,46,Home,,-,797
 2018,UT Arlington,702,UTSA,706,11/15/2017,69,68,Away,,1 OT,265
@@ -27855,6 +28013,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,UT Martin,695,Southeast Mo. St.,654,02/28/2018,63,60,Neutral,"Evansville, Ind. (Ford Center)",-,587
 2018,UT Martin,695,SIUE,660,03/02/2018,69,67,Neutral,"Evansville, Ind. (Ford Center)",-,695
 2018,UT Martin,695,Belmont,14927,03/03/2018,56,63,Neutral,"Evansville, Ind. (Ford Center)",1 OT,823
+2018,UT Martin,695,Indiana,306,03/15/2018,50,74,Away,,-,"2,324"
 2018,Utah,732,Nevada,466,11/10/2017,87,61,Home,,-,"1,659"
 2018,Utah,732,Alabama,8,11/13/2017,60,65,Away,,-,"2,035"
 2018,Utah,732,Weber St.,758,11/17/2017,85,58,Away,,-,686
@@ -27885,6 +28044,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Utah,732,Southern California,657,02/22/2018,52,53,Away,,1 OT,592
 2018,Utah,732,UCLA,110,02/24/2018,71,78,Away,,1 OT,"3,866"
 2018,Utah,732,Colorado,157,03/01/2018,56,66,Neutral,"Seattle, Wash. - KeyArena",-,"3,532"
+2018,Utah,732,UNLV,465,03/15/2018,78,68,Home,,-,497
 2018,Utah St.,731,UC Irvine,109,11/10/2017,84,87,Away,,-,421
 2018,Utah St.,731,Dixie St.,30095,11/14/2017,92,72,Home,,-,"3,441"
 2018,Utah St.,731,Arizona,29,11/17/2017,49,65,Home,,-,597
@@ -28147,6 +28307,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Valdosta St.,734,West Florida,11740,02/27/2018,49,68,Home,,-,731
 2018,Valdosta St.,734,Fla. Southern,233,03/09/2018,63,60,Neutral,"Jackson, Tenn.",-,0
 2018,Valdosta St.,734,Lee,30013,03/10/2018,63,57,Neutral,"Jackson, Tenn.",1 OT,0
+2018,Valdosta St.,734,Union (TN),30153,03/12/2018,73,74,Away,,-,0
 2018,Valley Forge,30166,Penn St.-York,,11/15/2017,77,54,Home,,-,100
 2018,Valley Forge,30166,Lycoming,373,11/17/2017,52,81,Neutral,"Memorial Hall -- Allentown, Pa.",-,85
 2018,Valley Forge,30166,Notre Dame (MD),8600,11/18/2017,82,87,Neutral,"Memorial Hall -- Allentown, Pa.",-,87
@@ -28349,6 +28510,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Villanova,739,Providence,556,02/23/2018,70,43,Home,,-,541
 2018,Villanova,739,Creighton,169,02/25/2018,55,48,Home,,-,801
 2018,Villanova,739,Georgetown,251,03/04/2018,58,63,Neutral,"Chicago, Ill.",-,"2,147"
+2018,Villanova,739,South Dakota St.,649,03/16/2018,0,0,Neutral,"South Bend, IN",-,0
 2018,Virginia,746,Mississippi St.,430,11/10/2017,53,68,Away,,-,"6,811"
 2018,Virginia,746,Central Conn. St.,127,11/12/2017,103,59,Home,,-,"3,306"
 2018,Virginia,746,Georgia,257,11/16/2017,61,64,Home,,-,"3,170"
@@ -28380,6 +28542,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Virginia,746,Wake Forest,749,02/25/2018,48,41,Away,,-,786
 2018,Virginia,746,Georgia Tech,255,03/01/2018,60,58,Neutral,"the Greensboro Coliseum - Greensboro, NC",-,0
 2018,Virginia,746,Notre Dame,513,03/02/2018,47,83,Neutral,"the Greensboro Coliseum - Greensboro, NC",-,0
+2018,Virginia,746,California,107,03/16/2018,0,0,Neutral,"Columbia, SC",-,0
 2018,Virginia St.,743,Slippery Rock,643,11/10/2017,82,55,Home,,-,200
 2018,Virginia St.,743,Seton Hill,30063,11/11/2017,69,49,Home,,-,0
 2018,Virginia St.,743,Claflin,30058,11/20/2017,59,43,Home,,-,105
@@ -28440,6 +28603,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Virginia Tech,742,Miami (FL),415,02/25/2018,46,76,Away,,-,"1,165"
 2018,Virginia Tech,742,Syracuse,688,03/01/2018,85,70,Neutral,"the Greensboro Coliseum - Greensboro, NC",-,"2,886"
 2018,Virginia Tech,742,Louisville,367,03/02/2018,70,73,Neutral,"the Greensboro Coliseum - Greensboro, NC",-,"3,297"
+2018,Virginia Tech,742,Navy,726,03/16/2018,0,0,Home,,-,0
 2018,Virginia Union,744,Edinboro,209,11/11/2017,79,89,Neutral,"Millersville, Pa. (Pucillo Gymnasium)",-,105
 2018,Virginia Union,744,Millersville,423,11/12/2017,87,43,Away,,-,120
 2018,Virginia Union,744,Charleston (WV),1013,11/14/2017,63,53,Home,,-,"1,000"
@@ -28906,6 +29070,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Weber St.,758,Montana,441,02/28/2018,89,73,Home,,-,848
 2018,Weber St.,758,Montana St.,440,03/02/2018,85,69,Home,,-,906
 2018,Weber St.,758,Idaho St.,294,03/07/2018,109,113,Neutral,"Reno, Nev. (Reno Events Center)",1 OT,0
+2018,Weber St.,758,Texas Southern,699,03/15/2018,66,56,Away,,-,482
 2018,Webster,759,Lindenwood (IL),,11/17/2017,87,57,Home,,-,300
 2018,Webster,759,Ripon,577,11/18/2017,75,66,Home,,-,300
 2018,Webster,759,Augustana (IL),40,11/25/2017,64,70,Away,,-,131
@@ -29258,6 +29423,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,West Tex. A&M,767,Tarleton St.,1395,03/04/2018,80,66,Neutral,"Frisco, TX (Dr Pepper Arena)",-,0
 2018,West Tex. A&M,767,Ark.-Fort Smith,30105,03/09/2018,81,66,Neutral,"Rip Griffi Center - Lubbock, Texas",-,324
 2018,West Tex. A&M,767,MSU Denver,413,03/10/2018,70,60,Neutral,"Rip Griffin Center - Lubbock, Texas",-,387
+2018,West Tex. A&M,767,Lubbock Christian,30177,03/12/2018,53,56,Away,,-,"2,200"
 2018,West Va. Wesleyan,9630,Indiana (PA),307,11/11/2017,54,82,Away,,-,0
 2018,West Va. Wesleyan,9630,Mansfield,384,11/12/2017,58,43,Neutral,"Indiana, Pa (Kovalchick Complex)",-,125
 2018,West Va. Wesleyan,9630,Wheeling Jesuit,12799,11/18/2017,85,82,Home,,-,250
@@ -29318,6 +29484,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,West Virginia,768,Baylor,51,02/26/2018,54,80,Away,,-,"6,671"
 2018,West Virginia,768,Oklahoma St.,521,03/03/2018,69,60,Neutral,"Chesapeake Energy Arena, Oklahoma City",-,"3,676"
 2018,West Virginia,768,Texas,703,03/04/2018,55,68,Neutral,"Chesapeake Energy Arena, Oklahoma City",-,"3,832"
+2018,West Virginia,768,Bucknell,83,03/15/2018,83,50,Home,,-,"1,509"
 2018,West Virginia St.,1439,Mansfield,384,11/11/2017,66,71,Neutral,"Indiana, Pa (Memorial Field House)",-,123
 2018,West Virginia St.,1439,Indiana (PA),307,11/12/2017,47,72,Away,,-,336
 2018,West Virginia St.,1439,Shepherd,10870,11/18/2017,55,63,Home,,-,211
@@ -29435,6 +29602,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Western Ill.,771,Denver,183,02/24/2018,77,61,Away,,-,422
 2018,Western Ill.,771,Omaha,464,03/04/2018,97,57,Neutral,"PREMIER Center: Sioux Falls, S.D.",-,"2,982"
 2018,Western Ill.,771,South Dakota St.,649,03/05/2018,51,80,Neutral,"PREMIER Center, Sioux Falls, S.D.",-,"6,424"
+2018,Western Ill.,771,Colorado St.,156,03/15/2018,64,67,Away,,-,772
 2018,Western Ky.,772,Missouri,434,11/10/2017,79,76,Neutral,Carver-Hawkeye Arena,-,"1,015"
 2018,Western Ky.,772,Iowa,312,11/11/2017,97,104,Away,,1 OT,"3,649"
 2018,Western Ky.,772,Notre Dame,513,11/14/2017,65,78,Home,,-,"5,061"
@@ -29465,8 +29633,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Western Ky.,772,Southern Miss.,664,03/01/2018,63,69,Away,,-,"1,175"
 2018,Western Ky.,772,UTEP,704,03/03/2018,75,80,Away,,-,528
 2018,Western Ky.,772,UTSA,706,03/08/2018,78,50,Neutral,"Frisco, Texas (Ford Center at The Star)",-,0
-2018,Western Ky.,772,North Texas,497,03/09/2018,77,61,Neutral,"Frisco, Texas (Ford Center at The Star)",-,0
-2018,Western Ky.,772,UAB,9,03/10/2018,72,57,Neutral,"Frisco, Texas (Ford Center at The Star)",-,0
+2018,Western Ky.,772,North Texas,497,03/09/2018,77,61,Neutral,"Frisco, Texas (Ford Center at The Star)",-,"3,452"
+2018,Western Ky.,772,UAB,9,03/10/2018,72,57,Neutral,"Frisco, Texas (Ford Center at The Star)",-,"4,422"
+2018,Western Ky.,772,Oregon St.,528,03/16/2018,0,0,Neutral,"Knoxville, TN",-,0
 2018,Western Mich.,774,New Mexico,473,11/10/2017,76,88,Away,,-,"4,145"
 2018,Western Mich.,774,New Mexico St.,472,11/12/2017,64,55,Away,,-,646
 2018,Western Mich.,774,Loyola Chicago,371,11/15/2017,65,47,Away,,-,312
@@ -30891,6 +31060,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Wright St.,810,Cleveland St.,148,03/04/2018,83,61,Neutral,Little Caesars Arena,-,"6,771"
 2018,Wright St.,810,IUPUI,2699,03/05/2018,60,52,Neutral,"Little Caesars Arena - Detroit, Michigan",-,"5,398"
 2018,Wright St.,810,Green Bay,794,03/06/2018,44,62,Neutral,"Little Caesars Arena -Detroit, Michigan",-,0
+2018,Wright St.,810,Toledo,709,03/16/2018,0,0,Away,,-,0
 2018,Wyoming,811,Adams St.,929,11/11/2017,73,47,Home,,-,"2,608"
 2018,Wyoming,811,Montana,441,11/13/2017,67,62,Home,,-,"2,484"
 2018,Wyoming,811,Denver,183,11/16/2017,61,51,Away,,-,284
@@ -30922,6 +31092,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Wyoming,811,Boise St.,66,03/02/2018,63,67,Home,,-,"4,513"
 2018,Wyoming,811,New Mexico,473,03/06/2018,69,66,Neutral,"Las Vegas, Nevada (Thomas ' Mack Center)",-,"2,361"
 2018,Wyoming,811,Nevada,466,03/07/2018,63,67,Neutral,"Las Vegas, Nevada (Thomas ' Mack Center)",-,"2,142"
+2018,Wyoming,811,New Mexico St.,472,03/15/2018,67,59,Home,,-,"1,947"
 2018,Xavier,812,New Hampshire,469,11/11/2017,71,66,Home,,1 OT,"1,922"
 2018,Xavier,812,Mt. St. Mary's,450,11/14/2017,66,45,Home,,-,537
 2018,Xavier,812,Grambling,261,11/16/2017,72,67,Home,,-,705
@@ -30980,6 +31151,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Yale,813,Penn,540,03/02/2018,52,64,Away,,-,313
 2018,Yale,813,Princeton,554,03/03/2018,53,64,Away,,-,"1,272"
 2018,Yale,813,Princeton,554,03/10/2018,57,78,Neutral,"The Palestra (Philadelphia, Pa.)",-,0
+2018,Yale,813,Northeastern,500,03/15/2018,68,58,Away,,-,232
 2018,Yeshiva,814,King's (NY),,11/16/2017,59,36,Away,,-,104
 2018,Yeshiva,814,Emmanuel (MA),215,11/18/2017,18,100,Away,,-,500
 2018,Yeshiva,814,Gallaudet,245,11/19/2017,48,102,Neutral,"Boston, Mass. - Emmanuel College",-,125
@@ -31117,3 +31289,4 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2018,Youngstown St.,817,Cleveland St.,148,02/24/2018,76,69,Home,,-,"1,942"
 2018,Youngstown St.,817,Milwaukee,797,03/04/2018,62,58,Neutral,"Detroit, Mich. (Little Caesars Arena)",-,0
 2018,Youngstown St.,817,Green Bay,794,03/05/2018,45,66,Neutral,"Little Caesars Arena - Detroit, Michigan",-,0
+2018,Youngstown St.,817,Binghamton,62,03/14/2018,59,70,Home,,-,830
