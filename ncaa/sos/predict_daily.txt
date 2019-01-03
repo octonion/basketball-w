@@ -1,33 +1,8 @@
 BEGIN
 SET
-    date    |  site   |       home       | div | score |      away      | div | score 
-------------+---------+------------------+-----+-------+----------------+-----+-------
- 2018-03-16 | neutral | Amherst          |   3 |  51.9 | Thomas More    |   3 |  49.6
- 2018-03-16 | home    | Baylor           |   1 | 101.0 | Grambling      |   1 |  45.2
- 2018-03-16 | neutral | Bowdoin          |   3 |  70.9 | Wartburg       |   3 |  55.7
- 2018-03-16 | neutral | California       |   1 |  61.1 | Virginia       |   1 |  59.5
- 2018-03-16 | neutral | Dayton           |   1 |  72.8 | Marquette      |   1 |  79.6
- 2018-03-16 | neutral | DePaul           |   1 |  80.6 | Oklahoma       |   1 |  79.1
- 2018-03-16 | home    | Drexel           |   1 |  56.8 | Robert Morris  |   1 |  44.9
- 2018-03-16 | home    | Fordham          |   1 |  61.0 | Harvard        |   1 |  55.9
- 2018-03-16 | home    | George Mason     |   1 |  68.4 | SFA            |   1 |  60.1
- 2018-03-16 | home    | Georgetown       |   1 |  63.0 | Delaware       |   1 |  55.1
- 2018-03-16 | home    | Louisville       |   1 |  79.5 | Boise St.      |   1 |  49.5
- 2018-03-16 | neutral | Maryland         |   1 |  68.5 | Princeton      |   1 |  61.8
- 2018-03-16 | neutral | Michigan         |   1 |  70.6 | Northern Colo. |   1 |  56.7
- 2018-03-16 | neutral | Minnesota        |   1 |  58.9 | Green Bay      |   1 |  68.7
- 2018-03-16 | home    | NC State         |   1 |  65.2 | Elon           |   1 |  56.5
- 2018-03-16 | home    | Notre Dame       |   1 |  91.2 | CSUN           |   1 |  50.8
- 2018-03-16 | home    | Oregon           |   1 |  95.0 | Seattle U      |   1 |  52.9
- 2018-03-16 | neutral | Oregon St.       |   1 |  70.9 | Western Ky.    |   1 |  59.9
- 2018-03-16 | home    | Penn             |   1 |  62.1 | Albany (NY)    |   1 |  53.6
- 2018-03-16 | home    | South Carolina   |   1 |  80.8 | N.C. A&T       |   1 |  49.1
- 2018-03-16 | neutral | South Dakota St. |   1 |  65.5 | Villanova      |   1 |  63.9
- 2018-03-16 | home    | Tennessee        |   1 |  73.2 | Liberty        |   1 |  50.5
- 2018-03-16 | home    | Texas A&M        |   1 |  85.6 | Drake          |   1 |  72.9
- 2018-03-16 | home    | Toledo           |   1 |  63.5 | Wright St.     |   1 |  68.0
- 2018-03-16 | home    | Virginia Tech    |   1 |  69.9 | Navy           |   1 |  55.5
-(25 rows)
+ date | site | home | div | score | away | div | score 
+------+------+------+-----+-------+------+-----+-------
+(0 rows)
 
-COPY 25
+COPY 0
 COMMIT
