@@ -1,0 +1,1100 @@
+year,team_id,team_name,wins,losses,ties,total_games
+2020,26172,A&M-Corpus Christi,23,7,0,30
+2020,2,Abilene Christian,24,5,0,29
+2020,30123,Academy of Art,10,16,0,26
+2020,929,Adams St.,4,24,0,28
+2020,3,Adelphi,27,3,0,30
+2020,4,Adrian,9,16,0,25
+2020,11324,Agnes Scott,1,24,0,25
+2020,721,Air Force,10,21,0,31
+2020,5,Akron,15,15,0,30
+2020,10,Alabama Huntsville,19,12,0,31
+2020,8,Alabama,18,12,0,30
+2020,6,Alabama A&M,17,13,0,30
+2020,7,Alabama St.,9,21,0,30
+2020,11,Alas. Anchorage,31,2,0,33
+2020,12,Alas. Fairbanks,7,22,0,29
+2020,14,Albany (NY),9,21,0,30
+2020,13,Albany St. (GA),6,20,0,26
+2020,2798,Albertus Magnus,18,8,0,26
+2020,15,Albion,21,6,0,27
+2020,16,Albright,22,6,0,28
+2020,17,Alcorn,13,18,0,31
+2020,934,Alderson Broaddus,7,22,0,29
+2020,18,Alfred,8,17,0,25
+2020,30170,Alfred St.,7,18,0,25
+2020,19,Allegheny,11,15,0,26
+2020,21,Alma,12,14,0,26
+2020,938,Alvernia,9,16,0,25
+2020,28746,Alverno,5,20,0,25
+2020,23,American,13,17,0,30
+2020,22,American Int'l,8,21,0,29
+2020,24,Amherst,24,4,0,28
+2020,939,Anderson (IN),11,15,0,26
+2020,13028,Anderson (SC),26,5,0,31
+2020,25,Angelo St.,18,10,0,28
+2020,26,Anna Maria,6,19,0,25
+2020,27,App State,11,19,0,30
+2020,966,Arcadia,12,13,0,25
+2020,29,Arizona,24,7,0,31
+2020,28,Arizona St.,20,11,0,31
+2020,30105,Ark.-Fort Smith,14,15,0,29
+2020,8411,Ark.-Monticello,20,11,0,31
+2020,2678,Ark.-Pine Bluff,7,22,0,29
+2020,31,Arkansas,24,8,0,32
+2020,30,Arkansas St.,11,19,0,30
+2020,947,Arkansas Tech,17,11,0,28
+2020,725,Army West Point,9,22,0,31
+2020,35,Ashland,31,0,0,31
+2020,36,Assumption,14,15,0,29
+2020,37,Auburn,11,18,0,29
+2020,38,Augsburg,22,5,0,27
+2020,39,Augusta,12,17,0,29
+2020,40,Augustana (IL),14,13,0,27
+2020,41,Augustana (SD),17,11,0,28
+2020,30093,AUM,12,17,0,29
+2020,42,Aurora,15,11,0,26
+2020,953,Austin,23,5,0,28
+2020,43,Austin Peay,18,12,0,30
+2020,44,Averett,18,9,0,27
+2020,30146,Azusa Pacific,25,5,0,30
+2020,45,Babson,18,8,0,26
+2020,46,Baldwin Wallace,28,2,0,30
+2020,47,Ball St.,21,10,0,31
+2020,962,Bard,5,20,0,25
+2020,49,Barry,9,18,0,27
+2020,15646,Barton,24,6,0,30
+2020,58,Baruch,14,11,0,25
+2020,50,Bates,13,12,0,25
+2020,26520,Bay Path,2,20,0,22
+2020,51,Baylor,28,2,0,30
+2020,26107,Becker,12,15,0,27
+2020,30197,Belhaven,14,13,0,27
+2020,52,Bellarmine,18,11,0,29
+2020,14927,Belmont,22,9,0,31
+2020,2683,Belmont Abbey,27,3,0,30
+2020,53,Beloit,3,22,0,25
+2020,54,Bemidji St.,9,18,0,27
+2020,55,Benedict,27,3,0,30
+2020,296,Benedictine (IL),24,4,0,28
+2020,56,Bentley,19,9,0,28
+2020,30171,Berea,25,4,0,29
+2020,973,Berry,12,14,0,26
+2020,59,Bethany (WV),6,20,0,26
+2020,30038,Bethany Lutheran,24,5,0,29
+2020,60,Bethel (MN),26,2,0,28
+2020,61,Bethune-Cookman,23,6,0,29
+2020,62,Binghamton,22,9,0,31
+2020,30220,Biola,19,12,0,31
+2020,28593,Birmingham-So.,14,13,0,27
+2020,30134,Black Hills St.,17,11,0,28
+2020,64,Blackburn,5,19,0,24
+2020,984,Bloomfield,5,22,0,27
+2020,65,Bloomsburg,14,16,0,30
+2020,985,Bluefield St.,14,12,0,26
+2020,987,Bluffton,14,13,0,27
+2020,66,Boise St.,24,9,0,33
+2020,67,Boston College,20,12,0,32
+2020,68,Boston U.,18,12,1,31
+2020,69,Bowdoin,27,2,0,29
+2020,70,Bowie St.,25,5,0,30
+2020,71,Bowling Green,10,21,0,31
+2020,72,Bradley,22,7,0,29
+2020,73,Brandeis,13,12,0,25
+2020,30094,Brevard,9,17,0,26
+2020,74,Bridgeport,6,23,0,29
+2020,75,Bridgewater (VA),14,12,0,26
+2020,76,Bridgewater St.,11,16,0,27
+2020,78,SUNY Brockport,11,15,0,26
+2020,79,Brooklyn,21,7,0,28
+2020,80,Brown,8,19,0,27
+2020,81,Bryant,10,20,0,30
+2020,30188,Bryn Athyn,6,19,0,25
+2020,82,Bryn Mawr,1,24,0,25
+2020,83,Bucknell,24,6,1,31
+2020,84,Buena Vista,1,24,0,25
+2020,86,Buffalo,19,12,0,31
+2020,85,Buffalo St.,16,11,0,27
+2020,87,Butler,19,11,0,30
+2020,77,BYU,18,11,0,29
+2020,88,Cabrini,22,8,0,30
+2020,1305,Cairn,3,23,0,26
+2020,105,Cal Lutheran,10,13,0,23
+2020,90,Cal Poly,11,18,0,29
+2020,91,Cal Poly Pomona,19,10,0,29
+2020,92,Cal St. Dom. Hills,13,16,0,29
+2020,98,Cal St. East Bay,18,12,0,30
+2020,97,Cal St. Fullerton,17,14,0,31
+2020,100,Cal State LA,12,17,0,29
+2020,30055,Cal St. Monterey Bay,6,18,0,24
+2020,93,Cal St. San B'dino,4,22,0,26
+2020,30198,Cal St. San Marcos,25,5,0,30
+2020,995,Caldwell,8,21,0,29
+2020,107,California,12,19,0,31
+2020,106,Cal U (PA),21,9,0,30
+2020,30135,California Baptist,16,15,0,31
+2020,89,Caltech,4,21,0,25
+2020,114,Calvin,17,10,0,27
+2020,996,Cameron,13,16,0,29
+2020,115,Campbell,21,8,1,30
+2020,116,Canisius,5,25,0,30
+2020,117,Capital,14,12,0,26
+2020,118,Carleton,12,13,0,25
+2020,119,Carnegie Mellon,11,14,0,25
+2020,120,Carroll (WI),9,16,0,25
+2020,1000,Carson-Newman,22,8,0,30
+2020,121,Carthage,11,14,0,25
+2020,123,Castleton,16,11,0,27
+2020,1001,Catawba,24,6,0,30
+2020,124,Catholic,21,6,0,27
+2020,23624,Cazenovia,7,18,0,25
+2020,480,CCNY,3,23,0,26
+2020,14795,Cedar Crest,7,18,0,25
+2020,30124,Cedarville,21,8,0,29
+2020,125,Centenary (LA),2,25,0,27
+2020,12884,Centenary (NJ),15,11,0,26
+2020,126,Central (IA),15,11,0,26
+2020,1004,Central Ark.,13,16,0,29
+2020,127,Central Conn. St.,4,25,0,29
+2020,129,Central Mich.,23,7,0,30
+2020,130,Central Mo.,27,4,0,31
+2020,1009,Central Okla.,18,10,0,28
+2020,30049,Central St. (OH),14,16,0,30
+2020,1010,Central Wash.,19,12,0,31
+2020,132,Centre,16,11,0,27
+2020,1012,Chadron St.,7,25,0,32
+2020,133,Chaminade,4,24,0,28
+2020,134,Chapman,12,13,0,25
+2020,1013,Charleston (WV),23,7,0,30
+2020,48,Charleston So.,4,26,0,30
+2020,458,Charlotte,21,9,1,31
+2020,10972,Chatham,15,11,0,26
+2020,693,Chattanooga,11,18,0,29
+2020,21323,Chestnut Hill,11,19,0,30
+2020,137,Chicago,21,6,0,27
+2020,136,Chicago St.,1,27,0,28
+2020,95,Chico St.,18,11,0,29
+2020,8875,Chowan,6,21,0,27
+2020,139,Chris. Newport,25,4,0,29
+2020,1015,Christian Brothers,11,15,0,26
+2020,140,Cincinnati,22,10,0,32
+2020,30058,Claflin,1,26,0,27
+2020,142,Claremont-M-S,19,8,0,27
+2020,143,Clarion,4,24,0,28
+2020,145,Clark (MA),6,19,0,25
+2020,144,Clark Atlanta,8,19,0,27
+2020,958,Clarks Summit,18,8,0,26
+2020,146,Clarkson,8,16,0,24
+2020,20576,Clayton St.,20,10,0,30
+2020,147,Clemson,8,23,0,31
+2020,148,Cleveland St.,21,11,0,32
+2020,451,CMSV,14,11,0,25
+2020,722,Coast Guard,15,10,0,25
+2020,149,Coastal Carolina,25,4,0,29
+2020,30083,Cobleskill St.,12,14,0,26
+2020,150,Coe,16,11,0,27
+2020,1023,Coker,10,17,0,27
+2020,1014,Col. of Charleston,13,17,0,30
+2020,151,Colby,8,15,0,23
+2020,152,Colby-Sawyer,18,8,0,26
+2020,153,Colgate,19,11,0,30
+2020,11403,Colo. Christian,10,20,0,30
+2020,155,Colo. Sch. of Mines,19,10,0,29
+2020,157,Colorado,16,14,0,30
+2020,154,Colorado Col.,14,12,0,26
+2020,11416,Colorado Mesa,26,5,0,31
+2020,156,Colorado St.,12,18,0,30
+2020,2720,CSU Pueblo,8,19,0,27
+2020,158,Columbia,17,10,0,27
+2020,159,Columbus St.,19,9,0,28
+2020,1028,Concord,21,10,0,31
+2020,30199,Concordia (CA),17,12,0,29
+2020,162,Concordia (NY),6,22,0,28
+2020,24400,Concordia (TX),9,18,0,27
+2020,160,Concordia Chicago,9,16,0,25
+2020,30200,Concordia Portland,6,22,0,28
+2020,1036,Concordia Wisconsin,14,12,0,26
+2020,161,Concordia-M'head,11,14,0,25
+2020,9081,Concordia-St. Paul,15,14,0,29
+2020,163,Connecticut Col.,7,17,0,24
+2020,8935,Converse,4,28,0,32
+2020,165,Coppin St.,3,26,0,29
+2020,167,Cornell,10,16,0,26
+2020,166,Cornell College,15,10,0,25
+2020,30111,Covenant,10,16,0,26
+2020,169,Creighton,19,11,0,30
+2020,30035,Crown (MN),5,20,0,25
+2020,94,CSU Bakersfield,16,13,1,30
+2020,101,CSUN,12,19,0,31
+2020,170,Curry,6,20,0,26
+2020,122,CWRU,10,15,0,25
+2020,1059,D'Youville,18,9,0,27
+2020,30174,Daemen,23,5,0,28
+2020,1044,Dallas,3,22,0,25
+2020,172,Dartmouth,10,17,0,27
+2020,30221,Davenport,7,21,0,28
+2020,173,Davidson,16,15,0,31
+2020,174,Davis & Elkins,7,24,0,31
+2020,175,Dayton,25,8,0,33
+2020,30219,Dean,6,20,0,26
+2020,1050,Defiance,7,19,0,26
+2020,180,Delaware,12,17,1,30
+2020,178,Delaware St.,12,18,0,30
+2020,179,Delaware Valley,1,24,0,25
+2020,181,Delta St.,23,7,0,30
+2020,182,Denison,19,9,0,28
+2020,183,Denver,15,15,0,30
+2020,176,DePaul,28,5,0,33
+2020,177,DePauw,28,2,0,30
+2020,20,DeSales,23,5,0,28
+2020,184,Detroit Mercy,3,27,0,30
+2020,185,Dickinson,16,11,0,27
+2020,186,Dist. Columbia,8,20,0,28
+2020,30095,Dixie St.,18,13,0,31
+2020,30118,Dominican (CA),10,18,0,28
+2020,1332,Dominican (IL),19,8,0,27
+2020,8956,Dominican (NY),15,14,0,29
+2020,189,Drake,22,8,0,30
+2020,190,Drew,18,10,0,28
+2020,191,Drexel,23,7,1,31
+2020,1057,Drury,32,0,0,32
+2020,192,Dubuque,7,18,0,25
+2020,193,Duke,18,12,0,30
+2020,194,Duquesne,20,11,0,31
+2020,195,Earlham,8,18,0,26
+2020,196,East Carolina,9,21,0,30
+2020,8965,East Central,10,18,0,28
+2020,197,East Stroudsburg,20,11,0,31
+2020,1062,East Tex. Baptist,20,7,0,27
+2020,203,East. Mennonite,4,20,0,24
+2020,8968,Eastern,13,13,0,26
+2020,200,Eastern Conn. St.,24,5,0,29
+2020,201,Eastern Ill.,19,12,0,31
+2020,202,Eastern Ky.,11,18,0,29
+2020,204,Eastern Mich.,16,15,0,31
+2020,206,Eastern N.M.,22,9,0,31
+2020,1064,Eastern Nazarene,21,5,0,26
+2020,207,Eastern Wash.,4,26,0,30
+2020,208,Eckerd,24,5,0,29
+2020,1066,Edgewood,25,3,0,28
+2020,209,Edinboro,17,11,0,28
+2020,210,Elizabeth City St.,12,18,0,30
+2020,211,Elizabethtown,12,13,0,25
+2020,212,Elmhurst,10,15,0,25
+2020,213,Elmira,4,21,0,25
+2020,532,Elms,9,17,0,26
+2020,1068,Elon,14,16,1,31
+2020,9680,Embry-Riddle (FL),9,18,0,27
+2020,214,Emerson,15,11,0,26
+2020,30193,Emmanuel (GA),20,10,0,30
+2020,215,Emmanuel (MA),21,8,0,29
+2020,217,Emory,19,6,0,25
+2020,216,Emory & Henry,22,5,0,27
+2020,1071,Emporia St.,24,7,0,31
+2020,8981,Endicott,19,11,0,30
+2020,1072,Erskine,5,24,0,29
+2020,198,ETSU,9,21,0,30
+2020,218,Eureka,13,14,0,27
+2020,219,Evansville,3,26,1,30
+2020,220,Fairfield,16,14,0,30
+2020,222,Fairleigh Dickinson,13,17,1,31
+2020,1076,Fairmont St.,15,14,0,29
+2020,27892,Farmingdale St.,10,14,0,24
+2020,223,Fayetteville St.,21,8,0,29
+2020,221,FDU-Florham,7,18,0,25
+2020,23157,Felician,4,22,0,26
+2020,224,Ferris St.,21,8,0,29
+2020,225,Ferrum,4,21,0,25
+2020,28755,FGCU,30,3,0,33
+2020,1079,Findlay,18,12,0,30
+2020,30032,Finlandia,14,11,0,25
+2020,227,Fitchburg St.,6,20,0,26
+2020,231,FIU,6,23,0,29
+2020,229,Fla. Atlantic,13,17,0,30
+2020,233,Fla. Southern,19,11,0,30
+2020,30092,Flagler,6,20,0,26
+2020,235,Florida,15,15,0,30
+2020,228,Florida A&M,6,21,0,27
+2020,234,Florida St.,24,8,0,32
+2020,230,Florida Tech,14,16,0,30
+2020,11538,Fontbonne,16,10,0,26
+2020,236,Fordham,21,11,0,32
+2020,9011,Fort Hays St.,23,7,0,30
+2020,1083,Fort Lewis,15,12,0,27
+2020,237,Fort Valley St.,13,16,0,29
+2020,238,Framingham St.,22,6,0,28
+2020,1085,Francis Marion,14,13,0,27
+2020,30069,Franciscan,10,15,0,25
+2020,2694,Franklin,17,9,0,26
+2020,239,Franklin & Marshall,12,13,0,25
+2020,241,Franklin Pierce,11,15,0,26
+2020,242,Fredonia,9,16,0,25
+2020,30147,Fresno Pacific,17,14,0,31
+2020,96,Fresno St.,25,7,0,32
+2020,243,Frostburg St.,6,23,0,29
+2020,244,Furman,19,12,0,31
+2020,253,Ga. Southern,10,20,0,30
+2020,1097,Ga. Southwestern,11,15,0,26
+2020,245,Gallaudet,9,16,0,25
+2020,246,Gannon,25,6,0,31
+2020,1092,Gardner-Webb,18,11,1,30
+2020,30084,Geneva,3,21,0,24
+2020,1094,George Fox,23,6,0,29
+2020,248,George Mason,9,21,0,30
+2020,249,George Washington,14,16,0,30
+2020,251,Georgetown,5,25,0,30
+2020,257,Georgia,17,14,0,31
+2020,1096,Georgia College,5,23,0,28
+2020,254,Georgia St.,8,21,0,29
+2020,255,Georgia Tech,20,11,0,31
+2020,9004,Georgian Court,10,17,0,27
+2020,258,Gettysburg,22,7,0,29
+2020,1098,Glenville St.,26,5,0,31
+2020,8366,Goldey-Beacom,9,18,0,27
+2020,260,Gonzaga,28,3,0,31
+2020,1099,Gordon,15,11,0,26
+2020,1467,Goucher,5,20,0,25
+2020,261,Grambling,5,24,0,29
+2020,1104,Grand Canyon,15,12,1,28
+2020,262,Grand Valley St.,28,3,0,31
+2020,794,Green Bay,19,13,0,32
+2020,263,Greensboro,15,12,0,27
+2020,1111,Greenville,16,10,0,26
+2020,264,Grinnell,11,14,0,25
+2020,265,Grove City,25,3,0,28
+2020,1112,Guilford,17,10,0,27
+2020,266,Gust. Adolphus,18,9,0,27
+2020,12399,Gwynedd Mercy,15,13,0,28
+2020,267,Hamilton,15,10,0,25
+2020,268,Hamline,15,11,0,26
+2020,270,Hampton,18,11,1,30
+2020,1115,Hanover,19,7,0,26
+2020,271,Hardin-Simmons,21,8,0,29
+2020,1116,Harding,19,10,0,29
+2020,272,Hartford,1,28,0,29
+2020,273,Hartwick,14,12,0,26
+2020,275,Harvard,15,12,0,27
+2020,276,Haverford,23,5,0,28
+2020,277,Hawaii,16,14,0,30
+2020,2697,Hawaii Hilo,10,17,0,27
+2020,2696,Hawaii Pacific,30,1,0,31
+2020,278,Heidelberg,8,18,0,26
+2020,1123,Henderson St.,20,10,0,30
+2020,1124,Hendrix,2,26,0,28
+2020,19651,High Point,16,13,1,30
+2020,8398,Hilbert,20,7,0,27
+2020,280,Hillsdale,6,21,0,27
+2020,281,Hiram,7,20,0,27
+2020,283,Hofstra,3,27,0,30
+2020,284,Hollins,11,15,0,26
+2020,285,Holy Cross,19,11,1,31
+2020,1126,Holy Family,18,11,0,29
+2020,30175,Holy Names,1,27,0,28
+2020,8404,Hood,6,19,0,25
+2020,286,Hope,29,0,0,29
+2020,30160,Houghton,6,19,0,25
+2020,288,Houston,12,19,0,31
+2020,287,Houston Baptist,8,21,0,29
+2020,290,Howard,16,15,0,31
+2020,2741,Howard Payne,11,17,0,28
+2020,291,Humboldt St.,15,13,0,28
+2020,292,Hunter,16,12,0,28
+2020,1130,Huntingdon,13,14,0,27
+2020,1133,Husson,19,9,0,28
+2020,295,Idaho,22,9,0,31
+2020,294,Idaho St.,18,13,0,31
+2020,30172,IIT,0,25,0,25
+2020,300,Ill. Wesleyan,20,9,0,29
+2020,30050,Ill. Springfield,9,20,0,29
+2020,301,Illinois,11,19,0,30
+2020,297,Illinois Col.,13,12,0,25
+2020,299,Illinois St.,19,10,0,29
+2020,303,Immaculata,12,14,0,26
+2020,2743,UIW,14,15,1,30
+2020,306,Indiana,24,8,0,32
+2020,307,Indiana (PA),28,3,0,31
+2020,305,Indiana St.,5,25,1,31
+2020,310,Iona,9,21,0,30
+2020,312,Iowa,23,7,0,30
+2020,311,Iowa St.,18,11,0,29
+2020,30173,Iowa Wesleyan,5,21,0,26
+2020,313,Ithaca,23,6,0,29
+2020,2699,IUPUI,23,8,0,31
+2020,314,Jackson St.,19,10,0,29
+2020,316,Jacksonville,18,12,0,30
+2020,315,Jacksonville St.,14,16,0,30
+2020,317,James Madison,25,4,1,30
+2020,543,Jefferson,20,11,0,31
+2020,320,John Carroll,23,5,0,28
+2020,321,John Jay,14,13,0,27
+2020,322,Johns Hopkins,17,9,0,26
+2020,30046,JWU (Denver),4,21,0,25
+2020,22626,JWU (Providence),13,13,0,26
+2020,323,Johnson C. Smith,17,11,0,28
+2020,325,Juniata,5,20,0,25
+2020,326,Kalamazoo,4,21,0,25
+2020,328,Kansas,15,14,1,30
+2020,327,Kansas St.,16,13,0,29
+2020,329,Kean,17,9,0,26
+2020,330,Keene St.,7,19,0,26
+2020,1157,Kennesaw St.,13,16,0,29
+2020,331,Kent St.,19,11,0,30
+2020,334,Kentucky,22,8,0,30
+2020,332,Kentucky St.,8,19,0,27
+2020,335,Kenyon,10,16,0,26
+2020,1159,Keuka,10,13,0,23
+2020,30047,Keystone,21,7,0,28
+2020,30051,King (TN),16,13,0,29
+2020,336,King's (PA),16,11,0,27
+2020,337,Knox,16,10,0,26
+2020,339,Kutztown,18,11,0,29
+2020,333,Ky. Wesleyan,28,4,0,32
+2020,1163,La Roche,20,7,0,27
+2020,340,La Salle,13,17,0,30
+2020,341,La Verne,14,13,0,27
+2020,498,ULM,3,26,0,29
+2020,342,Lafayette,15,14,0,29
+2020,1162,LaGrange,15,12,0,27
+2020,2746,Lake Erie,10,21,0,31
+2020,344,Lake Forest,13,12,0,25
+2020,345,Lake Superior St.,8,19,0,27
+2020,1164,Lakeland,11,14,0,25
+2020,346,Lamar University,10,19,0,29
+2020,30085,Lancaster Bible,12,14,0,26
+2020,1167,Lander,26,5,0,31
+2020,347,Lane,10,17,0,27
+2020,8486,Lasell,10,14,0,24
+2020,348,Lawrence,6,19,0,25
+2020,349,Le Moyne,19,9,0,28
+2020,351,Lebanon Valley,9,16,0,25
+2020,30013,Lee,26,4,0,30
+2020,13302,Lees-McRae,8,22,0,30
+2020,352,Lehigh,19,11,1,31
+2020,279,Lehman,1,24,0,25
+2020,350,LeMoyne-Owen,12,16,0,28
+2020,1170,Lenoir-Rhyne,11,20,0,31
+2020,24317,Lesley,1,17,0,18
+2020,8490,LeTourneau,14,14,0,28
+2020,354,Lewis,19,12,0,31
+2020,22235,Lewis & Clark,3,21,0,24
+2020,355,Liberty,20,11,0,31
+2020,1174,Limestone,23,8,0,31
+2020,356,Lincoln (MO),3,25,0,28
+2020,357,Lincoln (PA),24,6,0,30
+2020,1176,Lincoln Memorial,10,17,0,27
+2020,30136,Lindenwood (MO),19,10,0,29
+2020,1179,Linfield,12,13,0,25
+2020,28600,Lipscomb,7,23,0,30
+2020,32,Little Rock,12,19,0,31
+2020,361,LIU,8,22,0,30
+2020,359,Livingstone,13,15,0,28
+2020,370,LMU (CA),7,25,0,32
+2020,360,Lock Haven,15,13,0,28
+2020,99,Long Beach St.,14,17,0,31
+2020,363,Longwood,12,18,0,30
+2020,364,Loras,25,4,0,29
+2020,671,Louisiana,19,12,0,31
+2020,1182,Louisiana Col.,5,20,0,25
+2020,366,Louisiana Tech,15,15,1,31
+2020,367,Louisville,28,4,0,32
+2020,371,Loyola Chicago,15,14,1,30
+2020,369,Loyola Maryland,8,22,0,30
+2020,365,LSU,20,10,0,30
+2020,30177,Lubbock Christian,28,3,0,31
+2020,372,Luther,15,10,0,25
+2020,373,Lycoming,15,11,0,26
+2020,374,Lynchburg,13,14,0,27
+2020,20794,Lynn,12,16,0,28
+2020,376,Macalester,1,24,0,25
+2020,377,MacMurray,7,20,0,27
+2020,380,Maine,18,14,0,32
+2020,378,Maine Maritime,20,6,0,26
+2020,30137,Malone,19,11,0,30
+2020,1192,Manchester,8,17,0,25
+2020,381,Manhattan,15,14,1,30
+2020,382,Manhattanville,22,4,0,26
+2020,384,Mansfield,3,25,0,28
+2020,1194,Maranatha Baptist,19,3,0,22
+2020,1196,Marian (WI),4,21,0,25
+2020,385,Marietta,14,13,0,27
+2020,386,Marist,26,4,0,30
+2020,387,Marquette,24,8,0,32
+2020,1199,Mars Hill,4,25,0,29
+2020,388,Marshall,13,17,1,31
+2020,8597,Martin Luther,3,22,0,25
+2020,30075,Mary,22,11,0,33
+2020,389,Mary Baldwin,12,13,0,25
+2020,1203,Mary Hardin-Baylor,26,4,0,30
+2020,390,Mary Washington,17,9,0,26
+2020,392,Maryland,28,4,0,32
+2020,394,Marymount (VA),24,5,0,29
+2020,395,Maryville (MO),16,12,0,28
+2020,396,Maryville (TN),20,8,0,28
+2020,397,Marywood,9,16,0,25
+2020,400,Massachusetts,20,11,0,31
+2020,773,McDaniel,10,15,0,25
+2020,30138,McKendree,12,17,0,29
+2020,486,MCLA,2,21,0,23
+2020,8530,McMurry,9,18,0,27
+2020,402,McNeese,5,24,0,29
+2020,379,Me.-Farmington,14,14,0,28
+2020,30040,Me.-Presque Isle,3,22,0,25
+2020,23725,Medaille,3,22,0,25
+2020,403,Medgar Evers,6,18,0,24
+2020,404,Memphis,14,17,0,31
+2020,406,Mercer,8,23,0,31
+2020,724,Merchant Marine,23,5,0,28
+2020,407,Mercy,8,19,0,27
+2020,408,Mercyhurst,8,20,0,28
+2020,409,Meredith,9,17,0,26
+2020,410,Merrimack,20,9,0,29
+2020,411,Messiah,25,4,0,29
+2020,412,Methodist,3,22,0,25
+2020,415,Miami (FL),15,15,0,30
+2020,414,Miami (OH),11,20,0,31
+2020,418,Michigan,21,11,0,32
+2020,416,Michigan St.,16,14,0,30
+2020,417,Michigan Tech,11,17,0,28
+2020,419,Middle Tenn.,21,9,1,31
+2020,420,Middlebury,12,12,0,24
+2020,422,Miles,20,8,0,28
+2020,423,Millersville,8,19,0,27
+2020,424,Millikin,16,10,0,26
+2020,426,Millsaps,13,14,0,27
+2020,797,Milwaukee,15,16,0,31
+2020,427,Minn. Duluth,26,6,0,32
+2020,27854,Minn.-Crookston,5,22,0,27
+2020,1226,Minn.-Morris,17,10,0,27
+2020,428,Minnesota,16,15,0,31
+2020,383,Minnesota St.,18,11,0,29
+2020,30125,Minot St.,7,21,0,28
+2020,16142,Misericordia,20,7,0,27
+2020,429,Mississippi Col.,13,14,0,27
+2020,430,Mississippi St.,27,6,0,33
+2020,432,Mississippi Val.,2,27,0,29
+2020,434,Missouri,9,22,0,31
+2020,435,Missouri S&T,8,19,0,27
+2020,669,Missouri St.,26,4,0,30
+2020,9013,Missouri Western,21,8,0,29
+2020,398,MIT,15,12,0,27
+2020,30042,Mitchell,16,11,0,27
+2020,9012,Mo. Southern St.,10,18,0,28
+2020,436,Mo.-St. Louis,16,14,0,30
+2020,437,Molloy,22,9,0,31
+2020,439,Monmouth,9,22,0,31
+2020,438,Monmouth (IL),21,7,0,28
+2020,205,Mont. St. Billings,14,17,0,31
+2020,441,Montana,17,13,0,30
+2020,440,Montana St.,25,6,0,31
+2020,442,Montclair St.,21,7,0,28
+2020,1238,Montevallo,18,12,0,30
+2020,443,Moravian,15,11,0,26
+2020,444,Morehead St.,10,20,0,30
+2020,446,Morgan St.,17,13,0,30
+2020,30067,Morrisville St.,19,9,0,28
+2020,30036,Mount Aloysius,4,21,0,25
+2020,449,Mount Holyoke,1,24,0,25
+2020,30033,Mount Mary,6,18,0,24
+2020,1245,Mount Olive,18,10,0,28
+2020,452,Mount Union,14,12,0,26
+2020,20220,MSOE,9,16,0,25
+2020,413,MSU Denver,13,16,0,29
+2020,1240,MSU Moorhead,17,13,0,30
+2020,1222,Midwestern St.,11,16,0,27
+2020,8567,Mt. St. Joseph,7,18,0,25
+2020,1468,Mt. St. Mary (NY),20,6,0,26
+2020,450,Mount St. Mary's,20,11,1,32
+2020,453,Muhlenberg,11,14,0,25
+2020,454,Murray St.,14,16,0,30
+2020,455,Muskingum,3,21,0,24
+2020,431,MUW,3,3,0,6
+2020,488,N.C. A&T,19,10,0,29
+2020,489,N.C. Central,13,17,0,30
+2020,491,N.C. Wesleyan,19,6,0,25
+2020,8577,N.M. Highlands,1,26,0,27
+2020,726,Navy,7,23,0,30
+2020,461,Nazareth,16,9,0,25
+2020,490,NC State,28,4,0,32
+2020,462,Neb. Wesleyan,7,18,0,25
+2020,1156,Neb.-Kearney,26,6,0,32
+2020,463,Nebraska,17,13,0,30
+2020,1254,Neumann,7,19,0,26
+2020,466,Nevada,15,16,0,31
+2020,467,New England Col.,21,7,0,28
+2020,469,New Hampshire,10,19,0,29
+2020,470,New Haven,18,9,0,27
+2020,319,New Jersey City,13,14,0,27
+2020,473,New Mexico,15,17,0,32
+2020,472,New Mexico St.,12,18,0,30
+2020,474,New Orleans,17,12,1,30
+2020,1257,Newberry,16,15,0,31
+2020,30054,Newman,11,17,0,28
+2020,482,Niagara,10,21,0,31
+2020,483,Nicholls,13,16,1,30
+2020,484,Nichols,5,20,0,25
+2020,471,NJIT,4,25,0,29
+2020,485,Norfolk St.,19,11,0,30
+2020,487,North Ala.,21,9,0,30
+2020,457,North Carolina,16,14,0,30
+2020,492,North Central (IL),12,15,0,27
+2020,30039,North Central (MN),12,15,0,27
+2020,494,North Dakota,15,15,0,30
+2020,493,North Dakota St.,11,19,0,30
+2020,2711,North Florida,16,15,0,31
+2020,30052,North Georgia,26,5,0,31
+2020,9223,North Greenville,13,16,0,29
+2020,496,North Park,17,9,0,26
+2020,497,North Texas,12,19,0,31
+2020,500,Northeastern,13,16,1,30
+2020,12810,Northeastern St.,5,21,0,26
+2020,501,Northern Ariz.,16,15,0,31
+2020,502,Northern Colo.,13,18,0,31
+2020,503,Northern Ill.,11,19,0,30
+2020,505,Northern Ky.,20,12,0,32
+2020,506,Northern Mich.,13,16,0,29
+2020,1266,Northern St.,14,16,0,30
+2020,1267,Northland,4,20,0,24
+2020,507,Northwest Mo. St.,12,19,0,31
+2020,1274,Northwest Nazarene,22,7,0,29
+2020,509,Northwestern,26,4,0,30
+2020,30178,Northwestern Okla.,13,15,0,28
+2020,508,Northwestern St.,7,22,0,29
+2020,30031,Northwestern-St. Paul,16,10,0,26
+2020,510,Northwood,10,18,0,28
+2020,511,Norwich,8,18,0,26
+2020,513,Notre Dame,13,18,0,31
+2020,8600,Notre Dame (MD),17,9,0,26
+2020,30126,Notre Dame (OH),26,6,0,32
+2020,30056,Notre Dame de Namur,10,19,0,29
+2020,24639,Nova Southeastern,14,14,0,28
+2020,324,NVU-Johnson,4,21,0,25
+2020,30065,NVU-Lyndon,11,15,0,26
+2020,1277,Nyack,8,19,0,27
+2020,477,New York Tech,20,10,0,30
+2020,479,NYU,21,6,0,27
+2020,514,Oakland,11,19,0,30
+2020,1278,Oakland City,8,12,0,20
+2020,515,Oberlin,9,17,0,26
+2020,516,Occidental,7,18,0,25
+2020,2713,Oglethorpe,29,1,0,30
+2020,519,Ohio,19,11,0,30
+2020,30119,Ohio Dominican,17,12,0,29
+2020,517,Ohio Northern,20,7,0,27
+2020,518,Ohio St.,21,12,0,33
+2020,15207,Ohio Valley,4,21,0,25
+2020,520,Ohio Wesleyan,14,13,0,27
+2020,30202,Okla. Baptist,6,23,0,29
+2020,30179,Okla. Christian,8,19,0,27
+2020,522,Oklahoma,12,18,1,31
+2020,521,Oklahoma St.,15,15,1,31
+2020,523,Old Dominion,24,6,1,31
+2020,524,Old Westbury,10,16,0,26
+2020,433,Ole Miss,7,23,0,30
+2020,525,Olivet,4,22,0,26
+2020,464,Omaha,7,23,0,30
+2020,527,Oral Roberts,15,16,0,31
+2020,529,Oregon,31,2,0,33
+2020,528,Oregon St.,23,9,0,32
+2020,530,Oswego St.,6,18,0,24
+2020,531,Otterbein,12,14,0,26
+2020,1289,Ouachita Baptist,4,24,0,28
+2020,23008,Ozarks (AR),6,19,0,25
+2020,2682,P.R.-Bayamon,0,8,0,8
+2020,24361,P.R.-Mayaguez,0,9,0,9
+2020,2716,P.R.-Rio Piedras,0,6,0,6
+2020,533,Pace,19,10,0,29
+2020,534,Pacific,17,14,0,31
+2020,2751,Pacific (OR),17,9,0,26
+2020,1297,Pacific Lutheran,11,15,0,26
+2020,535,Paine,8,18,0,26
+2020,30045,Palm Beach Atl.,4,25,0,29
+2020,540,Penn,20,7,0,27
+2020,30190,Penn College,7,17,0,24
+2020,539,Penn St.,7,23,0,30
+2020,30081,Penn St. Harrisburg,12,14,0,26
+2020,30114,Penn St.-Abington,9,15,0,24
+2020,25719,Penn St.-Altoona,14,12,0,26
+2020,538,Penn St.-Behrend,17,11,0,28
+2020,30044,Penn St.-Berks,16,10,0,26
+2020,541,Pepperdine,16,15,0,31
+2020,542,Pfeiffer,11,15,0,26
+2020,21830,Piedmont,19,9,0,28
+2020,544,Pine Manor,6,13,0,19
+2020,1315,Pitt.-Bradford,3,23,0,26
+2020,11839,Pitt.-Greensburg,17,10,0,27
+2020,546,Pitt.-Johnstown,16,14,0,30
+2020,1314,Pittsburg St.,17,11,0,28
+2020,545,Pittsburgh,5,26,0,31
+2020,547,Plattsburgh St.,7,18,0,25
+2020,548,Plymouth St.,4,21,0,25
+2020,30149,Point Loma,18,11,0,29
+2020,549,Pomona-Pitzer,15,11,0,26
+2020,551,Portland,21,11,0,32
+2020,550,Portland St.,16,16,0,32
+2020,1318,Post,22,7,0,29
+2020,553,Prairie View,12,19,0,31
+2020,1320,Presbyterian,12,18,1,31
+2020,554,Princeton,26,1,0,27
+2020,555,Principia,0,22,0,22
+2020,556,Providence,13,19,0,32
+2020,557,Puget Sound,13,13,0,26
+2020,30029,Purchase,4,21,0,25
+2020,559,Purdue,18,14,0,32
+2020,308,Purdue Fort Wayne,5,24,0,29
+2020,30222,Purdue Northwest,6,23,0,29
+2020,11504,Queens (NC),5,24,0,29
+2020,560,Queens (NY),7,19,0,26
+2020,561,Quincy,8,21,0,29
+2020,562,Quinnipiac,15,14,1,30
+2020,563,Radford,17,12,1,30
+2020,564,Ramapo,10,15,0,25
+2020,566,Randolph,7,18,0,25
+2020,565,Randolph-Macon,19,10,0,29
+2020,567,Redlands,22,7,0,29
+2020,568,Regis (CO),11,17,0,28
+2020,569,Regis (MA),15,12,0,27
+2020,570,Rensselaer,18,11,0,29
+2020,572,Rhode Island,13,16,0,29
+2020,571,Rhode Island Col.,22,5,0,27
+2020,573,Rhodes,17,10,0,27
+2020,574,Rice,21,8,1,30
+2020,575,Richmond,15,17,0,32
+2020,576,Rider,26,4,0,30
+2020,577,Ripon,20,7,0,27
+2020,580,RIT,11,15,0,26
+2020,18422,Rivier,4,20,0,24
+2020,578,Roanoke,18,9,0,27
+2020,579,Robert Morris,23,7,1,31
+2020,30150,Roberts Wesleyan,15,13,0,28
+2020,581,Rochester (NY),12,13,0,25
+2020,582,Rockford,4,21,0,25
+2020,1328,Rockhurst,10,19,0,29
+2020,583,Roger Williams,17,10,0,27
+2020,30180,Rogers St.,4,25,0,29
+2020,584,Rollins,15,14,0,29
+2020,585,Rose-Hulman,7,18,0,25
+2020,15882,Rosemont,7,18,0,25
+2020,259,Rowan,25,4,0,29
+2020,587,Rutgers,22,9,0,31
+2020,588,Rutgers-Camden,12,13,0,25
+2020,589,Rutgers-Newark,4,21,0,25
+2020,11276,USC Aiken,15,14,0,29
+2020,102,Sacramento St.,8,22,0,30
+2020,590,Sacred Heart,13,17,1,31
+2020,11036,Russell Sage,15,12,0,27
+2020,591,Saginaw Valley,12,17,0,29
+2020,594,Saint Augustine's,10,20,0,30
+2020,595,Saint Benedict,11,14,0,25
+2020,600,Saint Francis (PA),11,19,0,30
+2020,606,Saint Joseph's,9,20,0,29
+2020,608,Saint Leo,15,15,0,30
+2020,609,Saint Louis,19,13,0,32
+2020,1343,Saint Martin's,14,14,0,28
+2020,610,Saint Mary's (CA),12,19,0,31
+2020,612,Saint Mary's (MN),5,20,0,25
+2020,613,Saint Michael's,8,17,0,25
+2020,617,Saint Peter's,9,21,0,30
+2020,1347,Saint Rose,7,19,0,26
+2020,30064,Saint Vincent,19,7,0,26
+2020,30041,Salem (NC),0,23,0,23
+2020,19117,Salem (WV),8,18,0,26
+2020,621,Salem St.,6,19,0,25
+2020,622,Salisbury,12,15,0,27
+2020,623,Salve Regina,4,22,0,26
+2020,624,Sam Houston,19,10,0,29
+2020,625,Samford,18,14,0,32
+2020,627,San Diego,20,11,0,31
+2020,626,San Diego St.,14,17,0,31
+2020,628,San Fran. St.,1,24,0,25
+2020,629,San Francisco,12,19,0,31
+2020,630,San Jose St.,19,12,0,31
+2020,631,Santa Clara,12,19,0,31
+2020,30163,Sarah Lawrence,0,25,0,25
+2020,632,Savannah St.,15,8,0,23
+2020,1355,Schreiner,12,16,0,28
+2020,633,Scranton,24,4,0,28
+2020,634,Seattle Pacific,8,20,0,28
+2020,1356,Seattle U,13,16,0,29
+2020,635,Seton Hall,19,12,0,31
+2020,30063,Seton Hill,14,15,0,29
+2020,652,Sewanee,10,16,0,26
+2020,676,SFA,23,6,0,29
+2020,636,Shaw,6,21,0,27
+2020,637,Shenandoah,16,10,0,26
+2020,10870,Shepherd,21,9,0,30
+2020,638,Shippensburg,21,9,0,30
+2020,30151,Shorter,1,25,0,26
+2020,639,Siena,11,20,0,31
+2020,30127,Simon Fraser,18,13,0,31
+2020,641,Simpson,18,8,0,26
+2020,30128,Sioux Falls,26,6,0,32
+2020,660,SIUE,3,26,0,29
+2020,642,Skidmore,7,18,0,25
+2020,643,Slippery Rock,8,20,0,28
+2020,644,Smith,26,4,0,30
+2020,663,SMU,13,16,0,29
+2020,645,Sonoma St.,15,13,0,28
+2020,646,South Alabama,16,16,0,32
+2020,648,South Carolina,32,1,0,33
+2020,647,South Carolina St.,3,27,0,30
+2020,650,South Dakota,30,2,0,32
+2020,30139,South Dakota Mines,15,12,0,27
+2020,649,South Dakota St.,23,10,0,33
+2020,651,South Fla.,19,13,0,32
+2020,654,Southeast Mo. St.,25,7,0,32
+2020,655,Southeastern La.,12,17,1,30
+2020,1371,Southeastern Okla.,22,7,0,29
+2020,1376,Southern Ark.,17,12,0,29
+2020,657,Southern California,17,14,0,31
+2020,658,Southern Conn. St.,10,18,0,28
+2020,659,Southern Ill.,16,13,1,30
+2020,661,Southern Ind.,18,9,0,27
+2020,662,Southern Me.,10,15,0,25
+2020,664,Southern Miss.,15,15,0,30
+2020,468,Southern N.H.,16,13,0,29
+2020,30152,Southern Nazarene,17,10,0,27
+2020,665,Southern U.,16,14,0,30
+2020,667,Southern Utah,18,13,0,31
+2020,30164,Southern Va.,16,9,0,25
+2020,30192,Southern Wesleyan,4,25,0,29
+2020,2755,Southwest Baptist,15,13,0,28
+2020,8736,Southwest Minn. St.,16,12,0,28
+2020,8746,Southwestern (TX),11,17,0,28
+2020,8744,Southwestern Okla.,21,8,0,29
+2020,23260,Spalding,16,11,0,27
+2020,30191,Spring Hill,11,18,0,29
+2020,673,Springfield,19,8,0,27
+2020,593,St. Anselm,21,7,0,28
+2020,596,St. Bonaventure,7,23,0,30
+2020,597,St. Catherine,12,14,0,26
+2020,598,St. Cloud St.,23,7,0,30
+2020,1334,St. Edward's,18,11,0,29
+2020,9684,Saint Elizabeth,19,7,0,26
+2020,599,St. Francis Brooklyn,8,21,0,29
+2020,601,St. John Fisher,21,7,0,28
+2020,603,St. John's (NY),19,12,0,31
+2020,8687,Saint Joseph (CT),11,14,0,25
+2020,30072,St. Joseph's (Brkln),18,10,0,28
+2020,1340,St. Joseph's (L.I.),9,16,0,25
+2020,605,St. Joseph's (ME),19,9,0,28
+2020,607,St. Lawrence,18,9,0,27
+2020,8688,St. Mary's (IN),10,16,0,26
+2020,611,St. Mary's (MD),3,22,0,25
+2020,1346,St. Mary's (TX),14,14,0,28
+2020,614,St. Norbert,9,16,0,25
+2020,615,St. Olaf,9,16,0,25
+2020,618,St. Scholastica,9,16,0,25
+2020,620,St. Thomas (MN),21,6,0,27
+2020,1348,St. Thomas Aquinas,21,7,0,28
+2020,674,Stanford,27,6,0,33
+2020,103,Stanislaus St.,15,15,0,30
+2020,675,Staten Island,17,8,0,25
+2020,678,Stetson,12,18,0,30
+2020,679,Stevens,11,14,0,25
+2020,21852,Stevenson,15,15,0,30
+2020,681,Stockton,10,15,0,25
+2020,682,Stonehill,23,5,0,28
+2020,683,Stony Brook,28,3,0,31
+2020,684,Suffolk,18,9,0,27
+2020,1390,Sul Ross St.,7,19,0,26
+2020,30165,SUNY Canton,1,24,0,25
+2020,168,SUNY Cortland,22,7,0,29
+2020,30225,SUNY Delhi,7,17,0,24
+2020,247,SUNY Geneseo,22,5,0,27
+2020,475,SUNY New Paltz,25,4,0,29
+2020,526,SUNY Oneonta,12,14,0,26
+2020,9500,SUNY Poly,20,8,0,28
+2020,552,SUNY Potsdam,9,15,0,24
+2020,685,Susquehanna,15,10,0,25
+2020,686,Swarthmore,13,13,0,26
+2020,688,Syracuse,16,15,0,31
+2020,689,Tampa,24,5,0,29
+2020,1395,Tarleton St.,21,8,0,29
+2020,712,TCNJ,16,11,0,27
+2020,698,TCU,22,7,0,29
+2020,690,Temple,16,15,0,31
+2020,694,Tennessee,21,10,0,31
+2020,691,Tennessee St.,4,24,0,28
+2020,692,Tennessee Tech,17,13,0,30
+2020,30090,Tex. A&M Int'l,11,19,0,30
+2020,199,Tex. A&M-Commerce,28,3,0,31
+2020,696,Tex. A&M-Kingsville,4,23,0,27
+2020,30088,Tex. Permian Basin,10,19,0,29
+2020,703,Texas,19,11,0,30
+2020,697,Texas A&M,22,8,0,30
+2020,1400,Texas Lutheran,12,17,0,29
+2020,699,Texas Southern,20,10,0,30
+2020,670,Texas St.,13,17,0,30
+2020,700,Texas Tech,18,11,1,30
+2020,701,Texas Woman's,10,16,0,26
+2020,23121,Texas-Dallas,23,6,0,29
+2020,30028,Texas-Tyler,3,23,0,26
+2020,707,Thiel,0,25,0,25
+2020,2758,Thomas (ME),11,15,0,26
+2020,1403,Tiffin,13,17,0,30
+2020,709,Toledo,14,17,0,31
+2020,711,Towson,14,15,1,30
+2020,28749,Transylvania,25,3,0,28
+2020,30002,Trevecca Nazarene,9,18,0,27
+2020,30037,Trine,23,6,0,29
+2020,713,Trinity (CT),16,9,0,25
+2020,715,Trinity (TX),23,5,0,28
+2020,23413,Trinity Washington,0,19,0,19
+2020,716,Troy,25,4,0,29
+2020,499,Truman,20,9,0,29
+2020,717,Tufts,28,1,0,29
+2020,718,Tulane,14,17,0,31
+2020,719,Tulsa,9,21,0,30
+2020,12830,Tusculum,24,7,0,31
+2020,720,Tuskegee,16,14,0,30
+2020,1255,U New England,20,8,0,28
+2020,9,UAB,20,11,0,31
+2020,108,UC Davis,17,12,0,29
+2020,109,UC Irvine,13,18,0,31
+2020,111,UC Riverside,8,22,0,30
+2020,112,UC San Diego,25,5,0,30
+2020,104,UC Santa Barbara,14,15,0,29
+2020,113,UC Santa Cruz,14,13,0,27
+2020,9754,UC-Colo. Springs,12,17,0,29
+2020,128,UCF,20,10,0,30
+2020,110,UCLA,26,5,0,31
+2020,164,UConn,29,3,0,32
+2020,302,UIC,3,27,0,30
+2020,309,UIndy,19,10,0,29
+2020,401,UMass Boston,20,7,0,27
+2020,656,UMass Dartmouth,15,11,0,26
+2020,368,UMass Lowell,16,15,0,31
+2020,391,UMBC,10,18,0,28
+2020,393,UMES,10,21,0,31
+2020,2707,Kansas City,21,10,0,31
+2020,456,UNC Asheville,16,14,1,31
+2020,459,UNC Greensboro,23,9,0,32
+2020,537,UNC Pembroke,11,17,0,28
+2020,460,UNCW,10,20,1,31
+2020,504,UNI,18,11,0,29
+2020,727,Union (NY),10,14,0,24
+2020,30153,Union (TN),26,5,0,31
+2020,465,UNLV,13,17,0,30
+2020,728,Upper Iowa,3,26,0,29
+2020,30104,Urbana,17,13,0,30
+2020,730,Ursinus,7,18,0,25
+2020,30140,Ursuline,8,20,0,28
+2020,10411,USC Upstate,10,20,1,31
+2020,28594,USciences,26,4,0,30
+2020,702,UT Arlington,21,11,0,32
+2020,695,UT Martin,22,10,0,32
+2020,732,Utah,14,17,0,31
+2020,731,Utah St.,8,23,0,31
+2020,30024,Utah Valley,12,16,0,28
+2020,704,UTEP,16,14,1,31
+2020,733,Utica,15,11,0,26
+2020,536,UTRGV,13,17,0,30
+2020,706,UTSA,6,23,0,29
+2020,30181,UVa-Wise,12,17,0,29
+2020,745,Va. Wesleyan,6,20,0,26
+2020,734,Valdosta St.,18,11,0,29
+2020,30166,Valley Forge,5,15,0,20
+2020,735,Valparaiso,17,12,0,29
+2020,736,Vanderbilt,14,16,0,30
+2020,737,Vassar,19,8,0,27
+2020,740,VCU,20,12,0,32
+2020,738,Vermont,12,18,0,30
+2020,739,Villanova,18,13,0,31
+2020,746,Virginia,13,17,0,30
+2020,743,Virginia St.,10,20,0,30
+2020,742,Virginia Tech,21,9,0,30
+2020,744,Virginia Union,23,4,0,27
+2020,748,Wagner,10,20,0,30
+2020,749,Wake Forest,16,16,0,32
+2020,30141,Walsh,28,2,0,30
+2020,750,Wartburg,25,4,0,29
+2020,751,Wash. & Jeff.,18,10,0,28
+2020,752,Wash. & Lee,18,8,0,26
+2020,2814,Washburn,18,12,0,30
+2020,756,Washington,13,17,0,30
+2020,753,Washington Col.,10,15,0,25
+2020,754,Washington St.,11,20,0,31
+2020,755,WashU,14,11,0,25
+2020,757,Wayne St. (MI),16,14,0,30
+2020,1433,Wayne St. (NE),16,13,0,29
+2020,1434,Waynesburg,8,19,0,27
+2020,758,Weber St.,4,26,0,30
+2020,759,Webster,20,8,0,28
+2020,760,Wellesley,14,9,0,23
+2020,761,Wells,0,25,0,25
+2020,762,Wentworth,8,17,0,25
+2020,763,Wesley,6,19,0,25
+2020,764,Wesleyan (CT),14,11,0,25
+2020,14718,Wesleyan (GA),1,25,0,26
+2020,358,West Ala.,11,15,0,26
+2020,765,West Chester,9,18,0,27
+2020,11740,West Florida,8,20,0,28
+2020,766,West Ga.,18,11,0,29
+2020,1438,West Liberty,12,17,0,29
+2020,767,West Tex. A&M,27,6,0,33
+2020,9630,West Va. Wesleyan,4,24,0,28
+2020,768,West Virginia,17,12,0,29
+2020,1439,West Virginia St.,10,20,0,30
+2020,769,Western Caro.,5,25,0,30
+2020,770,Western Conn. St.,9,16,0,25
+2020,771,Western Ill.,15,15,0,30
+2020,772,Western Ky.,22,7,1,30
+2020,774,Western Mich.,18,13,0,31
+2020,1445,Western N.M.,8,19,0,27
+2020,775,Western New Eng.,21,6,0,27
+2020,1446,Western Ore.,6,22,0,28
+2020,2759,Western Colo.,20,8,0,28
+2020,1448,Western Wash.,22,9,0,31
+2020,777,Westfield St.,13,13,0,26
+2020,1450,Westminster (MO),12,15,0,27
+2020,1451,Westminster (PA),20,8,0,28
+2020,30209,Westminster (UT),24,7,0,31
+2020,778,Wheaton (IL),20,8,0,28
+2020,779,Wheaton (MA),7,17,0,24
+2020,12799,Wheeling,11,19,0,30
+2020,780,Whitman,26,3,0,29
+2020,781,Whittier,17,10,0,27
+2020,1454,Whitworth,15,11,0,26
+2020,782,Wichita St.,16,15,0,31
+2020,783,Widener,21,6,0,27
+2020,784,Wilkes,9,16,0,25
+2020,785,Willamette,13,14,0,27
+2020,786,William & Mary,21,8,1,30
+2020,30120,William Jewell,11,18,0,29
+2020,17094,William Peace,23,6,0,29
+2020,30073,William Smith,14,12,0,26
+2020,789,Williams,20,8,0,28
+2020,1460,Wilmington (DE),5,22,0,27
+2020,1461,Wilmington (OH),11,15,0,26
+2020,12973,Wilson,5,20,0,25
+2020,1462,Wingate,17,13,0,30
+2020,790,Winona St.,17,11,0,28
+2020,791,Winston-Salem,15,16,0,31
+2020,792,Winthrop,11,19,0,30
+2020,8911,Wis. Lutheran,19,8,0,27
+2020,793,Wis.-Eau Claire,18,10,0,28
+2020,795,Wis.-La Crosse,19,8,0,27
+2020,798,Wis.-Oshkosh,20,10,0,30
+2020,799,Wis.-Parkside,16,15,0,31
+2020,800,Wis.-Platteville,12,13,0,25
+2020,801,UW-River Falls,5,20,0,25
+2020,802,Wis.-Stevens Point,10,16,0,26
+2020,803,Wis.-Stout,15,11,0,26
+2020,804,Wis.-Superior,18,9,0,27
+2020,805,Wis.-Whitewater,23,4,0,27
+2020,796,Wisconsin,12,19,0,31
+2020,806,Wittenberg,19,8,0,27
+2020,787,Wm. Paterson,11,15,0,26
+2020,2915,Wofford,15,15,0,30
+2020,807,Wooster,7,18,0,25
+2020,809,Worcester St.,19,9,0,28
+2020,808,WPI,14,12,0,26
+2020,810,Wright St.,19,12,0,31
+2020,811,Wyoming,17,12,0,29
+2020,812,Xavier,3,27,0,30
+2020,813,Yale,19,8,0,27
+2020,814,Yeshiva,7,18,0,25
+2020,2730,York (NY),11,15,0,26
+2020,815,York (PA),17,11,0,28
+2020,30154,Young Harris,15,14,0,29
+2020,817,Youngstown St.,13,17,0,30

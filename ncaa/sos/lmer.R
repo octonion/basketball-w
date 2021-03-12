@@ -1,8 +1,12 @@
 sink("diagnostics/lmer.txt")
 
+library(RhpcBLASctl)
+
 library(lme4)
 library(nortest)
 library(RPostgreSQL)
+
+blas_set_num_threads(8)
 
 #library("sp")
 
@@ -25,7 +29,7 @@ ln(r.team_score::float) as log_ps
 from ncaa.results r
 
 where
-    r.year between 2002 and 2019
+    r.year between 2002 and 2021
 --and r.game_date < '2012/11/29'::date
 and r.school_div_id is not null
 and r.opponent_div_id is not null
@@ -108,10 +112,11 @@ dim(g)
 #fit0 <- lmer(model0,data=g,REML=T,verbose=T) #,control=list(maxIter=5000))
 
 model <- log_ps ~ year+field+d_div+o_div+game_length+(1|offense)+(1|defense)+(1|game_id)
-fit <- lmer(model, data=g,
+fit <- lmer(model,
+            data=g,
             verbose=TRUE,
-            nAGQ=0,
-            control=lmerControl(optimizer = "nloptwrap"))
+            control=lmerControl(calc.derivs = FALSE))
+#nloptwrap"))
 
 fit
 summary(fit)
@@ -129,7 +134,7 @@ fn <- names(f)
 
 # Random factors
 
-r <- ranef(fit)
+r <- ranef(fit, condVar = FALSE)
 rn <- names(r) 
 
 results <- list()
