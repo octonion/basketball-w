@@ -1,6 +1,6 @@
 year,team_id,team_name,wins,losses,ties,total_games
-2021,26172,A&M-Corpus Christi,6,13,0,19
-2021,2,Abilene Christian,14,9,0,23
+2021,26172,A&M-Corpus Christi,7,14,0,21
+2021,2,Abilene Christian,15,13,0,28
 2021,30123,Academy of Art,3,4,0,7
 2021,929,Adams St.,4,10,0,14
 2021,4,Adrian,5,14,0,19
@@ -8,37 +8,38 @@ year,team_id,team_name,wins,losses,ties,total_games
 2021,721,Air Force,8,18,0,26
 2021,5,Akron,7,14,0,21
 2021,10,Alabama Huntsville,8,9,0,17
-2021,8,Alabama,16,9,0,25
-2021,6,Alabama A&M,10,6,0,16
-2021,7,Alabama St.,15,3,0,18
-2021,14,Albany (NY),7,11,0,18
+2021,8,Alabama,17,10,0,27
+2021,6,Alabama A&M,10,7,0,17
+2021,7,Alabama St.,16,4,0,20
+2021,11,Alas. Anchorage,2,0,0,2
+2021,14,UAlbany,7,11,0,18
 2021,13,Albany St. (GA),0,14,0,14
-2021,2798,Albertus Magnus,0,1,0,1
+2021,2798,Albertus Magnus,1,3,0,4
 2021,15,Albion,8,6,0,14
-2021,16,Albright,5,3,0,8
-2021,17,Alcorn,7,12,0,19
+2021,16,Albright,7,4,0,11
+2021,17,Alcorn,7,13,0,20
 2021,934,Alderson Broaddus,7,11,0,18
-2021,18,Alfred,1,2,0,3
+2021,18,Alfred,2,6,0,8
 2021,21,Alma,8,7,0,15
-2021,938,Alvernia,3,2,0,5
+2021,938,Alvernia,5,3,0,8
 2021,28746,Alverno,0,10,0,10
-2021,23,American,7,3,0,10
-2021,22,American Int'l,7,1,0,8
+2021,23,American,7,4,0,11
+2021,22,American Int'l,7,2,0,9
 2021,939,Anderson (IN),7,7,0,14
 2021,13028,Anderson (SC),14,11,0,25
 2021,25,Angelo St.,1,14,0,15
 2021,27,App State,15,12,0,27
-2021,966,Arcadia,5,3,0,8
-2021,29,Arizona,16,5,0,21
-2021,28,Arizona St.,11,10,0,21
+2021,966,Arcadia,6,5,0,11
+2021,29,Arizona,21,6,0,27
+2021,28,Arizona St.,12,12,0,24
 2021,30105,Ark.-Fort Smith,3,6,0,9
 2021,8411,Ark.-Monticello,1,7,0,8
 2021,2678,Ark.-Pine Bluff,3,18,0,21
-2021,31,Arkansas,19,8,0,27
+2021,31,Arkansas,19,9,0,28
 2021,30,Arkansas St.,9,12,0,21
 2021,947,Arkansas Tech,14,2,0,16
 2021,725,Army West Point,9,11,0,20
-2021,35,Ashland,14,8,0,22
+2021,35,Ashland,16,9,0,25
 2021,37,Auburn,5,19,0,24
 2021,38,Augsburg,1,5,0,6
 2021,39,Augusta,6,9,0,15
@@ -46,234 +47,241 @@ year,team_id,team_name,wins,losses,ties,total_games
 2021,41,Augustana (SD),12,5,0,17
 2021,30093,AUM,2,13,0,15
 2021,42,Aurora,6,2,0,8
-2021,953,Austin,6,4,0,10
+2021,953,Austin,6,5,0,11
 2021,43,Austin Peay,12,11,0,23
 2021,44,Averett,4,9,0,13
-2021,30146,Azusa Pacific,10,4,0,14
-2021,45,Babson,9,0,0,9
+2021,30146,Azusa Pacific,12,5,0,17
+2021,45,Babson,11,0,0,11
 2021,46,Baldwin Wallace,10,5,0,15
 2021,47,Ball St.,14,11,0,25
-2021,49,Barry,5,4,0,9
-2021,15646,Barton,12,2,0,14
-2021,51,Baylor,22,2,0,24
-2021,26107,Becker,0,2,0,2
+2021,49,Barry,5,6,0,11
+2021,15646,Barton,13,3,0,16
+2021,50,Bates,1,1,0,2
+2021,51,Baylor,28,3,0,31
+2021,26107,Becker,0,6,0,6
 2021,30197,Belhaven,6,12,0,18
-2021,52,Bellarmine,5,16,0,21
-2021,14927,Belmont,20,5,0,25
-2021,2683,Belmont Abbey,22,2,0,24
+2021,52,Bellarmine,5,17,0,22
+2021,14927,Belmont,21,6,0,27
+2021,2683,Belmont Abbey,24,3,0,27
 2021,54,Bemidji St.,10,6,0,16
 2021,55,Benedict,12,3,0,15
-2021,296,Benedictine (IL),6,0,0,6
+2021,296,Benedictine (IL),6,1,0,7
 2021,973,Berry,5,7,0,12
-2021,59,Bethany (WV),4,5,0,9
+2021,59,Bethany (WV),5,6,0,11
 2021,30038,Bethany Lutheran,9,1,0,10
 2021,60,Bethel (MN),4,4,0,8
 2021,62,Binghamton,5,11,0,16
 2021,30220,Biola,4,9,0,13
 2021,28593,Birmingham-So.,5,13,0,18
-2021,30134,Black Hills St.,14,8,0,22
-2021,64,Blackburn,1,3,0,4
+2021,30134,Black Hills St.,14,9,0,23
+2021,64,Blackburn,1,9,0,10
 2021,984,Bloomfield,6,5,0,11
 2021,985,Bluefield St.,6,10,0,16
 2021,987,Bluffton,14,6,0,20
 2021,66,Boise St.,14,9,0,23
 2021,67,Boston College,7,12,0,19
-2021,68,Boston U.,11,2,0,13
-2021,71,Bowling Green,19,5,0,24
-2021,72,Bradley,14,11,0,25
+2021,68,Boston U.,12,3,0,15
+2021,71,Bowling Green,21,8,0,29
+2021,72,Bradley,17,12,0,29
 2021,30094,Brevard,6,6,0,12
 2021,75,Bridgewater (VA),4,0,0,4
 2021,81,Bryant,7,14,0,21
 2021,30188,Bryn Athyn,0,4,0,4
-2021,83,Bucknell,9,0,0,9
+2021,83,Bucknell,9,1,0,10
 2021,84,Buena Vista,2,7,0,9
-2021,86,Buffalo,15,8,0,23
+2021,86,Buffalo,15,9,0,24
 2021,87,Butler,3,17,0,20
-2021,77,BYU,18,5,0,23
+2021,77,BYU,19,6,0,25
 2021,88,Cabrini,1,0,0,1
 2021,1305,Cairn,1,5,0,6
-2021,90,Cal Poly,13,10,0,23
+2021,105,Cal Lutheran,3,0,0,3
+2021,90,Cal Poly,13,12,0,25
 2021,97,Cal St. Fullerton,4,18,0,22
 2021,995,Caldwell,3,7,0,10
 2021,107,California,1,16,0,17
-2021,30135,California Baptist,22,0,0,22
+2021,30135,California Baptist,26,1,0,27
+2021,30135,California Baptist,26,1,0,27
 2021,114,Calvin,5,6,0,11
-2021,996,Cameron,11,7,0,18
-2021,115,Campbell,15,6,0,21
+2021,996,Cameron,11,8,0,19
+2021,115,Campbell,16,7,0,23
 2021,116,Canisius,0,5,0,5
 2021,117,Capital,5,6,0,11
 2021,120,Carroll (WI),7,6,0,13
-2021,1000,Carson-Newman,15,4,0,19
+2021,1000,Carson-Newman,15,5,0,20
 2021,121,Carthage,4,10,0,14
-2021,123,Castleton,2,6,1,9
-2021,1001,Catawba,10,3,0,13
+2021,123,Castleton,3,6,0,9
+2021,1001,Catawba,11,4,0,15
 2021,124,Catholic,7,3,0,10
-2021,30124,Cedarville,19,5,0,24
+2021,23624,Cazenovia,4,0,0,4
+2021,30124,Cedarville,19,6,0,25
+2021,30124,Cedarville,19,6,0,25
 2021,125,Centenary (LA),1,9,0,10
-2021,126,Central (IA),6,3,0,9
-2021,1004,Central Ark.,11,13,0,24
+2021,126,Central (IA),6,4,0,10
+2021,1004,Central Ark.,14,14,0,28
 2021,127,Central Conn. St.,4,14,0,18
-2021,129,Central Mich.,16,8,0,24
-2021,130,Central Mo.,19,4,0,23
+2021,129,Central Mich.,18,9,0,27
+2021,130,Central Mo.,23,5,0,28
 2021,1009,Central Okla.,14,9,0,23
-2021,132,Centre,4,6,0,10
+2021,1010,Central Wash.,0,2,0,2
+2021,132,Centre,4,7,0,11
 2021,1012,Chadron St.,0,13,0,13
 2021,133,Chaminade,0,12,0,12
-2021,1013,Charleston (WV),17,2,0,19
+2021,1013,Charleston (WV),19,3,0,22
 2021,48,Charleston So.,6,17,0,23
-2021,458,Charlotte,10,9,0,19
-2021,10972,Chatham,4,4,0,8
+2021,458,Charlotte,10,12,0,22
+2021,10972,Chatham,4,5,0,9
 2021,693,Chattanooga,14,10,0,24
-2021,136,Chicago St.,0,14,0,14
+2021,136,Chicago St.,0,16,0,16
 2021,8875,Chowan,7,8,0,15
-2021,139,Chris. Newport,2,0,0,2
+2021,139,Chris. Newport,0,1,0,1
 2021,1015,Christian Brothers,5,9,0,14
 2021,140,Cincinnati,8,16,0,24
-2021,143,Clarion,4,7,0,11
+2021,143,Clarion,4,8,0,12
 2021,958,Clarks Summit,2,0,0,2
-2021,146,Clarkson,4,3,0,7
+2021,146,Clarkson,6,5,0,11
 2021,20576,Clayton St.,10,5,0,15
-2021,147,Clemson,11,13,0,24
-2021,148,Cleveland St.,11,9,0,20
-2021,722,Coast Guard,3,0,0,3
+2021,147,Clemson,12,14,0,26
+2021,148,Cleveland St.,14,9,0,23
+2021,722,Coast Guard,4,0,0,4
 2021,149,Coastal Carolina,3,15,0,18
-2021,150,Coe,8,3,0,11
+2021,30083,Cobleskill St.,2,0,2,4
+2021,150,Coe,9,4,0,13
 2021,1023,Coker,7,13,0,20
 2021,1014,Col. of Charleston,6,9,0,15
-2021,151,Colby,2,0,0,2
+2021,151,Colby,3,3,0,6
 2021,153,Colgate,1,8,0,9
 2021,11403,Colo. Christian,5,15,0,20
 2021,155,Colo. Sch. of Mines,17,3,0,20
-2021,157,Colorado,10,10,0,20
-2021,154,Colorado Col.,6,2,0,8
+2021,157,Colorado,12,11,0,23
+2021,154,Colorado Col.,7,3,0,10
 2021,11416,Colorado Mesa,14,8,0,22
 2021,156,Colorado St.,15,6,0,21
 2021,2720,CSU Pueblo,3,13,0,16
 2021,159,Columbus St.,3,5,0,8
 2021,1028,Concord,9,7,0,16
-2021,30199,Concordia (CA),7,7,0,14
-2021,162,Concordia (NY),6,5,0,11
+2021,30199,CUI,7,7,0,14
+2021,162,Concordia (NY),6,6,0,12
 2021,24400,Concordia (TX),2,9,0,11
 2021,160,Concordia Chicago,3,8,0,11
 2021,1036,Concordia Wisconsin,9,6,0,15
-2021,161,Concordia-M'head,2,4,0,6
+2021,161,Concordia-M'head,3,4,0,7
 2021,9081,Concordia-St. Paul,11,6,0,17
-2021,163,Connecticut Col.,0,3,0,3
+2021,163,Connecticut Col.,2,3,0,5
 2021,8935,Converse,6,14,0,20
-2021,165,Coppin St.,2,12,0,14
+2021,165,Coppin St.,2,13,0,15
 2021,166,Cornell College,2,2,0,4
 2021,30111,Covenant,8,17,0,25
-2021,169,Creighton,9,11,0,20
+2021,169,Creighton,10,12,0,22
 2021,30035,Crown (MN),0,7,0,7
 2021,94,CSU Bakersfield,9,9,0,18
-2021,170,Curry,0,1,0,1
+2021,170,Curry,1,7,0,8
 2021,1059,D'Youville,2,6,0,8
-2021,30174,Daemen,12,2,0,14
+2021,30174,Daemen,14,3,0,17
 2021,1044,Dallas,4,6,0,10
 2021,30221,Davenport,6,14,0,20
-2021,173,Davidson,9,13,0,22
+2021,173,Davidson,9,14,0,23
 2021,174,Davis & Elkins,2,13,0,15
-2021,175,Dayton,13,2,0,15
+2021,175,Dayton,14,5,0,19
 2021,1050,Defiance,2,9,0,11
-2021,180,Delaware,19,3,0,22
+2021,180,Delaware,24,5,0,29
 2021,178,Delaware St.,3,12,0,15
-2021,179,Delaware Valley,2,4,0,6
+2021,179,Delaware Valley,4,5,0,9
 2021,181,Delta St.,7,11,0,18
 2021,182,Denison,2,6,0,8
 2021,183,Denver,7,16,0,23
-2021,176,DePaul,14,8,0,22
+2021,176,DePaul,14,10,0,24
 2021,177,DePauw,8,1,0,9
-2021,20,DeSales,6,0,0,6
+2021,20,DeSales,9,0,0,9
 2021,184,Detroit Mercy,1,13,0,14
 2021,30095,Dixie St.,1,2,0,3
 2021,30118,Dominican (CA),1,6,0,7
 2021,1332,Dominican (IL),3,4,0,7
-2021,8956,Dominican (NY),12,1,0,13
-2021,189,Drake,15,10,0,25
-2021,190,Drew,4,4,0,8
-2021,191,Drexel,11,8,0,19
-2021,1057,Drury,20,1,0,21
+2021,8956,Dominican (NY),12,2,0,14
+2021,189,Drake,18,12,0,30
+2021,190,Drew,4,5,0,9
+2021,191,Drexel,14,9,0,23
+2021,1057,Drury,24,2,0,26
 2021,192,Dubuque,6,7,0,13
 2021,193,Duke,3,1,0,4
-2021,194,Duquesne,5,10,0,15
+2021,194,Duquesne,5,11,0,16
 2021,195,Earlham,1,6,0,7
 2021,196,East Carolina,8,14,0,22
 2021,8965,East Central,10,9,0,19
-2021,1062,East Tex. Baptist,25,0,0,25
+2021,1062,East Tex. Baptist,26,1,0,27
 2021,203,East. Mennonite,0,5,0,5
-2021,8968,Eastern,0,6,0,6
+2021,8968,Eastern,1,8,0,9
 2021,201,Eastern Ill.,11,15,0,26
 2021,202,Eastern Ky.,9,15,0,24
 2021,204,Eastern Mich.,10,10,0,20
-2021,1064,Eastern Nazarene,4,0,0,4
+2021,1064,Eastern Nazarene,8,2,2,12
 2021,207,Eastern Wash.,6,17,0,23
 2021,1066,Edgewood,11,5,0,16
 2021,212,Elmhurst,3,10,0,13
-2021,213,Elmira,2,2,0,4
+2021,213,Elmira,2,4,0,6
 2021,532,Elms,1,1,0,2
-2021,1068,Elon,7,7,0,14
+2021,1068,Elon,7,8,0,15
 2021,30193,Emmanuel (GA),13,4,0,17
 2021,216,Emory & Henry,6,8,0,14
-2021,1071,Emporia St.,18,6,0,24
-2021,8981,Endicott,0,2,0,2
+2021,1071,Emporia St.,18,7,0,25
+2021,8981,Endicott,3,5,0,8
 2021,1072,Erskine,1,16,0,17
 2021,198,ETSU,4,16,0,20
-2021,218,Eureka,4,2,0,6
-2021,219,Evansville,6,16,0,22
-2021,220,Fairfield,10,4,0,14
+2021,218,Eureka,6,7,0,13
+2021,219,Evansville,6,17,0,23
+2021,220,Fairfield,11,5,0,16
 2021,222,Fairleigh Dickinson,16,8,0,24
 2021,1076,Fairmont St.,7,10,0,17
-2021,221,FDU-Florham,0,5,0,5
+2021,221,FDU-Florham,0,9,0,9
 2021,23157,Felician,0,11,0,11
 2021,224,Ferris St.,6,13,0,19
 2021,225,Ferrum,2,10,0,12
-2021,28755,FGCU,23,2,0,25
-2021,1079,Findlay,12,11,0,23
+2021,28755,FGCU,26,3,0,29
+2021,1079,Findlay,12,13,0,25
 2021,30032,Finlandia,2,1,0,3
-2021,231,FIU,13,11,0,24
-2021,229,Fla. Atlantic,11,10,0,21
-2021,233,Fla. Southern,3,2,0,5
+2021,231,FIU,15,13,0,28
+2021,229,Fla. Atlantic,11,11,0,22
+2021,233,Fla. Southern,5,3,0,8
 2021,30092,Flagler,7,10,0,17
-2021,235,Florida,11,13,0,24
-2021,234,Florida St.,10,8,0,18
-2021,230,Florida Tech,3,3,1,7
-2021,11538,Fontbonne,1,2,0,3
-2021,236,Fordham,12,3,0,15
-2021,9011,Fort Hays St.,22,3,0,25
+2021,235,Florida,12,14,0,26
+2021,234,Florida St.,10,9,0,19
+2021,230,Florida Tech,3,6,0,9
+2021,11538,Fontbonne,4,5,0,9
+2021,236,Fordham,12,6,0,18
+2021,9011,Fort Hays St.,22,4,0,26
 2021,1083,Fort Lewis,6,8,0,14
 2021,237,Fort Valley St.,6,7,0,13
 2021,1085,Francis Marion,2,11,0,13
-2021,30069,Franciscan,1,8,0,9
+2021,30069,Franciscan,1,9,0,10
 2021,2694,Franklin,7,5,0,12
 2021,241,Franklin Pierce,0,2,0,2
-2021,30147,Fresno Pacific,7,7,0,14
-2021,96,Fresno St.,16,10,0,26
+2021,30147,Fresno Pacific,7,8,0,15
+2021,96,Fresno St.,17,11,0,28
 2021,243,Frostburg St.,2,14,0,16
 2021,244,Furman,11,14,0,25
 2021,253,Ga. Southern,11,13,0,24
 2021,1097,Ga. Southwestern,9,7,0,16
 2021,246,Gannon,13,1,0,14
-2021,1092,Gardner-Webb,11,12,0,23
-2021,30084,Geneva,4,5,0,9
-2021,1094,George Fox,0,1,0,1
+2021,1092,Gardner-Webb,11,13,0,24
+2021,30084,Geneva,4,6,0,10
+2021,1094,George Fox,3,3,0,6
 2021,248,George Mason,3,19,0,22
-2021,249,George Washington,9,13,0,22
+2021,249,George Washington,9,14,0,23
 2021,251,Georgetown,2,15,0,17
-2021,257,Georgia,20,6,0,26
+2021,257,Georgia,21,7,0,28
 2021,1096,Georgia College,1,13,0,14
 2021,254,Georgia St.,13,11,0,24
-2021,255,Georgia Tech,15,8,0,23
-2021,9004,Georgian Court,8,1,0,9
-2021,1098,Glenville St.,12,3,0,15
-2021,260,Gonzaga,23,3,0,26
-2021,1099,Gordon,2,1,0,3
-2021,261,Grambling,9,9,0,18
-2021,1104,Grand Canyon,17,6,0,23
-2021,262,Grand Valley St.,14,5,0,19
+2021,255,Georgia Tech,17,9,0,26
+2021,9004,Georgian Court,9,2,0,11
+2021,1098,Glenville St.,12,4,0,16
+2021,260,Gonzaga,23,4,0,27
+2021,1099,Gordon,7,5,0,12
+2021,261,Grambling,10,10,0,20
+2021,1104,Grand Canyon,19,10,0,29
+2021,262,Grand Valley St.,14,6,0,20
 2021,794,Green Bay,15,7,0,22
 2021,263,Greensboro,6,9,0,15
-2021,1111,Greenville,4,8,0,12
-2021,265,Grove City,7,1,0,8
+2021,1111,Greenville,8,9,0,17
+2021,265,Grove City,8,2,0,10
 2021,266,Gust. Adolphus,5,2,0,7
 2021,12399,Gwynedd Mercy,2,0,0,2
 2021,268,Hamline,2,4,0,6
@@ -282,161 +290,166 @@ year,team_id,team_name,wins,losses,ties,total_games
 2021,271,Hardin-Simmons,16,5,0,21
 2021,1116,Harding,7,8,0,15
 2021,272,Hartford,3,9,0,12
-2021,277,Hawaii,9,7,0,16
+2021,277,Hawaii,9,8,0,17
 2021,2697,Hawaii Hilo,6,7,0,13
-2021,2696,Hawaii Pacific,13,0,0,13
+2021,2696,Hawaii Pacific,13,1,0,14
 2021,278,Heidelberg,1,12,0,13
 2021,1123,Henderson St.,7,6,0,13
 2021,1124,Hendrix,1,11,0,12
-2021,19651,High Point,20,6,0,26
-2021,280,Hillsdale,4,17,0,21
-2021,283,Hofstra,7,11,0,18
+2021,19651,High Point,22,7,0,29
+2021,280,Hillsdale,4,19,0,23
+2021,281,Hiram,2,2,0,4
+2021,283,Hofstra,8,12,0,20
 2021,285,Holy Cross,7,8,0,15
 2021,286,Hope,16,0,0,16
 2021,30160,Houghton,3,0,0,3
-2021,288,Houston,16,7,0,23
-2021,287,Houston Baptist,11,10,0,21
-2021,290,Howard,14,3,0,17
+2021,288,Houston,17,8,0,25
+2021,287,Houston Baptist,11,11,0,22
+2021,287,Houston Baptist,11,11,0,22
+2021,290,Howard,15,4,0,19
 2021,2741,Howard Payne,10,7,0,17
 2021,1130,Huntingdon,5,9,0,14
-2021,1133,Husson,4,0,0,4
-2021,295,Idaho,17,6,0,23
-2021,294,Idaho St.,21,3,0,24
+2021,1133,Husson,6,1,0,7
+2021,295,Idaho,17,7,0,24
+2021,294,Idaho St.,22,4,0,26
 2021,300,Ill. Wesleyan,6,4,0,10
 2021,30050,Ill. Springfield,10,11,0,21
 2021,301,Illinois,5,18,0,23
-2021,297,Illinois Col.,5,4,0,9
-2021,299,Illinois St.,14,6,0,20
+2021,297,Illinois Col.,7,5,0,12
+2021,299,Illinois St.,15,9,0,24
 2021,303,Immaculata,0,2,0,2
-2021,2743,UIW,6,9,0,15
-2021,306,Indiana,18,4,0,22
-2021,305,Indiana St.,5,14,0,19
-2021,310,Iona,6,8,0,14
-2021,312,Iowa,16,8,0,24
-2021,311,Iowa St.,16,9,0,25
-2021,30173,Iowa Wesleyan,1,7,0,8
+2021,2743,UIW,7,9,0,16
+2021,306,Indiana,21,6,0,27
+2021,305,Indiana St.,5,15,0,20
+2021,310,Iona,6,9,0,15
+2021,312,Iowa,20,10,0,30
+2021,311,Iowa St.,17,11,0,28
+2021,30173,Iowa Wesleyan,2,12,0,14
 2021,2699,IUPUI,15,5,0,20
-2021,314,Jackson St.,17,5,0,22
-2021,316,Jacksonville,4,16,0,20
+2021,314,Jackson St.,19,6,0,25
+2021,316,Jacksonville,4,17,0,21
 2021,315,Jacksonville St.,15,9,0,24
-2021,317,James Madison,13,9,0,22
+2021,317,James Madison,14,10,0,24
 2021,320,John Carroll,13,2,0,15
 2021,325,Juniata,0,9,0,9
 2021,326,Kalamazoo,0,11,0,11
-2021,328,Kansas,7,17,0,24
-2021,327,Kansas St.,8,17,0,25
-2021,329,Kean,3,6,0,9
-2021,330,Keene St.,3,5,0,8
+2021,328,Kansas,7,18,0,25
+2021,327,Kansas St.,9,18,0,27
+2021,329,Kean,3,7,0,10
+2021,330,Keene St.,5,5,0,10
 2021,1157,Kennesaw St.,7,12,0,19
 2021,331,Kent St.,11,9,0,20
-2021,334,Kentucky,17,8,0,25
+2021,334,Kentucky,18,9,0,27
 2021,332,Kentucky St.,2,7,0,9
-2021,1159,Keuka,0,3,0,3
+2021,1159,Keuka,0,6,0,6
 2021,30051,King (TN),10,7,0,17
-2021,333,Ky. Wesleyan,18,5,0,23
-2021,340,La Salle,11,13,0,24
+2021,337,Knox,1,2,0,3
+2021,333,Ky. Wesleyan,19,7,0,26
+2021,340,La Salle,12,14,0,26
 2021,498,ULM,3,20,0,23
 2021,342,Lafayette,5,8,0,13
 2021,1162,LaGrange,8,5,0,13
-2021,2746,Lake Erie,3,18,0,21
-2021,344,Lake Forest,1,5,0,6
+2021,2746,Lake Erie,3,20,0,23
+2021,344,Lake Forest,1,7,0,8
 2021,345,Lake Superior St.,1,18,0,19
 2021,1164,Lakeland,6,6,0,12
-2021,346,Lamar University,10,13,0,23
+2021,346,Lamar University,12,14,0,26
 2021,30085,Lancaster Bible,6,5,0,11
-2021,1167,Lander,17,1,0,18
-2021,351,Lebanon Valley,2,6,0,8
-2021,30013,Lee,15,7,0,22
+2021,1167,Lander,20,2,0,22
+2021,351,Lebanon Valley,3,8,0,11
+2021,30013,Lee,15,8,0,23
 2021,13302,Lees-McRae,7,10,0,17
-2021,352,Lehigh,8,5,0,13
+2021,352,Lehigh,10,6,0,16
 2021,1170,Lenoir-Rhyne,6,14,0,20
-2021,8490,LeTourneau,12,7,0,19
+2021,8490,LeTourneau,12,8,0,20
 2021,354,Lewis,13,9,0,22
-2021,355,Liberty,17,7,0,24
+2021,355,Liberty,19,8,0,27
 2021,1174,Limestone,8,8,0,16
 2021,356,Lincoln (MO),2,21,0,23
 2021,357,Lincoln (PA),1,5,0,6
 2021,1176,Lincoln Memorial,11,11,0,22
-2021,30136,Lindenwood (MO),11,9,0,20
-2021,28600,Lipscomb,11,9,0,20
+2021,30136,Lindenwood,11,9,0,20
+2021,1179,Linfield,1,5,0,6
+2021,28600,Lipscomb,12,10,0,22
 2021,32,Little Rock,15,11,0,26
 2021,361,LIU,7,11,0,18
 2021,370,LMU (CA),7,19,0,26
 2021,99,Long Beach St.,12,9,0,21
-2021,363,Longwood,14,10,0,24
-2021,364,Loras,6,6,0,12
-2021,671,Louisiana,16,6,0,22
+2021,363,Longwood,14,11,0,25
+2021,364,Loras,6,7,0,13
+2021,671,Louisiana,16,8,0,24
 2021,1182,Louisiana Col.,3,7,0,10
-2021,366,Louisiana Tech,14,9,0,23
-2021,367,Louisville,23,3,0,26
-2021,371,Loyola Chicago,10,12,0,22
+2021,366,Louisiana Tech,14,10,0,24
+2021,367,Louisville,26,4,0,30
+2021,371,Loyola Chicago,12,15,0,27
 2021,369,Loyola Maryland,0,13,0,13
 2021,365,LSU,9,13,0,22
-2021,30177,Lubbock Christian,18,0,0,18
+2021,30177,Lubbock Christian,23,0,0,23
 2021,372,Luther,1,10,0,11
-2021,373,Lycoming,2,1,0,3
-2021,374,Lynchburg,10,1,0,11
-2021,380,Maine,17,2,0,19
+2021,373,Lycoming,2,4,0,6
+2021,374,Lynchburg,11,1,0,12
+2021,376,Macalester,2,0,0,2
+2021,380,Maine,17,3,0,20
 2021,378,Maine Maritime,3,0,0,3
-2021,30137,Malone,9,12,0,21
+2021,30137,Malone,9,15,0,24
 2021,1192,Manchester,4,15,0,19
-2021,381,Manhattan,10,6,0,16
-2021,1194,Maranatha Baptist,10,8,0,18
+2021,381,Manhattan,11,9,0,20
+2021,1194,Maranatha Baptist,12,9,0,21
 2021,1196,Marian (WI),2,10,0,12
 2021,385,Marietta,6,7,0,13
-2021,386,Marist,16,3,0,19
-2021,387,Marquette,19,6,0,25
+2021,386,Marist,18,4,0,22
+2021,387,Marquette,19,7,0,26
 2021,1199,Mars Hill,2,18,0,20
 2021,388,Marshall,8,11,0,19
 2021,8597,Martin Luther,3,10,0,13
 2021,30075,Mary,5,9,0,14
 2021,389,Mary Baldwin,5,5,0,10
-2021,1203,Mary Hardin-Baylor,12,8,0,20
-2021,392,Maryland,21,2,0,23
-2021,394,Marymount (VA),2,1,0,3
+2021,1203,Mary Hardin-Baylor,13,8,0,21
+2021,392,Maryland,26,3,0,29
+2021,394,Marymount (VA),3,1,0,4
 2021,395,Maryville (MO),11,11,0,22
 2021,396,Maryville (TN),12,2,0,14
-2021,400,Massachusetts,11,6,0,17
+2021,400,Massachusetts,16,8,0,24
 2021,30138,McKendree,8,13,0,21
-2021,8530,McMurry,2,17,0,19
-2021,402,McNeese,6,16,0,22
+2021,8530,McMurry,2,18,0,20
+2021,402,McNeese,7,18,0,25
 2021,379,Me.-Farmington,0,2,0,2
 2021,30040,Me.-Presque Isle,1,3,0,4
-2021,23725,Medaille,0,1,0,1
+2021,23725,Medaille,0,2,0,2
 2021,404,Memphis,4,15,0,19
-2021,406,Mercer,19,6,0,25
+2021,406,Mercer,19,7,0,26
 2021,724,Merchant Marine,1,0,0,1
 2021,407,Mercy,1,8,0,9
 2021,408,Mercyhurst,11,6,0,17
 2021,409,Meredith,5,4,0,9
 2021,410,Merrimack,5,10,0,15
-2021,411,Messiah,8,0,0,8
+2021,411,Messiah,11,0,0,11
 2021,412,Methodist,1,11,0,12
 2021,415,Miami (FL),11,11,0,22
 2021,414,Miami (OH),4,20,0,24
-2021,418,Michigan,14,4,0,18
-2021,416,Michigan St.,14,7,0,21
-2021,417,Michigan Tech,20,1,0,21
-2021,419,Middle Tenn.,14,7,0,21
+2021,418,Michigan,16,6,0,22
+2021,416,Michigan St.,15,9,0,24
+2021,417,Michigan Tech,20,2,0,22
+2021,419,Middle Tenn.,17,8,0,25
 2021,422,Miles,9,12,0,21
 2021,424,Millikin,11,3,0,14
-2021,426,Millsaps,11,1,0,12
-2021,797,Milwaukee,19,7,0,26
-2021,427,Minn. Duluth,13,1,0,14
+2021,426,Millsaps,12,2,0,14
+2021,797,Milwaukee,20,8,0,28
+2021,427,Minn. Duluth,14,2,0,16
 2021,27854,Minn.-Crookston,3,13,0,16
 2021,1226,Minn.-Morris,6,4,0,10
 2021,428,Minnesota,8,13,0,21
 2021,383,Minnesota St.,9,7,0,16
 2021,30125,Minot St.,4,10,0,14
-2021,16142,Misericordia,3,3,0,6
+2021,16142,Misericordia,5,4,0,9
 2021,429,Mississippi Col.,3,9,0,12
 2021,430,Mississippi St.,10,9,0,19
 2021,432,Mississippi Val.,4,16,0,20
-2021,434,Missouri,9,11,0,20
+2021,434,Missouri,9,13,0,22
 2021,435,Missouri S&T,4,17,0,21
-2021,669,Missouri St.,20,2,0,22
+2021,669,Missouri St.,23,3,0,26
 2021,9013,Missouri Western,6,16,0,22
-2021,30042,Mitchell,0,3,0,3
+2021,30042,Mitchell,1,4,0,5
 2021,9012,Mo. Southern St.,9,14,0,23
 2021,436,Mo.-St. Louis,12,8,0,20
 2021,437,Molloy,4,5,0,9
@@ -444,11 +457,11 @@ year,team_id,team_name,wins,losses,ties,total_games
 2021,205,Mont. St. Billings,5,3,0,8
 2021,441,Montana,12,11,0,23
 2021,440,Montana St.,17,7,0,24
-2021,442,Montclair St.,7,1,0,8
-2021,1238,Montevallo,14,6,0,20
+2021,442,Montclair St.,8,2,0,10
+2021,1238,Montevallo,14,7,0,21
 2021,443,Moravian,6,4,0,10
 2021,444,Morehead St.,7,16,0,23
-2021,446,Morgan St.,11,3,0,14
+2021,446,Morgan St.,12,4,0,16
 2021,30036,Mount Aloysius,0,2,0,2
 2021,1245,Mount Olive,7,7,0,14
 2021,452,Mount Union,9,5,0,14
@@ -457,102 +470,103 @@ year,team_id,team_name,wins,losses,ties,total_games
 2021,1240,MSU Moorhead,7,6,0,13
 2021,1222,Midwestern St.,11,10,0,21
 2021,8567,Mt. St. Joseph,7,3,0,10
-2021,450,Mount St. Mary's,16,6,0,22
+2021,450,Mount St. Mary's,17,7,0,24
 2021,454,Murray St.,16,11,0,27
 2021,455,Muskingum,1,10,0,11
 2021,431,MUW,0,2,0,2
-2021,488,N.C. A&T,12,2,0,14
-2021,489,N.C. Central,4,11,0,15
+2021,488,N.C. A&T,14,3,0,17
+2021,489,N.C. Central,4,12,0,16
 2021,491,N.C. Wesleyan,15,3,0,18
 2021,726,Navy,5,7,0,12
-2021,461,Nazareth,2,1,0,3
-2021,490,NC State,20,2,0,22
+2021,461,Nazareth,8,2,0,10
+2021,490,NC State,22,3,0,25
 2021,462,Neb. Wesleyan,1,8,0,9
-2021,1156,Neb.-Kearney,22,3,0,25
-2021,463,Nebraska,12,11,0,23
+2021,1156,Neb.-Kearney,23,4,0,27
+2021,463,Nebraska,13,13,0,26
 2021,1254,Neumann,3,3,0,6
 2021,466,Nevada,13,9,0,22
-2021,467,New England Col.,1,5,0,6
+2021,467,New England Col.,1,6,2,9
 2021,469,New Hampshire,5,15,0,20
-2021,319,New Jersey City,7,2,0,9
-2021,473,New Mexico,15,4,0,19
-2021,472,New Mexico St.,9,11,0,20
+2021,319,New Jersey City,9,2,0,11
+2021,473,New Mexico,15,6,0,21
+2021,472,New Mexico St.,9,15,0,24
 2021,474,New Orleans,6,15,0,21
 2021,1257,Newberry,10,12,0,22
 2021,30054,Newman,4,18,0,22
 2021,482,Niagara,4,7,0,11
-2021,483,Nicholls,10,13,0,23
-2021,484,Nichols,2,2,0,4
+2021,483,Nicholls,11,16,0,27
+2021,484,Nichols,5,5,0,10
 2021,471,NJIT,4,14,0,18
-2021,485,Norfolk St.,4,8,0,12
-2021,487,North Ala.,7,17,0,24
-2021,457,North Carolina,13,10,0,23
+2021,485,Norfolk St.,5,9,0,14
+2021,487,North Ala.,7,18,0,25
+2021,457,North Carolina,13,11,0,24
 2021,492,North Central (IL),2,11,0,13
 2021,30039,North Central (MN),18,4,0,22
 2021,494,North Dakota,2,19,0,21
 2021,493,North Dakota St.,15,9,0,24
-2021,2711,North Florida,13,10,0,23
-2021,30052,North Georgia,17,1,0,18
+2021,2711,North Florida,14,11,0,25
+2021,30052,North Georgia,18,2,0,20
 2021,9223,North Greenville,8,8,0,16
 2021,496,North Park,9,5,0,14
 2021,497,North Texas,13,7,0,20
-2021,500,Northeastern,7,12,0,19
+2021,500,Northeastern,7,13,0,20
 2021,12810,Northeastern St.,6,16,0,22
-2021,501,Northern Ariz.,13,13,0,26
+2021,501,Northern Ariz.,15,14,0,29
 2021,502,Northern Colo.,14,12,0,26
-2021,503,Northern Ill.,12,12,0,24
+2021,503,NIU,12,12,0,24
 2021,505,Northern Ky.,8,11,0,19
 2021,506,Northern Mich.,10,9,0,19
 2021,1266,Northern St.,5,9,0,14
 2021,1267,Northland,1,3,0,4
 2021,507,Northwest Mo. St.,7,16,0,23
 2021,1274,Northwest Nazarene,7,8,0,15
-2021,509,Northwestern,14,7,0,21
+2021,509,Northwestern,16,9,0,25
 2021,30178,Northwestern Okla.,6,14,0,20
-2021,508,Northwestern St.,1,19,0,20
-2021,30031,Northwestern-St. Paul,14,5,0,19
-2021,510,Northwood,11,8,0,19
-2021,511,Norwich,3,1,1,5
+2021,508,Northwestern St.,1,21,0,22
+2021,30031,Northwestern-St. Paul,17,6,0,23
+2021,510,Northwood,11,9,0,20
+2021,511,Norwich,3,4,0,7
 2021,513,Notre Dame,10,10,0,20
 2021,30126,Notre Dame (OH),14,4,0,18
 2021,324,NVU-Johnson,0,7,0,7
 2021,1277,Nyack,4,8,0,12
 2021,514,Oakland,12,12,0,24
-2021,2713,Oglethorpe,7,1,0,8
-2021,519,Ohio,14,7,0,21
-2021,30119,Ohio Dominican,15,7,0,22
+2021,2713,Oglethorpe,7,2,0,9
+2021,519,Ohio,15,10,0,25
+2021,30119,Ohio Dominican,16,8,0,24
 2021,517,Ohio Northern,7,8,0,15
 2021,518,Ohio St.,13,7,0,20
-2021,15207,Ohio Valley,0,20,0,20
-2021,520,Ohio Wesleyan,6,2,0,8
+2021,15207,Ohio Valley,0,22,0,22
+2021,520,Ohio Wesleyan,8,2,0,10
 2021,30202,Okla. Baptist,4,17,0,21
 2021,30179,Okla. Christian,7,8,0,15
-2021,522,Oklahoma,12,11,0,23
-2021,521,Oklahoma St.,17,7,0,24
-2021,523,Old Dominion,12,10,0,22
-2021,433,Ole Miss,11,11,0,22
+2021,522,Oklahoma,12,12,0,24
+2021,521,Oklahoma St.,19,9,0,28
+2021,523,Old Dominion,13,11,0,24
+2021,433,Ole Miss,15,12,0,27
 2021,525,Olivet,1,9,0,10
 2021,464,Omaha,7,13,0,20
 2021,527,Oral Roberts,6,15,0,21
-2021,529,Oregon,13,8,0,21
-2021,528,Oregon St.,11,7,0,18
+2021,529,Oregon,15,9,0,24
+2021,528,Oregon St.,12,8,0,20
 2021,531,Otterbein,8,5,0,13
 2021,1289,Ouachita Baptist,4,5,0,9
 2021,23008,Ozarks (AR),1,14,0,15
 2021,534,Pacific,11,11,0,22
+2021,2751,Pacific (OR),2,2,0,4
 2021,1297,Pacific Lutheran,3,9,0,12
-2021,30045,Palm Beach Atl.,1,6,0,7
+2021,30045,Palm Beach Atl.,4,7,0,11
 2021,539,Penn St.,9,15,0,24
-2021,541,Pepperdine,5,18,0,23
+2021,541,Pepperdine,5,19,0,24
 2021,542,Pfeiffer,4,6,0,10
 2021,21830,Piedmont,15,5,0,20
 2021,1314,Pittsburg St.,14,9,0,23
 2021,545,Pittsburgh,5,14,0,19
 2021,548,Plymouth St.,1,4,0,5
 2021,30149,Point Loma,8,6,0,14
-2021,551,Portland,12,12,0,24
+2021,551,Portland,14,13,0,27
 2021,550,Portland St.,12,13,0,25
-2021,553,Prairie View,3,13,0,16
+2021,553,Prairie View,3,14,0,17
 2021,1320,Presbyterian,11,10,0,21
 2021,556,Providence,7,14,0,21
 2021,557,Puget Sound,5,6,0,11
@@ -565,162 +579,168 @@ year,team_id,team_name,wins,losses,ties,total_games
 2021,563,Radford,9,11,0,20
 2021,566,Randolph,2,7,0,9
 2021,565,Randolph-Macon,4,0,0,4
+2021,567,Redlands,0,3,0,3
 2021,568,Regis (CO),8,11,0,19
-2021,572,Rhode Island,11,7,0,18
+2021,572,Rhode Island,11,8,0,19
 2021,571,Rhode Island Col.,11,0,0,11
-2021,573,Rhodes,8,3,0,11
-2021,574,Rice,16,3,0,19
-2021,575,Richmond,12,8,0,20
-2021,576,Rider,8,17,0,25
-2021,577,Ripon,2,0,0,2
+2021,573,Rhodes,10,3,0,13
+2021,574,Rice,25,4,0,29
+2021,575,Richmond,13,9,0,22
+2021,576,Rider,8,18,0,26
+2021,577,Ripon,3,0,0,3
 2021,578,Roanoke,10,3,0,13
 2021,579,Robert Morris,4,13,0,17
-2021,30150,Roberts Wesleyan,10,6,0,16
-2021,581,Rochester (NY),4,1,0,5
+2021,30150,Roberts Wesleyan,12,7,0,19
+2021,581,Rochester (NY),5,1,0,6
 2021,582,Rockford,0,9,0,9
 2021,1328,Rockhurst,8,12,0,20
 2021,30180,Rogers St.,6,17,0,23
-2021,584,Rollins,0,0,1,1
+2021,584,Rollins,0,2,0,2
 2021,585,Rose-Hulman,2,6,0,8
-2021,587,Rutgers,14,3,0,17
+2021,587,Rutgers,14,5,0,19
 2021,588,Rutgers-Camden,0,6,0,6
 2021,589,Rutgers-Newark,2,5,0,7
 2021,11276,USC Aiken,2,5,0,7
 2021,102,Sacramento St.,3,22,0,25
 2021,590,Sacred Heart,8,10,0,18
-2021,11036,Russell Sage,1,0,0,1
+2021,11036,Russell Sage,2,4,0,6
 2021,591,Saginaw Valley,10,10,0,20
-2021,595,Saint Benedict,4,4,0,8
+2021,595,Saint Benedict,4,5,0,9
 2021,600,Saint Francis (PA),14,9,0,23
-2021,606,Saint Joseph's,7,9,0,16
-2021,608,Saint Leo,2,2,0,4
-2021,609,Saint Louis,11,3,0,14
+2021,606,Saint Joseph's,7,10,0,17
+2021,608,Saint Leo,3,3,0,6
+2021,609,Saint Louis,14,5,0,19
 2021,1343,Saint Martin's,7,6,0,13
 2021,610,Saint Mary's (CA),7,19,0,26
 2021,612,Saint Mary's (MN),2,3,0,5
-2021,617,Saint Peter's,11,14,0,25
+2021,617,Saint Peter's,13,15,0,28
 2021,1347,Saint Rose,0,7,0,7
-2021,30064,Saint Vincent,7,0,0,7
+2021,30064,Saint Vincent,10,0,0,10
 2021,19117,Salem (WV),0,5,0,5
 2021,622,Salisbury,6,0,0,6
-2021,624,Sam Houston,13,7,0,20
-2021,625,Samford,14,9,0,23
+2021,623,Salve Regina,1,0,0,1
+2021,624,Sam Houston,16,8,0,24
+2021,625,Samford,14,11,0,25
 2021,627,San Diego,12,7,0,19
-2021,626,San Diego St.,7,17,0,24
-2021,629,San Francisco,15,10,0,25
+2021,626,San Diego St.,7,18,0,25
+2021,629,San Francisco,16,12,0,28
 2021,630,San Jose St.,2,2,0,4
 2021,631,Santa Clara,14,11,0,25
+2021,30163,Sarah Lawrence,1,3,1,5
 2021,632,Savannah St.,5,2,0,7
-2021,1355,Schreiner,5,4,0,9
+2021,1355,Schreiner,7,4,0,11
 2021,633,Scranton,7,1,0,8
 2021,634,Seattle Pacific,7,7,0,14
-2021,1356,Seattle U,11,14,0,25
+2021,1356,Seattle U,11,16,0,27
 2021,635,Seton Hall,14,7,0,21
-2021,676,SFA,22,2,0,24
+2021,676,SFA,24,3,0,27
 2021,637,Shenandoah,4,7,0,11
-2021,10870,Shepherd,1,1,0,2
+2021,10870,Shepherd,2,1,0,3
 2021,30151,Shorter,5,15,0,20
 2021,639,Siena,4,9,0,13
-2021,641,Simpson,10,0,0,10
+2021,641,Simpson,12,0,0,12
 2021,30128,Sioux Falls,8,6,0,14
 2021,660,SIUE,6,19,0,25
 2021,663,SMU,0,6,0,6
 2021,646,South Alabama,13,13,0,26
-2021,648,South Carolina,22,4,0,26
+2021,648,South Carolina,26,5,0,31
 2021,647,South Carolina St.,1,9,0,10
-2021,650,South Dakota,19,5,0,24
+2021,650,South Dakota,19,6,0,25
 2021,30139,South Dakota Mines,10,9,0,19
-2021,649,South Dakota St.,21,3,0,24
-2021,651,South Fla.,17,3,0,20
+2021,649,South Dakota St.,21,4,0,25
+2021,651,South Fla.,19,4,0,23
 2021,654,Southeast Mo. St.,15,11,0,26
-2021,655,Southeastern La.,11,7,0,18
+2021,655,Southeastern La.,11,8,0,19
 2021,1371,Southeastern Okla.,13,8,0,21
 2021,1376,Southern Ark.,4,10,0,14
 2021,657,Southern California,11,12,0,23
-2021,659,Southern Ill.,8,15,0,23
+2021,659,Southern Ill.,9,16,0,25
 2021,661,Southern Ind.,11,5,0,16
 2021,662,Southern Me.,1,5,0,6
 2021,664,Southern Miss.,7,12,0,19
-2021,30152,Southern Nazarene,12,7,0,19
-2021,665,Southern U.,11,10,0,21
+2021,30152,Southern Nazarene,12,8,0,20
+2021,665,Southern U.,12,11,0,23
 2021,667,Southern Utah,11,9,0,20
-2021,30164,Southern Va.,0,6,0,6
+2021,30164,Southern Va.,1,6,0,7
 2021,30192,Southern Wesleyan,1,16,0,17
 2021,2755,Southwest Baptist,5,14,0,19
 2021,8736,Southwest Minn. St.,9,5,0,14
-2021,8746,Southwestern (TX),2,7,0,9
-2021,8744,Southwestern Okla.,17,3,0,20
-2021,23260,Spalding,1,3,0,4
+2021,8746,Southwestern (TX),2,9,0,11
+2021,8744,Southwestern Okla.,18,4,0,22
+2021,23260,Spalding,3,3,0,6
 2021,30191,Spring Hill,3,5,0,8
 2021,596,St. Bonaventure,6,15,0,21
-2021,598,St. Cloud St.,12,5,0,17
+2021,597,St. Catherine,1,2,0,3
+2021,598,St. Cloud St.,12,6,0,18
 2021,1334,St. Edward's,6,11,0,17
 2021,599,St. Francis Brooklyn,4,10,0,14
-2021,601,St. John Fisher,3,1,0,4
+2021,601,St. John Fisher,8,2,0,10
 2021,603,St. John's (NY),8,15,0,23
-2021,605,St. Joseph's (ME),2,0,0,2
-2021,607,St. Lawrence,1,3,0,4
+2021,605,St. Joseph's (ME),5,1,0,6
+2021,607,St. Lawrence,5,4,0,9
 2021,611,St. Mary's (MD),3,6,0,9
 2021,1346,St. Mary's (TX),6,9,0,15
+2021,615,St. Olaf,0,1,0,1
 2021,618,St. Scholastica,0,9,0,9
 2021,620,St. Thomas (MN),6,1,0,7
 2021,1348,St. Thomas Aquinas,5,9,0,14
-2021,674,Stanford,25,2,0,27
-2021,678,Stetson,9,12,0,21
-2021,679,Stevens,1,1,0,2
-2021,21852,Stevenson,3,5,0,8
+2021,674,Stanford,31,2,0,33
+2021,678,Stetson,10,15,0,25
+2021,679,Stevens,2,1,0,3
+2021,21852,Stevenson,5,6,0,11
 2021,681,Stockton,1,5,0,6
-2021,683,Stony Brook,14,5,0,19
-2021,684,Suffolk,3,1,0,4
-2021,1390,Sul Ross St.,10,14,0,24
-2021,688,Syracuse,14,8,0,22
-2021,689,Tampa,3,0,0,3
-2021,1395,Tarleton St.,9,16,0,25
-2021,712,TCNJ,9,0,0,9
-2021,698,TCU,9,14,0,23
+2021,683,Stony Brook,15,6,0,21
+2021,684,Suffolk,7,1,0,8
+2021,1390,Sul Ross St.,10,15,0,25
+2021,30165,SUNY Canton,0,4,1,5
+2021,688,Syracuse,15,9,0,24
+2021,689,Tampa,7,0,0,7
+2021,1395,Tarleton St.,9,18,0,27
+2021,712,TCNJ,9,1,0,10
+2021,698,TCU,10,15,0,25
 2021,690,Temple,11,11,0,22
-2021,694,Tennessee,16,7,0,23
+2021,694,Tennessee,17,8,0,25
 2021,691,Tennessee St.,0,22,0,22
 2021,692,Tennessee Tech,15,10,0,25
 2021,30090,Tex. A&M Int'l,13,5,0,18
-2021,199,Tex. A&M-Commerce,13,4,0,17
+2021,199,Tex. A&M-Commerce,14,5,0,19
 2021,696,Tex. A&M-Kingsville,8,8,0,16
 2021,30088,Tex. Permian Basin,6,13,0,19
-2021,703,Texas,17,8,0,25
-2021,697,Texas A&M,23,2,0,25
-2021,1400,Texas Lutheran,5,3,0,8
+2021,703,Texas,21,10,0,31
+2021,697,Texas A&M,25,3,0,28
+2021,1400,Texas Lutheran,5,4,0,9
 2021,699,Texas Southern,5,11,0,16
 2021,670,Texas St.,11,11,0,22
-2021,700,Texas Tech,10,14,0,24
+2021,700,Texas Tech,11,15,0,26
 2021,701,Texas Woman's,5,9,0,14
 2021,23121,Texas-Dallas,14,4,0,18
-2021,30028,Texas-Tyler,0,16,0,16
-2021,707,Thiel,1,7,0,8
+2021,30028,UT Tyler,0,16,0,16
+2021,707,Thiel,1,8,0,9
 2021,2758,Thomas (ME),0,3,0,3
-2021,1403,Tiffin,16,8,0,24
+2021,1403,Tiffin,20,10,0,30
 2021,709,Toledo,12,12,0,24
-2021,711,Towson,13,8,0,21
+2021,711,Towson,13,9,0,22
 2021,28749,Transylvania,14,6,0,20
-2021,30002,Trevecca Nazarene,6,7,0,13
+2021,30002,Trevecca Nazarene,6,9,0,15
 2021,30037,Trine,14,3,0,17
-2021,715,Trinity (TX),8,2,0,10
-2021,716,Troy,22,5,0,27
-2021,499,Truman,16,4,0,20
-2021,718,Tulane,17,8,0,25
+2021,715,Trinity (TX),10,2,0,12
+2021,716,Troy,22,6,0,28
+2021,499,Truman St.,17,5,0,22
+2021,718,Tulane,18,9,0,27
 2021,719,Tulsa,5,14,0,19
-2021,12830,Tusculum,18,3,0,21
-2021,720,Tuskegee,12,1,0,13
+2021,12830,Tusculum,19,4,0,23
+2021,720,Tuskegee,12,2,0,14
 2021,1255,U New England,3,1,0,4
 2021,9,UAB,10,13,0,23
-2021,108,UC Davis,11,2,0,13
-2021,109,UC Irvine,14,8,0,22
-2021,111,UC Riverside,7,12,0,19
+2021,108,UC Davis,13,3,0,16
+2021,109,UC Irvine,15,10,0,25
+2021,111,UC Riverside,7,13,0,20
 2021,112,UC San Diego,6,9,0,15
-2021,104,UC Santa Barbara,7,14,0,21
+2021,104,UC Santa Barbara,7,15,0,22
 2021,9754,UC-Colo. Springs,5,12,0,17
-2021,128,UCF,16,3,0,19
-2021,110,UCLA,16,5,0,21
-2021,164,UConn,24,1,0,25
+2021,128,UCF,16,5,0,21
+2021,110,UCLA,17,6,0,23
+2021,164,UConn,28,2,0,30
 2021,302,UIC,3,16,0,19
 2021,309,UIndy,11,11,0,22
 2021,656,UMass Dartmouth,5,4,0,9
@@ -730,47 +750,48 @@ year,team_id,team_name,wins,losses,ties,total_games
 2021,456,UNC Asheville,10,15,0,25
 2021,459,UNC Greensboro,8,16,0,24
 2021,537,UNC Pembroke,3,14,0,17
-2021,460,UNCW,7,13,0,20
-2021,504,UNI,14,11,0,25
-2021,30153,Union (TN),18,5,0,23
+2021,460,UNCW,7,14,0,21
+2021,504,UNI,17,13,0,30
+2021,30153,Union (TN),19,6,0,25
 2021,465,UNLV,15,9,0,24
 2021,728,Upper Iowa,1,15,0,16
-2021,30140,Ursuline,9,12,0,21
+2021,30140,Ursuline,9,14,0,23
 2021,10411,USC Upstate,8,15,0,23
 2021,702,UT Arlington,13,7,0,20
-2021,695,UT Martin,20,5,0,25
+2021,695,UT Martin,22,6,0,28
 2021,732,Utah,5,16,0,21
 2021,731,Utah St.,4,20,0,24
-2021,30024,Utah Valley,13,5,0,18
-2021,704,UTEP,16,7,0,23
-2021,536,UTRGV,6,14,0,20
+2021,30024,Utah Valley,13,9,0,22
+2021,704,UTEP,17,8,0,25
+2021,536,UTRGV,6,16,0,22
 2021,706,UTSA,2,18,0,20
-2021,30181,UVa-Wise,15,5,0,20
+2021,30181,UVA Wise,15,5,0,20
 2021,745,Va. Wesleyan,5,7,0,12
-2021,734,Valdosta St.,17,3,0,20
+2021,734,Valdosta St.,18,4,0,22
 2021,30166,Valley Forge,1,1,0,2
-2021,735,Valparaiso,11,12,0,23
+2021,735,Valparaiso,12,13,0,25
 2021,736,Vanderbilt,4,4,0,8
-2021,740,VCU,12,10,0,22
+2021,740,VCU,16,11,0,27
 2021,738,Vermont,4,2,0,6
-2021,739,Villanova,15,6,0,21
+2021,739,Villanova,17,7,0,24
 2021,746,Virginia,0,5,0,5
-2021,742,Virginia Tech,14,9,0,23
-2021,748,Wagner,13,5,0,18
-2021,749,Wake Forest,12,12,0,24
-2021,30141,Walsh,16,6,0,22
+2021,742,Virginia Tech,15,10,0,25
+2021,748,Wagner,13,6,0,19
+2021,749,Wake Forest,12,13,0,25
+2021,30141,Walsh,19,8,0,27
 2021,750,Wartburg,13,3,0,16
-2021,751,Wash. & Jeff.,6,0,0,6
+2021,751,Wash. & Jeff.,8,1,0,9
 2021,752,Wash. & Lee,5,3,0,8
 2021,2814,Washburn,12,12,0,24
 2021,756,Washington,7,14,0,21
-2021,754,Washington St.,12,11,0,23
+2021,754,Washington St.,12,12,0,24
 2021,757,Wayne St. (MI),12,8,0,20
 2021,1433,Wayne St. (NE),6,10,0,16
-2021,1434,Waynesburg,2,7,0,9
+2021,1434,Waynesburg,3,8,0,11
 2021,758,Weber St.,2,20,0,22
-2021,759,Webster,3,1,0,4
-2021,761,Wells,0,2,0,2
+2021,759,Webster,9,1,0,10
+2021,761,Wells,0,4,0,4
+2021,762,Wentworth,0,1,0,1
 2021,14718,Wesleyan (GA),2,10,0,12
 2021,358,West Ala.,10,8,0,18
 2021,11740,West Florida,9,10,0,19
@@ -778,26 +799,26 @@ year,team_id,team_name,wins,losses,ties,total_games
 2021,1438,West Liberty,8,9,0,17
 2021,767,West Tex. A&M,15,6,0,21
 2021,9630,West Va. Wesleyan,6,11,0,17
-2021,768,West Virginia,19,5,0,24
+2021,768,West Virginia,22,7,0,29
 2021,1439,West Virginia St.,8,8,0,16
 2021,769,Western Caro.,6,18,0,24
 2021,771,Western Ill.,8,16,0,24
 2021,772,Western Ky.,7,16,0,23
 2021,774,Western Mich.,6,15,0,21
 2021,1445,Western N.M.,1,3,0,4
-2021,775,Western New Eng.,1,1,0,2
-2021,2759,Western Colo.,15,6,0,21
-2021,1448,Western Wash.,4,0,0,4
-2021,1450,Westminster (MO),5,2,0,7
-2021,1451,Westminster (PA),5,4,0,9
-2021,30209,Westminster (UT),11,5,0,16
+2021,775,Western New Eng.,2,2,0,4
+2021,2759,Western Colo.,15,7,0,22
+2021,1448,Western Wash.,6,0,0,6
+2021,1450,Westminster (MO),9,3,0,12
+2021,1451,Westminster (PA),6,5,0,11
+2021,30209,Westminster (UT),13,6,0,19
 2021,778,Wheaton (IL),11,1,0,12
 2021,12799,Wheeling,9,9,0,18
-2021,780,Whitman,8,2,0,10
+2021,780,Whitman,9,2,0,11
 2021,1454,Whitworth,4,4,0,8
 2021,782,Wichita St.,6,12,0,18
-2021,783,Widener,6,2,0,8
-2021,784,Wilkes,1,5,0,6
+2021,783,Widener,7,4,0,11
+2021,784,Wilkes,3,7,0,10
 2021,786,William & Mary,6,7,0,13
 2021,30120,William Jewell,12,12,0,24
 2021,17094,William Peace,10,5,0,15
@@ -805,7 +826,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2021,1462,Wingate,10,10,0,20
 2021,790,Winona St.,5,7,0,12
 2021,792,Winthrop,6,18,0,24
-2021,8911,Wis. Lutheran,11,1,0,12
+2021,8911,Wis. Lutheran,12,1,0,13
 2021,793,Wis.-Eau Claire,8,2,0,10
 2021,795,Wis.-La Crosse,5,5,0,10
 2021,798,Wis.-Oshkosh,9,2,0,11
@@ -820,10 +841,10 @@ year,team_id,team_name,wins,losses,ties,total_games
 2021,806,Wittenberg,5,3,0,8
 2021,787,Wm. Paterson,2,7,0,9
 2021,2915,Wofford,13,11,0,24
-2021,807,Wooster,0,6,0,6
-2021,810,Wright St.,18,7,0,25
-2021,811,Wyoming,14,9,0,23
+2021,807,Wooster,0,8,0,8
+2021,810,Wright St.,19,8,0,27
+2021,811,Wyoming,14,10,0,24
 2021,812,Xavier,5,10,0,15
-2021,814,Yeshiva,0,5,0,5
+2021,814,Yeshiva,1,6,0,7
 2021,30154,Young Harris,5,8,0,13
 2021,817,Youngstown St.,10,8,0,18

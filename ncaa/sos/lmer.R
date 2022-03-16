@@ -12,7 +12,7 @@ blas_set_num_threads(8)
 
 drv <- dbDriver("PostgreSQL")
 
-con <- dbConnect(drv,host="localhost",port="5432",dbname="basketball-w")
+con <- dbConnect(drv,dbname="basketball-w")
 
 query <- dbSendQuery(con, "
 select
@@ -29,7 +29,7 @@ ln(r.team_score::float) as log_ps
 from ncaa.results r
 
 where
-    r.year between 2002 and 2021
+    r.year between 2002 and 2022
 --and r.game_date < '2012/11/29'::date
 and r.school_div_id is not null
 and r.opponent_div_id is not null
